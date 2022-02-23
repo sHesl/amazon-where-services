@@ -1,0 +1,25 @@
+name: Daily Update
+on:
+  schedule:
+    - cron:  "0 5 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-go@v2
+      with:
+        go-version: '1.17.7'
+    - name: Run
+      id: run
+      run: |
+        go run execute.go
+        echo "::set-output name=date::$(date +'%Y-%m-%d')"
+    - name: Commit
+      run: |
+        git config --global user.name 'sHesl'
+        git config --global user.email 'sHesl@users.noreply.github.com'
+        git add .
+        git commit -m "automated update: ${{steps.run.outputs.date}}" || exit 0
+        git push

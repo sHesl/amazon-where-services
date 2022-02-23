@@ -1,0 +1,17 @@
+api.detective
+codebuild
+codecommit
+codedeploy
+dms
+dynamodb
+es
+guardduty
+kms
+rds
+s3-control
+secretsmanager
+servicecatalog
+servicediscovery
+storagegateway
+streams.dynamodb
+sts
