@@ -7,19 +7,19 @@ This dumb-bot just keeps an up to date representation of what runs where :)
 
 ### Structure
 A list of global services, relative to their partition, can be found at:
-`./global-services/$partition/$region`
+- `./global-services/$partition/$region`
 
 A list of which services are available, relative to their partition, can be found at:
 - `./partitions/$partition`
 
 A list of regional services, relative to their partition, can be found at:
-`./regional-services/$partition/$region`
+- `./regional-services/$partition/$region`
 
 A list of all services available in a given region, irrespective of partition, can be found at:
-`./regions/$region`
+- `./regions/$region`
 
 A list of which regions a given service operates in, irrespective of partition, can be found at:
-`./services/$region`
+- `./services/$region`
 
 A list of single-region services, relative to their partition, can be found at:
-`./single-region-services/$partition/$region`
+- `./single-region-services/$partition/$region`
