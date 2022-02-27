@@ -8,6 +8,7 @@ It achieves this by parsing the `botocore/data/endpoints.json` file from the `de
 and presenting the endpoints in a variety of different ways (by partition, by service, grouping all 
 global services together etc).
 
+Updates will be automatically committed back into the repo daily.
 
 ### Structure
 A list of global services, relative to their partition, can be found at:
