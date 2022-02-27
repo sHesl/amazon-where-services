@@ -1,9 +1,13 @@
 # AWS (amazon-where-services)
 
-Chasing down which AWS services are available in which regions is a bit of a pain; the AWS docs
-aren't very grepable and parsing `botocore/data/endpoints.json` is effort. 
+Chasing down which AWS services are available in which regions can be a bit of a pain; this repo 
+aims to keep an up to date reference for the available endpoints for all AWS services. 
 
-This dumb-bot just keeps an up to date representation of what runs where :)
+It achieves this by parsing the `botocore/data/endpoints.json` file from the `develop` branch of 
+`botocore` ([see here](https://github.com/boto/botocore/blob/develop/botocore/data/endpoints.json)), 
+and presenting the endpoints in a variety of different ways (by partition, by service, grouping all 
+global services together etc).
+
 
 ### Structure
 A list of global services, relative to their partition, can be found at:
