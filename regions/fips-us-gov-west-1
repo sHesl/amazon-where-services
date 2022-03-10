@@ -4,6 +4,7 @@ api.tunneling.iot
 athena
 batch
 cloudcontrolapi
+cloudtrail
 codepipeline
 cognito-identity
 cognito-idp
@@ -20,6 +21,7 @@ elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
 email
+events
 firehose
 fms
 fsx
@@ -33,6 +35,7 @@ kendra
 lakeformation
 lambda
 license-manager
+logs
 monitoring
 mq
 network-firewall
@@ -48,6 +51,7 @@ servicecatalog-appregistry
 servicequotas
 sms
 snowball
+sns
 ssm
 states
 support

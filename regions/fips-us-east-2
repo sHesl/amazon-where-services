@@ -3,6 +3,7 @@ acm-pca
 api.ecr
 api.fleethub.iot
 api.tunneling.iot
+apprunner
 athena
 batch
 cloudcontrolapi

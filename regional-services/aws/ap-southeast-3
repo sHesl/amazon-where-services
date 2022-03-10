@@ -4,6 +4,7 @@ api.ecr
 application-autoscaling
 autoscaling
 autoscaling-plans
+backup
 cloudcontrolapi
 cloudformation
 codedeploy
@@ -27,6 +28,7 @@ lambda
 logs
 metering.marketplace
 monitoring
+mq
 rds
 redshift
 resource-groups

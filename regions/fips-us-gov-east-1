@@ -4,6 +4,7 @@ api.tunneling.iot
 athena
 batch
 cloudcontrolapi
+cloudtrail
 config
 data.iot
 data.jobs.iot
@@ -14,6 +15,7 @@ eks
 elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
+events
 firehose
 fms
 fsx
@@ -25,6 +27,7 @@ iot
 iotsecuredtunneling
 lambda
 license-manager
+logs
 monitoring
 mq
 network-firewall
@@ -36,6 +39,7 @@ servicecatalog-appregistry
 servicequotas
 sms
 snowball
+sns
 ssm
 states
 textract
