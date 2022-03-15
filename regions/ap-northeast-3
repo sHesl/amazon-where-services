@@ -17,6 +17,7 @@ cloud9
 cloudcontrolapi
 cloudformation
 cloudhsmv2
+cloudtrail
 codebuild
 codecommit
 codedeploy
