@@ -33,6 +33,7 @@ autoscaling
 autoscaling-plans
 backup
 batch
+billingconductor
 braket
 budgets
 ce
