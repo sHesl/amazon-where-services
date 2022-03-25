@@ -10,6 +10,7 @@ elasticache
 es
 guardduty
 kms
+meetings-chime
 models.lex
 rds
 rekognition
