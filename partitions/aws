@@ -65,6 +65,7 @@ config
 connect
 contact-lens
 cur
+data-ats.iot
 data.iot
 data.jobs.iot
 data.mediastore

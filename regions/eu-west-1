@@ -52,6 +52,7 @@ comprehend
 comprehendmedical
 compute-optimizer
 config
+data-ats.iot
 data.iot
 data.jobs.iot
 data.mediastore

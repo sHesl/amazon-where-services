@@ -42,6 +42,7 @@ cognito-sync
 comprehend
 compute-optimizer
 config
+data-ats.iot
 data.iot
 data.jobs.iot
 databrew

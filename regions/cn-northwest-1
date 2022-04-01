@@ -14,6 +14,7 @@ autoscaling
 autoscaling-plans
 backup
 batch
+cloudcontrolapi
 cloudformation
 cloudtrail
 codebuild
@@ -23,6 +24,7 @@ codepipeline
 compute-optimizer
 config
 cur
+data-ats.iot
 data.iot
 data.jobs.iot
 databrew

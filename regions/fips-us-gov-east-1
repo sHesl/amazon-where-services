@@ -6,6 +6,7 @@ batch
 cloudcontrolapi
 cloudtrail
 config
+data-ats.iot
 data.iot
 data.jobs.iot
 datasync

@@ -4,6 +4,7 @@ api.fleethub.iot
 api.tunneling.iot
 cloudcontrolapi
 codepipeline
+data-ats.iot
 data.iot
 data.jobs.iot
 datasync

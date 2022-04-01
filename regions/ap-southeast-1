@@ -49,6 +49,7 @@ comprehend
 compute-optimizer
 config
 connect
+data-ats.iot
 data.iot
 data.jobs.iot
 databrew

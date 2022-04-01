@@ -36,6 +36,7 @@ redshift
 resource-groups
 s3
 secretsmanager
+servicequotas
 sns
 sqs
 ssm

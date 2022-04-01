@@ -9,6 +9,7 @@ cloudtrail
 codepipeline
 cognito-idp
 config
+data-ats.iot
 data.iot
 data.jobs.iot
 datasync

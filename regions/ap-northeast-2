@@ -44,6 +44,7 @@ compute-optimizer
 config
 connect
 contact-lens
+data-ats.iot
 data.iot
 data.jobs.iot
 data.mediastore

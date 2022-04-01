@@ -17,6 +17,7 @@ backup
 batch
 budgets
 ce
+cloudcontrolapi
 cloudformation
 cloudfront
 cloudtrail
@@ -28,6 +29,7 @@ cognito-identity
 compute-optimizer
 config
 cur
+data-ats.iot
 data.iot
 data.jobs.iot
 databrew
