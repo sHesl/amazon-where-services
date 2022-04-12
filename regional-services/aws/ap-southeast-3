@@ -37,6 +37,7 @@ redshift
 resource-groups
 s3
 secretsmanager
+servicecatalog-appregistry
 servicequotas
 sns
 sqs

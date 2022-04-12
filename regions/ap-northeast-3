@@ -74,6 +74,7 @@ s3-outposts
 secretsmanager
 securityhub
 servicecatalog
+servicecatalog-appregistry
 servicequotas
 snowball
 sns
