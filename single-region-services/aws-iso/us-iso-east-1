@@ -4,6 +4,7 @@ comprehend
 datapipeline
 ds
 ebs
+eks
 es
 firehose
 health

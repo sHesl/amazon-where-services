@@ -16,6 +16,7 @@ dynamodb
 ebs
 ec2
 ecs
+eks
 elasticache
 elasticfilesystem
 elasticloadbalancing
