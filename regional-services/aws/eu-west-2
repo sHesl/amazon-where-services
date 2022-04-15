@@ -157,6 +157,7 @@ servicediscovery
 servicequotas
 session.qldb
 sms
+sms-voice
 snowball
 sns
 sqs

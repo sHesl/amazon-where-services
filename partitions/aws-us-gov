@@ -114,6 +114,7 @@ servicecatalog-appregistry
 servicediscovery
 servicequotas
 sms
+sms-voice
 snowball
 sns
 sqs
