@@ -22,6 +22,7 @@ iotsecuredtunneling
 mediaconvert
 network-firewall
 outposts
+qldb
 ram
 redshift
 s3
