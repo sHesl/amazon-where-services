@@ -10,6 +10,7 @@ cloudformation
 cloudtrail
 codedeploy
 config
+datasync
 directconnect
 dms
 dynamodb
