@@ -136,6 +136,7 @@ monitoring
 mq
 neptune
 network-firewall
+nimble
 oidc
 opsworks
 opsworks-cm

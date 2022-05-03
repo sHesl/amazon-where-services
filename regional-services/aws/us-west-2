@@ -115,6 +115,7 @@ iotthingsgraph
 iottwinmaker
 iotwireless
 ivs
+ivschat
 kafka
 kafkaconnect
 kendra
@@ -131,6 +132,7 @@ lookoutmetrics
 lookoutvision
 macie
 macie2
+media-pipelines-chime
 mediaconnect
 mediaconvert
 medialive

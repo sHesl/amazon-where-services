@@ -12,6 +12,7 @@ elasticache
 es
 guardduty
 kms
+media-pipelines-chime
 meetings-chime
 models.lex
 rds

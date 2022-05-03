@@ -133,6 +133,7 @@ iotthingsgraph
 iottwinmaker
 iotwireless
 ivs
+ivschat
 kafka
 kafkaconnect
 kendra
@@ -153,6 +154,7 @@ macie
 macie2
 managedblockchain
 marketplacecommerceanalytics
+media-pipelines-chime
 mediaconnect
 mediaconvert
 medialive

@@ -36,6 +36,7 @@ ram
 rds
 redshift
 resource-groups
+route53resolver
 s3
 secretsmanager
 servicecatalog-appregistry

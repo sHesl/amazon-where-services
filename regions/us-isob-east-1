@@ -27,6 +27,7 @@ lambda
 license-manager
 logs
 monitoring
+ram
 rds
 redshift
 route53
