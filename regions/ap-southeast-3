@@ -1,5 +1,6 @@
 access-analyzer
 acm
+acm-pca
 api.ecr
 application-autoscaling
 autoscaling
@@ -53,4 +54,5 @@ sts
 swf
 synthetics
 tagging
+waf-regional
 xray
