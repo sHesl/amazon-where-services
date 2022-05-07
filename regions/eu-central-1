@@ -91,6 +91,7 @@ grafana
 greengrass
 groundstation
 guardduty
+identity-chime
 identitystore
 inspector
 inspector2
@@ -124,6 +125,7 @@ mediapackage
 mediapackage-vod
 mediastore
 meetings-chime
+messaging-chime
 metering.marketplace
 mgh
 mgn
