@@ -25,6 +25,7 @@ elasticloadbalancing
 elasticmapreduce
 es
 events
+firehose
 glacier
 guardduty
 kinesis
