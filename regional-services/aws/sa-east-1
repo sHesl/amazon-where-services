@@ -102,6 +102,7 @@ ram
 rbin
 rds
 redshift
+resiliencehub
 resource-groups
 route53resolver
 runtime.sagemaker
