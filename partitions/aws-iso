@@ -1,6 +1,7 @@
 api.ecr
 api.sagemaker
 apigateway
+appconfigdata
 application-autoscaling
 autoscaling
 cloudformation
