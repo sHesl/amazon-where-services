@@ -133,6 +133,7 @@ pi
 polly
 portal.sso
 projects.iot1click
+proton
 qldb
 quicksight
 ram
@@ -177,4 +178,5 @@ transcribestreaming
 transfer
 translate
 waf-regional
+wellarchitected
 xray
