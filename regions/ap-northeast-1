@@ -78,6 +78,7 @@ elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
 elastictranscoder
+email
 emr-containers
 es
 events
