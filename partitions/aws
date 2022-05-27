@@ -32,6 +32,7 @@ auditmanager
 autoscaling
 autoscaling-plans
 backup
+backup-gateway
 batch
 billingconductor
 braket
@@ -94,6 +95,7 @@ elasticmapreduce
 elastictranscoder
 email
 emr-containers
+emr-serverless
 entitlement.marketplace
 es
 events

@@ -25,6 +25,7 @@ auditmanager
 autoscaling
 autoscaling-plans
 backup
+backup-gateway
 batch
 braket
 cloud9

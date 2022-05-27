@@ -28,6 +28,7 @@ auditmanager
 autoscaling
 autoscaling-plans
 backup
+backup-gateway
 batch
 cloud9
 cloudcontrolapi
@@ -79,6 +80,7 @@ elasticmapreduce
 elastictranscoder
 email
 emr-containers
+emr-serverless
 es
 events
 evidently

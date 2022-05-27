@@ -12,6 +12,7 @@ athena
 autoscaling
 autoscaling-plans
 backup
+backup-gateway
 batch
 cloudcontrolapi
 cloudformation

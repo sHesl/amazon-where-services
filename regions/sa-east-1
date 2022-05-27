@@ -19,6 +19,7 @@ athena
 autoscaling
 autoscaling-plans
 backup
+backup-gateway
 batch
 cloud9
 cloudcontrolapi
