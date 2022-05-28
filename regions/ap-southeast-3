@@ -6,6 +6,7 @@ application-autoscaling
 autoscaling
 autoscaling-plans
 backup
+batch
 cloudcontrolapi
 cloudformation
 cloudtrail
