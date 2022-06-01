@@ -12,6 +12,7 @@ api.fleethub.iot
 api.sagemaker
 api.tunneling.iot
 apigateway
+app-integrations
 appconfigdata
 appflow
 application-autoscaling

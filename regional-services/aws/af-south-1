@@ -5,6 +5,7 @@ api.detective
 api.ecr
 api.sagemaker
 apigateway
+app-integrations
 appconfigdata
 appflow
 application-autoscaling
