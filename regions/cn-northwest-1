@@ -65,6 +65,7 @@ lambda
 license-manager
 logs
 mediaconvert
+memory-db
 monitoring
 mq
 neptune

@@ -36,7 +36,6 @@ resource-groups
 s3
 s3-outposts
 securityhub
-servicecatalog-appregistry
 servicequotas
 sms
 snowball

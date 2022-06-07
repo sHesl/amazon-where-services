@@ -100,6 +100,7 @@ iotanalytics
 iotevents
 ioteventsdata
 iotsecuredtunneling
+iotsitewise
 kafka
 kafkaconnect
 kendra
@@ -120,6 +121,7 @@ mediaconvert
 medialive
 mediapackage
 mediapackage-vod
+memory-db
 metering.marketplace
 mgn
 monitoring

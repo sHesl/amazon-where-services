@@ -73,6 +73,7 @@ lakeformation
 lambda
 license-manager
 logs
+memory-db
 monitoring
 mq
 neptune

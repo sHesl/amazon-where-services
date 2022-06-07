@@ -82,7 +82,10 @@ guardduty
 identitystore
 inspector2
 iot
+iotevents
+ioteventsdata
 iotsecuredtunneling
+iotsitewise
 kafka
 kafkaconnect
 kendra
@@ -97,6 +100,7 @@ lightsail
 logs
 macie2
 mediaconvert
+memory-db
 metering.marketplace
 mgn
 models-v2-lex
