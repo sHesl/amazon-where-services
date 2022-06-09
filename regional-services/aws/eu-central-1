@@ -117,6 +117,7 @@ lightsail
 logs
 lookoutmetrics
 lookoutvision
+m2
 macie2
 media-pipelines-chime
 mediaconnect
@@ -155,6 +156,7 @@ ram
 rbin
 rds
 redshift
+redshift-serverless
 rekognition
 resiliencehub
 resource-groups

@@ -122,6 +122,7 @@ license-manager
 lightsail
 logs
 lookoutmetrics
+m2
 macie2
 mediaconnect
 mediaconvert
@@ -157,6 +158,7 @@ ram
 rbin
 rds
 redshift
+redshift-serverless
 rekognition
 resiliencehub
 resource-groups

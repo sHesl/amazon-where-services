@@ -128,6 +128,7 @@ logs
 lookoutequipment
 lookoutmetrics
 lookoutvision
+m2
 machinelearning
 macie2
 managedblockchain
@@ -165,6 +166,7 @@ ram
 rbin
 rds
 redshift
+redshift-serverless
 rekognition
 resiliencehub
 resource-groups
