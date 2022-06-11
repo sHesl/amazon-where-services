@@ -21,6 +21,7 @@ ec2
 ecs
 eks
 elasticache
+elasticbeanstalk
 elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
@@ -44,6 +45,8 @@ resource-groups
 route53resolver
 s3
 secretsmanager
+securityhub
+servicecatalog
 servicecatalog-appregistry
 servicequotas
 sns
