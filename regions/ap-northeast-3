@@ -26,6 +26,7 @@ config
 datasync
 directconnect
 dms
+drs
 ds
 dynamodb
 ebs
@@ -93,4 +94,5 @@ synthetics
 tagging
 transfer
 waf-regional
+wafv2
 xray

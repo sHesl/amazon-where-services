@@ -56,6 +56,7 @@ datasync
 directconnect
 dms
 docdb
+drs
 ds
 dynamodb
 ebs
@@ -137,6 +138,7 @@ ram
 rbin
 rds
 redshift
+redshift-serverless
 rekognition
 resiliencehub
 resource-groups
@@ -174,6 +176,7 @@ transcribestreaming
 transfer
 translate
 waf-regional
+wafv2
 wellarchitected
 workspaces
 xray

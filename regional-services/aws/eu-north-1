@@ -47,6 +47,7 @@ databrew
 datasync
 directconnect
 dms
+drs
 ds
 dynamodb
 ebs
@@ -110,6 +111,7 @@ ram
 rbin
 rds
 redshift
+redshift-serverless
 resiliencehub
 resource-groups
 route53resolver
@@ -143,5 +145,6 @@ transcribe
 transfer
 translate
 waf-regional
+wafv2
 wellarchitected
 xray

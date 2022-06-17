@@ -36,6 +36,7 @@ data.jobs.iot
 datasync
 directconnect
 dms
+drs
 ds
 dynamodb
 ebs
@@ -110,5 +111,6 @@ tagging
 transcribe
 transfer
 waf-regional
+wafv2
 wellarchitected
 xray

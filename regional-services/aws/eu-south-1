@@ -32,6 +32,7 @@ databrew
 datasync
 directconnect
 dms
+drs
 ds
 dynamodb
 ebs
@@ -70,6 +71,7 @@ mq
 network-firewall
 outposts
 pi
+portal.sso
 ram
 rbin
 rds
@@ -100,4 +102,5 @@ synthetics
 tagging
 transfer
 waf-regional
+wafv2
 xray

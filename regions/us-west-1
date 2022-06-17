@@ -47,6 +47,7 @@ datasync
 dax
 directconnect
 dms
+drs
 ds
 dynamodb
 ebs
@@ -139,5 +140,6 @@ transcribe
 transfer
 translate
 waf-regional
+wafv2
 wellarchitected
 xray

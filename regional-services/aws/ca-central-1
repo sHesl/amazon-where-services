@@ -54,6 +54,7 @@ datasync
 directconnect
 dms
 docdb
+drs
 ds
 dynamodb
 ebs
@@ -163,6 +164,7 @@ transcribestreaming
 transfer
 translate
 waf-regional
+wafv2
 wellarchitected
 workspaces
 xray

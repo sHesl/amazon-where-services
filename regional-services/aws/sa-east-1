@@ -45,6 +45,7 @@ dax
 directconnect
 dms
 docdb
+drs
 ds
 dynamodb
 ebs
@@ -139,6 +140,7 @@ transcribe
 transcribestreaming
 transfer
 waf-regional
+wafv2
 wellarchitected
 workspaces
 xray

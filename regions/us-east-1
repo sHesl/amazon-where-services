@@ -198,6 +198,7 @@ ram
 rbin
 rds
 redshift
+redshift-serverless
 rekognition
 resiliencehub
 resource-groups
@@ -248,6 +249,7 @@ translate
 voiceid
 waf
 waf-regional
+wafv2
 wellarchitected
 wisdom
 workdocs
