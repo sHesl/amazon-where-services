@@ -50,6 +50,7 @@ comprehendmedical
 compute-optimizer
 config
 connect
+connect-campaigns
 contact-lens
 data-ats.iot
 data.iot
