@@ -10,6 +10,7 @@ batch
 cloudcontrolapi
 cloudformation
 cloudtrail
+codebuild
 codedeploy
 config
 datasync

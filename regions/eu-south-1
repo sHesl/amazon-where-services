@@ -69,6 +69,7 @@ mgn
 monitoring
 mq
 network-firewall
+oidc
 outposts
 pi
 portal.sso

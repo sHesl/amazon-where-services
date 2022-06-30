@@ -9,6 +9,7 @@ api.detective
 api.ecr
 api.elastic-inference
 api.fleethub.iot
+api.iotdeviceadvisor
 api.iotwireless
 api.mediatailor
 api.sagemaker
@@ -176,6 +177,7 @@ ram
 rbin
 rds
 redshift
+redshift-serverless
 rekognition
 resiliencehub
 resource-groups
