@@ -77,9 +77,11 @@ monitoring
 mq
 neptune
 network-firewall
+oidc
 outposts
 pi
 polly
+portal.sso
 ram
 rbin
 rds

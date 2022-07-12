@@ -13,6 +13,7 @@ ecs
 elasticache
 elasticloadbalancing
 elasticmapreduce
+es
 events
 glacier
 kinesis

@@ -3,6 +3,7 @@ acm
 acm-pca
 airflow
 amplify
+amplifybackend
 amplifyuibuilder
 api.detective
 api.ecr
