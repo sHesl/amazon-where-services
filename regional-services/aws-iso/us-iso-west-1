@@ -1,4 +1,5 @@
 api.ecr
+appconfig
 application-autoscaling
 autoscaling
 cloudformation

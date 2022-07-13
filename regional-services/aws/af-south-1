@@ -6,6 +6,7 @@ api.ecr
 api.sagemaker
 apigateway
 app-integrations
+appconfig
 appconfigdata
 appflow
 application-autoscaling
@@ -30,6 +31,7 @@ connect
 databrew
 datasync
 directconnect
+dlm
 dms
 drs
 ds

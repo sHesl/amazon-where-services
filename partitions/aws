@@ -19,6 +19,7 @@ api.sagemaker
 api.tunneling.iot
 apigateway
 app-integrations
+appconfig
 appconfigdata
 appflow
 application-autoscaling
@@ -81,6 +82,7 @@ dax
 devicefarm
 directconnect
 discovery
+dlm
 dms
 docdb
 drs

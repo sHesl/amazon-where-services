@@ -5,6 +5,7 @@ api.detective
 api.ecr
 api.tunneling.iot
 apigateway
+appconfig
 appconfigdata
 application-autoscaling
 applicationinsights
@@ -27,6 +28,7 @@ data.iot
 data.jobs.iot
 datasync
 directconnect
+dlm
 dms
 ds
 dynamodb

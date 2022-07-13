@@ -4,6 +4,7 @@ acm-pca
 api.ecr
 api.sagemaker
 apigateway
+appconfig
 appconfigdata
 application-autoscaling
 applicationinsights
@@ -25,6 +26,7 @@ codedeploy
 config
 datasync
 directconnect
+dlm
 dms
 drs
 ds

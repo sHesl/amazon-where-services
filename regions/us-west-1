@@ -9,6 +9,7 @@ api.ecr
 api.sagemaker
 api.tunneling.iot
 apigateway
+appconfig
 appconfigdata
 appflow
 application-autoscaling
@@ -47,6 +48,7 @@ dataexchange
 datasync
 dax
 directconnect
+dlm
 dms
 drs
 ds

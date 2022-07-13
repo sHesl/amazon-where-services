@@ -11,6 +11,7 @@ api.fleethub.iot
 api.sagemaker
 api.tunneling.iot
 apigateway
+appconfig
 appconfigdata
 application-autoscaling
 applicationinsights
@@ -47,6 +48,7 @@ data.mediastore
 databrew
 datasync
 directconnect
+dlm
 dms
 drs
 ds

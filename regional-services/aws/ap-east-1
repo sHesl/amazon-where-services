@@ -7,6 +7,7 @@ api.ecr
 api.sagemaker
 api.tunneling.iot
 apigateway
+appconfig
 appconfigdata
 application-autoscaling
 applicationinsights
@@ -34,6 +35,7 @@ data.jobs.iot
 databrew
 datasync
 directconnect
+dlm
 dms
 drs
 ds
