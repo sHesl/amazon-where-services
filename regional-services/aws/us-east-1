@@ -214,6 +214,7 @@ sns
 sqs
 ssm
 ssm-incidents
+sso
 states
 storagegateway
 streams.dynamodb
