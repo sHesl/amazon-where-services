@@ -2,6 +2,7 @@ account
 budgets
 ce
 cloudfront
+health
 iam
 organizations
 route53

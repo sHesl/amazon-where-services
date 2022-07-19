@@ -72,6 +72,7 @@ dynamodb
 ebs
 ec2
 ecs
+edge.sagemaker
 eks
 elasticache
 elasticbeanstalk

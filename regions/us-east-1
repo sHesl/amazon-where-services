@@ -91,6 +91,7 @@ dynamodb
 ebs
 ec2
 ecs
+edge.sagemaker
 eks
 elasticache
 elasticbeanstalk
@@ -121,6 +122,7 @@ grafana
 greengrass
 groundstation
 guardduty
+health
 healthlake
 iam
 identity-chime
