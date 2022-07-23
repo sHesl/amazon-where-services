@@ -17,7 +17,6 @@ runtime.sagemaker
 secretsmanager
 snowball
 ssm
-streams.dynamodb
 support
 synthetics
 tagging
