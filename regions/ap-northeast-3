@@ -83,6 +83,7 @@ secretsmanager
 securityhub
 servicecatalog
 servicecatalog-appregistry
+servicediscovery
 servicequotas
 snowball
 sns

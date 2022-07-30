@@ -41,6 +41,7 @@ logs
 metering.marketplace
 monitoring
 mq
+outposts
 pi
 ram
 rds
@@ -52,6 +53,7 @@ secretsmanager
 securityhub
 servicecatalog
 servicecatalog-appregistry
+servicediscovery
 servicequotas
 sns
 sqs
