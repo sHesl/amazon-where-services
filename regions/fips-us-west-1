@@ -37,6 +37,7 @@ kinesis
 lakeformation
 lambda
 license-manager
+license-manager-user-subscriptions
 logs
 macie2
 mediaconvert
