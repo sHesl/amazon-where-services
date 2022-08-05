@@ -26,6 +26,7 @@ cloudtrail
 codebuild
 codecommit
 codedeploy
+compute-optimizer
 config
 connect
 databrew

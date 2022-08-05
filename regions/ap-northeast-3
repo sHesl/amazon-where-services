@@ -23,6 +23,7 @@ cloudtrail
 codebuild
 codecommit
 codedeploy
+compute-optimizer
 config
 datasync
 directconnect

@@ -28,6 +28,7 @@ codebuild
 codecommit
 codedeploy
 codepipeline
+compute-optimizer
 config
 data-ats.iot
 data.iot
