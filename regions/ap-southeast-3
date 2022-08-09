@@ -4,6 +4,7 @@ acm-pca
 api.ecr
 appconfig
 application-autoscaling
+appmesh
 autoscaling
 autoscaling-plans
 backup

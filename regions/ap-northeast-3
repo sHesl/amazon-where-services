@@ -8,6 +8,7 @@ appconfig
 appconfigdata
 application-autoscaling
 applicationinsights
+appmesh
 appsync
 athena
 autoscaling
