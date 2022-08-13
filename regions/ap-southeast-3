@@ -35,6 +35,7 @@ firehose
 glacier
 guardduty
 kinesis
+kinesisanalytics
 kms
 lambda
 license-manager
