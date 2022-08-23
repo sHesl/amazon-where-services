@@ -29,6 +29,7 @@ kms
 lambda
 license-manager
 logs
+metering.marketplace
 monitoring
 ram
 rds

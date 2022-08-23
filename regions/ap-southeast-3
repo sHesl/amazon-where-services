@@ -2,6 +2,7 @@ access-analyzer
 acm
 acm-pca
 api.ecr
+api.sagemaker
 appconfig
 application-autoscaling
 appmesh

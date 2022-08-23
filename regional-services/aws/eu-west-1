@@ -210,6 +210,7 @@ states
 storagegateway
 streams.dynamodb
 sts
+supportapp
 swf
 synthetics
 tagging

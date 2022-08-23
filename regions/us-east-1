@@ -250,6 +250,7 @@ storagegateway
 streams.dynamodb
 sts
 support
+supportapp
 swf
 synthetics
 tagging
