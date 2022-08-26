@@ -107,6 +107,7 @@ portal.sso
 ram
 rbin
 rds
+rds-data
 redshift
 resiliencehub
 resource-groups

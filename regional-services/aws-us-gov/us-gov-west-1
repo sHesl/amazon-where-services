@@ -61,6 +61,8 @@ guardduty
 identitystore
 inspector
 iot
+iotevents
+ioteventsdata
 iotsecuredtunneling
 iotsitewise
 kafka

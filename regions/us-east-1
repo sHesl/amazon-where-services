@@ -207,6 +207,7 @@ quicksight
 ram
 rbin
 rds
+rds-data
 redshift
 redshift-serverless
 rekognition

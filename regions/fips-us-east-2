@@ -42,6 +42,8 @@ groundstation
 health
 inspector
 iot
+iotevents
+ioteventsdata
 iotsecuredtunneling
 iotsitewise
 kendra
@@ -61,6 +63,7 @@ outposts
 polly
 qldb
 ram
+rds-data
 redshift
 resource-groups
 s3

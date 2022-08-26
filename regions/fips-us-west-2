@@ -43,6 +43,8 @@ glue
 groundstation
 inspector
 iot
+iotevents
+ioteventsdata
 iotsecuredtunneling
 iotsitewise
 kendra
@@ -64,6 +66,7 @@ pinpoint
 polly
 qldb
 ram
+rds-data
 redshift
 resource-groups
 s3

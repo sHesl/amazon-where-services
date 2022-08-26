@@ -47,6 +47,7 @@ network-firewall
 outposts
 polly
 ram
+rds-data
 redshift
 resource-groups
 s3

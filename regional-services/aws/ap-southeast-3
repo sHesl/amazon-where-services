@@ -35,6 +35,7 @@ es
 events
 firehose
 glacier
+glue
 guardduty
 kinesis
 kinesisanalytics
@@ -43,6 +44,7 @@ lambda
 license-manager
 logs
 metering.marketplace
+mgn
 monitoring
 mq
 outposts
