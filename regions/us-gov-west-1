@@ -17,6 +17,7 @@ autoscaling-plans
 backup
 backup-gateway
 batch
+cassandra
 cloudcontrolapi
 clouddirectory
 cloudformation

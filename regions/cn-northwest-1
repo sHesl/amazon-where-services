@@ -15,6 +15,7 @@ autoscaling
 autoscaling-plans
 backup
 batch
+cassandra
 cloudcontrolapi
 cloudformation
 cloudtrail

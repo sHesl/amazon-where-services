@@ -15,6 +15,7 @@ autoscaling-plans
 backup
 backup-gateway
 batch
+cassandra
 cloudcontrolapi
 cloudformation
 cloudhsmv2

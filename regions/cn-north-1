@@ -17,6 +17,7 @@ autoscaling-plans
 backup
 batch
 budgets
+cassandra
 ce
 cloudcontrolapi
 cloudformation

@@ -6,6 +6,7 @@ api.tunneling.iot
 apprunner
 athena
 batch
+cassandra
 cloudcontrolapi
 cloudtrail
 codepipeline
