@@ -2,6 +2,7 @@ access-analyzer
 acm-pca
 api.ecr
 api.tunneling.iot
+apigateway
 athena
 batch
 cloudcontrolapi
@@ -47,6 +48,7 @@ network-firewall
 outposts
 polly
 ram
+rbin
 rds-data
 redshift
 resource-groups

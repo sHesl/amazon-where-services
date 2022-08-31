@@ -2,6 +2,7 @@ access-analyzer
 acm-pca
 api.fleethub.iot
 api.tunneling.iot
+apigateway
 cloudcontrolapi
 codepipeline
 data-ats.iot
@@ -27,6 +28,7 @@ network-firewall
 outposts
 qldb
 ram
+rbin
 redshift
 s3
 s3-outposts

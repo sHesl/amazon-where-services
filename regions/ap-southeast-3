@@ -3,6 +3,7 @@ acm
 acm-pca
 api.ecr
 api.sagemaker
+apigateway
 appconfig
 application-autoscaling
 appmesh

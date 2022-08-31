@@ -3,6 +3,7 @@ acm-pca
 api.ecr
 api.fleethub.iot
 api.tunneling.iot
+apigateway
 apprunner
 athena
 batch
@@ -69,6 +70,7 @@ pinpoint
 polly
 qldb
 ram
+rbin
 rds-data
 redshift
 resource-groups
