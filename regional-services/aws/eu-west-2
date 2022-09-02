@@ -54,6 +54,7 @@ config
 connect
 connect-campaigns
 contact-lens
+controltower
 data-ats.iot
 data.iot
 data.jobs.iot

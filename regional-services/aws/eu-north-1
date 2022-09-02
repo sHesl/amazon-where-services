@@ -42,6 +42,7 @@ cognito-identity
 cognito-idp
 compute-optimizer
 config
+controltower
 data-ats.iot
 data.iot
 data.jobs.iot

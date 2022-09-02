@@ -71,6 +71,7 @@ config
 connect
 connect-campaigns
 contact-lens
+controltower
 cur
 data-ats.iot
 data.iot

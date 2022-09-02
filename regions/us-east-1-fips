@@ -6,6 +6,7 @@ cloudformation
 codebuild
 codecommit
 codedeploy
+controltower
 dms
 dynamodb
 elasticache
