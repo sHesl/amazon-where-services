@@ -19,6 +19,7 @@ config
 data-ats.iot
 data.iot
 data.jobs.iot
+databrew
 datasync
 devops-guru
 directconnect
@@ -92,6 +93,7 @@ synthetics
 textract
 transcribe
 transfer
+voiceid
 waf
 waf-regional
 wafv2

@@ -13,6 +13,7 @@ config
 data-ats.iot
 data.iot
 data.jobs.iot
+databrew
 datasync
 directconnect
 ds
