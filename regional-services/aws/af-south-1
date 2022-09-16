@@ -75,6 +75,7 @@ monitoring
 mq
 network-firewall
 outposts
+participant.connect
 pi
 polly
 profile

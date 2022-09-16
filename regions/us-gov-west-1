@@ -95,6 +95,7 @@ networkmanager
 oidc
 organizations
 outposts
+participant.connect
 pinpoint
 polly
 portal.sso
