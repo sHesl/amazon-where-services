@@ -29,7 +29,6 @@ emr-containers
 events
 firehose
 fms
-fsx
 glacier
 glue
 inspector
