@@ -73,6 +73,7 @@ oidc
 outposts
 portal.sso
 ram
+rbin
 rds
 redshift
 resource-groups

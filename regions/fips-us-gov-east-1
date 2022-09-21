@@ -34,6 +34,7 @@ logs
 monitoring
 mq
 network-firewall
+rbin
 resource-groups
 s3
 s3-outposts
