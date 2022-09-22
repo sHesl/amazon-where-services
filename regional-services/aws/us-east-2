@@ -80,6 +80,7 @@ elasticloadbalancing
 elasticmapreduce
 email
 emr-containers
+emr-serverless
 es
 events
 evidently
