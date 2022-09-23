@@ -16,6 +16,7 @@ cognito-idp
 comprehend
 comprehendmedical
 config
+connect-campaigns
 data-ats.iot
 data.iot
 data.jobs.iot
