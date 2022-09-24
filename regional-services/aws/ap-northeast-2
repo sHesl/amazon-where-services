@@ -75,6 +75,7 @@ elasticloadbalancing
 elasticmapreduce
 email
 emr-containers
+emr-serverless
 es
 events
 firehose
@@ -98,6 +99,7 @@ iotsecuredtunneling
 iotsitewise
 iotthingsgraph
 ivs
+ivschat
 kafka
 kafkaconnect
 kinesis
