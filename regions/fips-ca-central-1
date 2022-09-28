@@ -15,6 +15,7 @@ ec2
 elasticfilesystem
 elasticmapreduce
 emr-containers
+emr-serverless
 fms
 fsx
 glacier

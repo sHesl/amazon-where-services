@@ -26,6 +26,7 @@ elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
 emr-containers
+emr-serverless
 events
 firehose
 fms

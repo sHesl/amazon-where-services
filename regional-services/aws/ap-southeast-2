@@ -87,6 +87,7 @@ elasticmapreduce
 elastictranscoder
 email
 emr-containers
+emr-serverless
 es
 events
 evidently

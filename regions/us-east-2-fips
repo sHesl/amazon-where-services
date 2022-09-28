@@ -1,6 +1,7 @@
 acm
 api.detective
 api.sagemaker
+appmesh
 cloudformation
 codebuild
 codecommit
