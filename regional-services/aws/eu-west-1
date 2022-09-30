@@ -152,6 +152,7 @@ memory-db
 metering.marketplace
 mgh
 mgn
+migrationhub-orchestrator
 migrationhub-strategy
 models-v2-lex
 models.lex

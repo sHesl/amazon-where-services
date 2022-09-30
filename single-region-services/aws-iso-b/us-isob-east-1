@@ -30,6 +30,7 @@ monitoring
 ram
 rds
 redshift
+resource-groups
 s3
 snowball
 sns

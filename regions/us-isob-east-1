@@ -34,6 +34,7 @@ monitoring
 ram
 rds
 redshift
+resource-groups
 route53
 s3
 snowball
