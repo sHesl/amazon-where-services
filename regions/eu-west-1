@@ -49,6 +49,7 @@ codeguru-reviewer
 codepipeline
 codestar
 codestar-connections
+codestar-notifications
 cognito-identity
 cognito-idp
 cognito-sync

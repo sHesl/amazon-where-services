@@ -30,6 +30,7 @@ cloudtrail
 codebuild
 codecommit
 codedeploy
+codestar-notifications
 cognito-identity
 cognito-idp
 compute-optimizer

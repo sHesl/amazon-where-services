@@ -37,6 +37,7 @@ codedeploy
 codepipeline
 codestar
 codestar-connections
+codestar-notifications
 cognito-identity
 cognito-idp
 compute-optimizer

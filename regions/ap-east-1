@@ -29,6 +29,7 @@ codebuild
 codecommit
 codedeploy
 codepipeline
+codestar-notifications
 compute-optimizer
 config
 data-ats.iot
