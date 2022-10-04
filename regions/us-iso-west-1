@@ -23,6 +23,7 @@ kms
 lambda
 logs
 monitoring
+ram
 rds
 redshift
 s3
