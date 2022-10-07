@@ -6,6 +6,7 @@ appconfig
 application-autoscaling
 autoscaling
 cloudformation
+cloudhsmv2
 cloudtrail
 codedeploy
 config

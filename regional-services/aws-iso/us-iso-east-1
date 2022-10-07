@@ -34,3 +34,4 @@ states
 streams.dynamodb
 sts
 swf
+synthetics

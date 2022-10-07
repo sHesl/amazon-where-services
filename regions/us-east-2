@@ -104,6 +104,7 @@ guardduty
 health
 healthlake
 identitystore
+ingest.timestream
 inspector
 inspector2
 iot
@@ -146,6 +147,7 @@ opsworks-cm
 outposts
 personalize
 pi
+pinpoint
 polly
 portal.sso
 projects.iot1click

@@ -136,6 +136,7 @@ iam
 identity-chime
 identitystore
 importexport
+ingest.timestream
 inspector
 inspector2
 iot

@@ -63,6 +63,7 @@ monitoring
 mq
 network-firewall
 outposts
+pinpoint
 polly
 qldb
 ram

@@ -117,6 +117,7 @@ groundstation
 guardduty
 healthlake
 identitystore
+ingest.timestream
 inspector
 inspector2
 iot
