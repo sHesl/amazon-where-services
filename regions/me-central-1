@@ -20,6 +20,7 @@ elasticloadbalancing
 elasticmapreduce
 es
 events
+guardduty
 kinesis
 kms
 lambda
