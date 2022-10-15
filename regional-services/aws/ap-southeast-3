@@ -7,6 +7,7 @@ apigateway
 appconfig
 application-autoscaling
 appmesh
+appsync
 athena
 autoscaling
 autoscaling-plans
