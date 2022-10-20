@@ -24,6 +24,7 @@ codebuild
 codecommit
 codedeploy
 config
+controltower
 data-ats.iot
 data.iot
 data.jobs.iot

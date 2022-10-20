@@ -30,6 +30,7 @@ emr-serverless
 events
 firehose
 fms
+fsx
 glacier
 glue
 inspector
