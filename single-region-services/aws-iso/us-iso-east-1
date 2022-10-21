@@ -15,7 +15,6 @@ route53resolver
 runtime.sagemaker
 secretsmanager
 snowball
-ssm
 support
 tagging
 transcribe

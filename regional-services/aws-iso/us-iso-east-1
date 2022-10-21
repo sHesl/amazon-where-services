@@ -30,6 +30,7 @@ redshift
 s3
 sns
 sqs
+ssm
 states
 streams.dynamodb
 sts
