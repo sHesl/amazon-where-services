@@ -10,6 +10,7 @@ cloudhsmv2
 cloudtrail
 codedeploy
 config
+data-ats.iot
 directconnect
 dms
 dynamodb
@@ -22,6 +23,7 @@ elasticmapreduce
 es
 events
 guardduty
+iot
 kinesis
 kms
 lambda
@@ -29,6 +31,7 @@ logs
 metering.marketplace
 monitoring
 pi
+ram
 rbin
 rds
 redshift
