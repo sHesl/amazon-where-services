@@ -5,6 +5,7 @@ apigateway
 appconfig
 application-autoscaling
 autoscaling
+cloudcontrolapi
 cloudformation
 cloudhsmv2
 cloudtrail

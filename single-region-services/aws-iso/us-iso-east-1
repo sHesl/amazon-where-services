@@ -2,7 +2,6 @@ api.sagemaker
 apigateway
 comprehend
 datapipeline
-ds
 ebs
 eks
 firehose
