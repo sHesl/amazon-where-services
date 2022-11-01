@@ -39,6 +39,7 @@ elasticmapreduce
 es
 events
 firehose
+fsx
 glacier
 glue
 guardduty
@@ -65,6 +66,7 @@ rolesanywhere
 route53resolver
 runtime.sagemaker
 s3
+s3-outposts
 secretsmanager
 securityhub
 servicecatalog
