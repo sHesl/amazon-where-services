@@ -17,12 +17,14 @@ dms
 dynamodb
 ec2
 ecs
+eks
 elasticache
 elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
 es
 events
+firehose
 guardduty
 iot
 kinesis
