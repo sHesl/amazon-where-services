@@ -38,6 +38,7 @@ ram
 rbin
 rds
 redshift
+resource-groups
 s3
 secretsmanager
 servicediscovery
@@ -45,6 +46,7 @@ sns
 sqs
 ssm
 states
+storagegateway
 streams.dynamodb
 sts
 swf
