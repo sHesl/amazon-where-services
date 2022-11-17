@@ -12,9 +12,11 @@ cloudtrail
 codedeploy
 config
 data-ats.iot
+datasync
 directconnect
 dms
 dynamodb
+ebs
 ec2
 ecs
 eks
