@@ -15,6 +15,7 @@ data-ats.iot
 datasync
 directconnect
 dms
+ds
 dynamodb
 ebs
 ec2

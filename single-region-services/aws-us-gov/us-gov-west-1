@@ -3,6 +3,7 @@ cloudhsm
 connect
 databrew
 docdb
+ingest.timestream
 managedblockchain
 mediaconvert
 participant.connect

@@ -68,6 +68,7 @@ guardduty
 health
 iam
 identitystore
+ingest.timestream
 inspector
 iot
 iotevents
