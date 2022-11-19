@@ -144,6 +144,7 @@ iotanalytics
 iotevents
 ioteventsdata
 iotfleetwise
+iotroborunner
 iotsecuredtunneling
 iotsitewise
 iotthingsgraph
@@ -272,6 +273,7 @@ transcribe
 transcribestreaming
 transfer
 translate
+voice-chime
 voiceid
 waf
 waf-regional

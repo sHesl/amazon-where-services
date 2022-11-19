@@ -151,6 +151,7 @@ pinpoint
 polly
 portal.sso
 profile
+proton
 qldb
 quicksight
 ram
@@ -203,6 +204,7 @@ textract
 transcribe
 transfer
 translate
+voice-chime
 voiceid
 waf-regional
 wafv2

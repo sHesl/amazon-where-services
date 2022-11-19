@@ -147,6 +147,7 @@ polly
 portal.sso
 profile
 projects.iot1click
+proton
 qldb
 quicksight
 ram
@@ -197,6 +198,7 @@ transcribe
 transcribestreaming
 transfer
 translate
+voice-chime
 voiceid
 waf-regional
 wafv2
