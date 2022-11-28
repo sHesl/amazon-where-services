@@ -104,6 +104,7 @@ monitoring
 mq
 neptune
 network-firewall
+oam
 opsworks
 opsworks-cm
 outposts

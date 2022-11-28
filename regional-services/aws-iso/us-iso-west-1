@@ -19,6 +19,7 @@ elasticloadbalancing
 elasticmapreduce
 es
 events
+firehose
 glacier
 kinesis
 kms

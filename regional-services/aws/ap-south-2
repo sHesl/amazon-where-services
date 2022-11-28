@@ -26,6 +26,7 @@ lambda
 logs
 metering.marketplace
 monitoring
+oam
 pi
 rds
 redshift

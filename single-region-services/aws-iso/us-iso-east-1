@@ -4,7 +4,6 @@ comprehend
 datapipeline
 ebs
 eks
-firehose
 health
 license-manager
 medialive
