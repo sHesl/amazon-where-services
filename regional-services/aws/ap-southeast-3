@@ -8,6 +8,7 @@ appconfig
 application-autoscaling
 appmesh
 appsync
+arc-zonal-shift
 athena
 autoscaling
 autoscaling-plans

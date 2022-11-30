@@ -18,6 +18,7 @@ applicationinsights
 appmesh
 appsync
 aps
+arc-zonal-shift
 athena
 autoscaling
 autoscaling-plans
@@ -142,6 +143,7 @@ servicecatalog
 servicecatalog-appregistry
 servicediscovery
 servicequotas
+simspaceweaver
 sms
 snowball
 sns

@@ -23,6 +23,7 @@ appmesh
 appstream2
 appsync
 aps
+arc-zonal-shift
 athena
 auditmanager
 autoscaling
@@ -193,12 +194,14 @@ schemas
 sdb
 secretsmanager
 securityhub
+securitylake
 serverlessrepo
 servicecatalog
 servicecatalog-appregistry
 servicediscovery
 servicequotas
 session.qldb
+simspaceweaver
 sms
 sms-voice
 snowball

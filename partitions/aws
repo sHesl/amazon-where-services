@@ -29,6 +29,7 @@ apprunner
 appstream2
 appsync
 aps
+arc-zonal-shift
 athena
 auditmanager
 autoscaling
@@ -245,6 +246,7 @@ schemas
 sdb
 secretsmanager
 securityhub
+securitylake
 serverlessrepo
 servicecatalog
 servicecatalog-appregistry
@@ -252,6 +254,7 @@ servicediscovery
 servicequotas
 session.qldb
 shield
+simspaceweaver
 sms
 sms-voice
 snowball
