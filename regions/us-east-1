@@ -9,6 +9,7 @@ amplifybackend
 amplifyuibuilder
 api.detective
 api.ecr
+api.ecr-public
 api.elastic-inference
 api.fleethub.iot
 api.iotdeviceadvisor
