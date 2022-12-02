@@ -58,6 +58,7 @@ cloudsearch
 cloudtrail
 codeartifact
 codebuild
+codecatalyst
 codecommit
 codedeploy
 codeguru-reviewer
@@ -211,6 +212,7 @@ participant.connect
 personalize
 pi
 pinpoint
+pipes
 polly
 portal.sso
 profile
