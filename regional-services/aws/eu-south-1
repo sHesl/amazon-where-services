@@ -29,6 +29,7 @@ codecommit
 codedeploy
 codepipeline
 cognito-identity
+cognito-idp
 compute-optimizer
 config
 databrew
