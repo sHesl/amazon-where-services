@@ -108,6 +108,7 @@ mediapackage-vod
 mediastore
 memory-db
 metering.marketplace
+metrics.sagemaker
 mgn
 monitoring
 mq

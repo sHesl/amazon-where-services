@@ -8,6 +8,7 @@ health
 license-manager
 medialive
 mediapackage
+metrics.sagemaker
 outposts
 route53resolver
 runtime.sagemaker

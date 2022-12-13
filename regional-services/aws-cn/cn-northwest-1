@@ -65,6 +65,7 @@ lambda
 license-manager
 logs
 memory-db
+metrics.sagemaker
 monitoring
 mq
 neptune

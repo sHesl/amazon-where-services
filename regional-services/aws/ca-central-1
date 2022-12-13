@@ -112,6 +112,7 @@ macie2
 mediaconvert
 memory-db
 metering.marketplace
+metrics.sagemaker
 mgn
 models-v2-lex
 monitoring

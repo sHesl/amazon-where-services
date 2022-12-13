@@ -36,6 +36,7 @@ license-manager
 logs
 medialive
 mediapackage
+metrics.sagemaker
 monitoring
 outposts
 ram

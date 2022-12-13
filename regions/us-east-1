@@ -187,6 +187,7 @@ meetings-chime
 memory-db
 messaging-chime
 metering.marketplace
+metrics.sagemaker
 mgh
 mgn
 migrationhub-orchestrator

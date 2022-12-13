@@ -6,6 +6,7 @@ docdb
 ingest.timestream
 managedblockchain
 mediaconvert
+metrics.sagemaker
 participant.connect
 robomaker
 sms-voice

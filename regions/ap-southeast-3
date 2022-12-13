@@ -53,6 +53,7 @@ lambda
 license-manager
 logs
 metering.marketplace
+metrics.sagemaker
 mgn
 monitoring
 mq

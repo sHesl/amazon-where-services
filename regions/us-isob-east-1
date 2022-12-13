@@ -30,6 +30,7 @@ lambda
 license-manager
 logs
 metering.marketplace
+metrics.sagemaker
 monitoring
 ram
 rds

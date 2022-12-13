@@ -147,6 +147,7 @@ mediapackage-vod
 mediastore
 memory-db
 metering.marketplace
+metrics.sagemaker
 mgh
 mgn
 migrationhub-orchestrator

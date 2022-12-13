@@ -133,6 +133,7 @@ mediapackage-vod
 meetings-chime
 memory-db
 metering.marketplace
+metrics.sagemaker
 mgn
 models-v2-lex
 models.lex

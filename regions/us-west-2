@@ -164,6 +164,7 @@ mediastore
 meetings-chime
 memory-db
 metering.marketplace
+metrics.sagemaker
 mgh
 mgn
 migrationhub-orchestrator

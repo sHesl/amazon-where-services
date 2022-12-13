@@ -17,6 +17,7 @@ appflow
 application-autoscaling
 applicationinsights
 appmesh
+appstream2
 appsync
 athena
 autoscaling
@@ -101,6 +102,7 @@ mediapackage
 mediapackage-vod
 memory-db
 metering.marketplace
+metrics.sagemaker
 mgn
 monitoring
 mq

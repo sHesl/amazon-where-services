@@ -37,7 +37,9 @@ kms
 lambda
 logs
 metering.marketplace
+metrics.sagemaker
 monitoring
+mq
 oam
 pi
 pipes

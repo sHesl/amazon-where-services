@@ -78,6 +78,7 @@ macie2
 mediaconnect
 memory-db
 metering.marketplace
+metrics.sagemaker
 mgn
 monitoring
 mq

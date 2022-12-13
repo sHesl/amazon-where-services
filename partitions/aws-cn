@@ -80,6 +80,7 @@ license-manager
 logs
 mediaconvert
 memory-db
+metrics.sagemaker
 monitoring
 mq
 neptune

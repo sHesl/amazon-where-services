@@ -79,6 +79,7 @@ license-manager-user-subscriptions
 logs
 macie2
 metering.marketplace
+metrics.sagemaker
 mgn
 monitoring
 mq
