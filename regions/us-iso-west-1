@@ -38,3 +38,4 @@ streams.dynamodb
 sts
 swf
 synthetics
+workspaces
