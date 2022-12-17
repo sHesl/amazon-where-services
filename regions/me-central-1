@@ -51,6 +51,7 @@ resource-groups
 s3
 secretsmanager
 servicediscovery
+servicequotas
 sns
 sqs
 ssm

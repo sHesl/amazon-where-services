@@ -11,6 +11,7 @@ ca-central-1
 cn-north-1
 cn-northwest-1
 eu-central-1
+eu-central-2
 eu-north-1
 eu-south-1
 eu-west-1
@@ -29,6 +30,7 @@ fips-ca-central-1
 fips-cn-north-1
 fips-cn-northwest-1
 fips-eu-central-1
+fips-eu-central-2
 fips-eu-north-1
 fips-eu-south-1
 fips-eu-west-1

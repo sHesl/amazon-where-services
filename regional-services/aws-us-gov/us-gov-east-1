@@ -66,6 +66,7 @@ license-manager
 logs
 meetings-chime
 metering.marketplace
+metrics.sagemaker
 monitoring
 mq
 neptune
