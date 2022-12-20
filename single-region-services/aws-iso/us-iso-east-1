@@ -4,6 +4,7 @@ comprehend
 datapipeline
 ebs
 eks
+glue
 health
 license-manager
 medialive
