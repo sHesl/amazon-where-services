@@ -113,6 +113,7 @@ outposts
 pi
 pipes
 polly
+portal.sso
 ram
 rbin
 rds
@@ -143,6 +144,7 @@ sns
 sqs
 ssm
 ssm-incidents
+sso
 states
 storagegateway
 streams.dynamodb

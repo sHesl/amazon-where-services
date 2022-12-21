@@ -83,6 +83,7 @@ participant.connect
 pi
 pipes
 polly
+portal.sso
 profile
 ram
 rbin
@@ -108,6 +109,7 @@ snowball
 sns
 sqs
 ssm
+sso
 states
 storagegateway
 streams.dynamodb
