@@ -58,6 +58,7 @@ glacier
 glue
 groundstation
 guardduty
+identitystore
 kafka
 kinesis
 kinesisanalytics
@@ -69,6 +70,7 @@ license-manager
 license-manager-user-subscriptions
 logs
 macie2
+mediaconvert
 metering.marketplace
 metrics.sagemaker
 mgn

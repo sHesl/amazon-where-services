@@ -2,6 +2,7 @@ access-analyzer
 acm
 acm-pca
 api.ecr
+api.sagemaker
 apigateway
 appconfig
 application-autoscaling
@@ -48,6 +49,7 @@ rbin
 rds
 redshift
 resource-groups
+runtime.sagemaker
 s3
 secretsmanager
 servicediscovery

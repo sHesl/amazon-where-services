@@ -45,6 +45,7 @@ fsx
 glacier
 glue
 guardduty
+identitystore
 kafka
 kinesis
 kinesisanalytics
