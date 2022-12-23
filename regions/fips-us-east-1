@@ -57,6 +57,7 @@ kinesis
 lakeformation
 lambda
 license-manager
+license-manager-linux-subscriptions
 license-manager-user-subscriptions
 logs
 m2
