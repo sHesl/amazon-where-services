@@ -83,6 +83,7 @@ securityhub
 servicecatalog-appregistry
 session.qldb
 sms
+sms-voice
 snowball
 sns
 sqs

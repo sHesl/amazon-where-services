@@ -34,6 +34,7 @@ rds
 redshift
 s3
 secretsmanager
+servicediscovery
 sns
 sqs
 ssm

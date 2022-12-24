@@ -35,6 +35,7 @@ redshift
 resource-explorer-2
 s3
 secretsmanager
+servicediscovery
 sns
 sqs
 ssm

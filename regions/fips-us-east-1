@@ -87,6 +87,7 @@ servicecatalog-appregistry
 session.qldb
 shield
 sms
+sms-voice
 snowball
 sns
 sqs

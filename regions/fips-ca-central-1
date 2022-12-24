@@ -36,6 +36,7 @@ redshift
 s3
 s3-outposts
 servicecatalog-appregistry
+sms-voice
 snowball
 ssm
 textract
