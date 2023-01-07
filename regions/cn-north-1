@@ -72,6 +72,7 @@ iotsitewise
 kafka
 kinesis
 kinesisanalytics
+kinesisvideo
 kms
 lakeformation
 lambda
