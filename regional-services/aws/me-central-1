@@ -7,6 +7,7 @@ apigateway
 appconfig
 application-autoscaling
 autoscaling
+batch
 cloudcontrolapi
 cloudformation
 cloudhsmv2
@@ -49,6 +50,7 @@ rbin
 rds
 redshift
 resource-groups
+route53resolver
 runtime.sagemaker
 s3
 secretsmanager
