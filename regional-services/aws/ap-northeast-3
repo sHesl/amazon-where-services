@@ -54,6 +54,7 @@ glue
 guardduty
 identitystore
 kafka
+kendra-ranking
 kinesis
 kinesisanalytics
 kms

@@ -123,6 +123,7 @@ iotwireless
 kafka
 kafkaconnect
 kendra
+kendra-ranking
 kinesis
 kinesisanalytics
 kinesisvideo
@@ -212,6 +213,7 @@ sns
 sqs
 ssm
 ssm-incidents
+ssm-sap
 sso
 states
 storagegateway

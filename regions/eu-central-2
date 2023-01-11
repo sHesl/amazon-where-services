@@ -23,6 +23,7 @@ elasticmapreduce
 es
 events
 guardduty
+kendra-ranking
 kinesis
 kms
 lambda

@@ -60,6 +60,7 @@ groundstation
 guardduty
 identitystore
 kafka
+kendra-ranking
 kinesis
 kinesisanalytics
 kinesisvideo
