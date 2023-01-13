@@ -30,6 +30,7 @@ backup-gateway
 batch
 braket
 cassandra
+cleanrooms
 cloud9
 cloudcontrolapi
 clouddirectory
