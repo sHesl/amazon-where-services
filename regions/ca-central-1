@@ -170,6 +170,7 @@ sns
 sqs
 ssm
 ssm-incidents
+ssm-sap
 sso
 states
 storagegateway

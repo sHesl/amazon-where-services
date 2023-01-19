@@ -115,6 +115,7 @@ sms
 sns
 sqs
 ssm
+ssm-sap
 sso
 states
 storagegateway
