@@ -10,6 +10,7 @@ api.detective
 api.ecr
 api.elastic-inference
 api.fleethub.iot
+api.mediatailor
 api.sagemaker
 api.tunneling.iot
 apigateway
@@ -133,6 +134,7 @@ lightsail
 logs
 lookoutmetrics
 lookoutvision
+m2
 macie2
 mediaconnect
 mediaconvert

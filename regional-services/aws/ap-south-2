@@ -13,6 +13,7 @@ config
 directconnect
 dms
 dynamodb
+ebs
 ec2
 ecs
 elasticache
