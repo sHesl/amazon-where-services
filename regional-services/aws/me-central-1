@@ -13,6 +13,7 @@ cloudcontrolapi
 cloudformation
 cloudhsmv2
 cloudtrail
+codebuild
 codedeploy
 config
 data-ats.iot
