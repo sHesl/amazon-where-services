@@ -7,7 +7,6 @@ application-autoscaling
 autoscaling
 cloudcontrolapi
 cloudformation
-cloudhsmv2
 cloudtrail
 codedeploy
 config
@@ -18,13 +17,10 @@ ebs
 ec2
 ecs
 elasticache
-elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
 es
 events
-guardduty
-kendra-ranking
 kinesis
 kms
 lambda
@@ -33,7 +29,6 @@ metering.marketplace
 monitoring
 oam
 pi
-ram
 rbin
 rds
 redshift
@@ -41,7 +36,6 @@ resource-explorer-2
 resource-groups
 s3
 secretsmanager
-servicediscovery
 sns
 sqs
 ssm

@@ -35,6 +35,7 @@ ram
 rbin
 rds
 redshift
+resource-groups
 s3
 secretsmanager
 servicediscovery
