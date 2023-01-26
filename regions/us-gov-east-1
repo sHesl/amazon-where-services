@@ -3,6 +3,7 @@ acm
 acm-pca
 api.detective
 api.ecr
+api.sagemaker
 api.tunneling.iot
 apigateway
 appconfig
