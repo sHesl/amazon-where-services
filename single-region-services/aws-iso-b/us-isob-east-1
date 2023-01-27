@@ -8,6 +8,7 @@ cloudtrail
 codedeploy
 config
 directconnect
+dlm
 ds
 dynamodb
 ebs
