@@ -37,6 +37,7 @@ clouddirectory
 cloudformation
 cloudhsmv2
 cloudtrail
+cloudtrail-data
 codeartifact
 codebuild
 codecommit

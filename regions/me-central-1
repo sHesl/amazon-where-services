@@ -35,6 +35,7 @@ es
 events
 firehose
 fsx
+glue
 guardduty
 iot
 kendra-ranking

@@ -27,6 +27,7 @@ cloudcontrolapi
 cloudformation
 cloudhsmv2
 cloudtrail
+cloudtrail-data
 codebuild
 codecommit
 codedeploy

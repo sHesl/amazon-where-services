@@ -35,6 +35,7 @@ cloudformation
 cloudhsmv2
 cloudsearch
 cloudtrail
+cloudtrail-data
 codebuild
 codecommit
 codedeploy
