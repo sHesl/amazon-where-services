@@ -27,6 +27,7 @@ identitystore
 inspector
 iot
 iotsecuredtunneling
+kinesis
 lakeformation
 lambda
 license-manager

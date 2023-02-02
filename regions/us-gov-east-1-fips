@@ -9,6 +9,7 @@ es
 guardduty
 kms
 meetings-chime
+ram
 rds
 s3-control
 secretsmanager
@@ -17,3 +18,4 @@ servicediscovery
 storagegateway
 streams.dynamodb
 sts
+swf

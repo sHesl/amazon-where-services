@@ -13,6 +13,7 @@ guardduty
 kms
 meetings-chime
 models.lex
+ram
 rds
 rekognition
 runtime.lex
@@ -24,4 +25,5 @@ servicediscovery
 storagegateway
 streams.dynamodb
 sts
+swf
 translate
