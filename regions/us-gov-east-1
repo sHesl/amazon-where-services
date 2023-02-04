@@ -24,6 +24,7 @@ cloudtrail
 codebuild
 codecommit
 codedeploy
+compute-optimizer
 config
 controltower
 data-ats.iot

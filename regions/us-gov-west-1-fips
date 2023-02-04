@@ -10,6 +10,7 @@ dynamodb
 elasticache
 es
 guardduty
+ingest.timestream
 kms
 meetings-chime
 models.lex
