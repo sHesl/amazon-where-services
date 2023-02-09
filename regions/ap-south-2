@@ -10,6 +10,7 @@ cloudformation
 cloudtrail
 codedeploy
 config
+datasync
 directconnect
 dms
 ds
@@ -17,6 +18,7 @@ dynamodb
 ebs
 ec2
 ecs
+eks
 elasticache
 elasticloadbalancing
 elasticmapreduce
