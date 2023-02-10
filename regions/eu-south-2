@@ -26,6 +26,7 @@ elasticmapreduce
 es
 events
 firehose
+guardduty
 kendra-ranking
 kinesis
 kms
