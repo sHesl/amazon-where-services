@@ -87,6 +87,7 @@ securityhub
 serverlessrepo
 servicecatalog
 servicediscovery
+servicequotas
 sms
 snowball
 sns

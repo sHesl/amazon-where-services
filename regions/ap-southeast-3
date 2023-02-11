@@ -6,6 +6,7 @@ api.sagemaker
 apigateway
 appconfig
 application-autoscaling
+applicationinsights
 appmesh
 appsync
 arc-zonal-shift

@@ -21,6 +21,7 @@ events
 firehose
 fms
 fsx
+glacier
 glue
 greengrass
 identitystore
@@ -35,6 +36,7 @@ logs
 monitoring
 mq
 network-firewall
+outposts
 rbin
 resource-groups
 s3

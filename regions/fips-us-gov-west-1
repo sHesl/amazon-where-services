@@ -28,6 +28,7 @@ events
 firehose
 fms
 fsx
+glacier
 glue
 greengrass
 health
@@ -48,6 +49,7 @@ monitoring
 mq
 network-firewall
 organizations
+outposts
 pinpoint
 polly
 rbin
