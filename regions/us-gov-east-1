@@ -86,6 +86,7 @@ redshift
 resource-explorer-2
 resource-groups
 route53resolver
+runtime.sagemaker
 s3
 s3-control
 s3-outposts
