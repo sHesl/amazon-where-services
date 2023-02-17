@@ -29,6 +29,7 @@ backup
 backup-gateway
 batch
 braket
+cases
 cassandra
 cleanrooms
 cloud9

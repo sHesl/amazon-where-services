@@ -27,6 +27,7 @@ autoscaling-plans
 backup
 backup-gateway
 batch
+cases
 cassandra
 cloud9
 cloudcontrolapi
