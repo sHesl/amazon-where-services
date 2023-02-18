@@ -5,6 +5,7 @@ codecommit
 codedeploy
 dms
 dynamodb
+elasticbeanstalk
 es
 guardduty
 kms

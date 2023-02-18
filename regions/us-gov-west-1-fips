@@ -8,6 +8,7 @@ codedeploy
 dms
 dynamodb
 elasticache
+elasticbeanstalk
 es
 guardduty
 ingest.timestream
