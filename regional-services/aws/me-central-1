@@ -41,6 +41,7 @@ guardduty
 iot
 kendra-ranking
 kinesis
+kinesisanalytics
 kms
 lambda
 logs
