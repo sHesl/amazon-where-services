@@ -19,6 +19,7 @@ backup-gateway
 batch
 cassandra
 cloudcontrolapi
+clouddirectory
 cloudformation
 cloudhsmv2
 cloudtrail
@@ -53,6 +54,7 @@ elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
 email
+emr-containers
 es
 events
 firehose

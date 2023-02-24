@@ -1,6 +1,7 @@
 api.detective
 api.sagemaker
 appstream2
+clouddirectory
 cloudformation
 codebuild
 codecommit

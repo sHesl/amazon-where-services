@@ -12,6 +12,7 @@ codedeploy
 config
 datasync
 directconnect
+dlm
 dms
 ds
 dynamodb
