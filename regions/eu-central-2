@@ -29,6 +29,7 @@ es
 events
 firehose
 guardduty
+internetmonitor
 kendra-ranking
 kinesis
 kms

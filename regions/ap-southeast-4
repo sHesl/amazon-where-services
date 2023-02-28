@@ -22,6 +22,7 @@ elasticloadbalancing
 elasticmapreduce
 es
 events
+internetmonitor
 kendra-ranking
 kinesis
 kms
