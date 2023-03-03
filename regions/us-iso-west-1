@@ -30,6 +30,7 @@ ram
 rds
 redshift
 s3
+secretsmanager
 sns
 sqs
 ssm

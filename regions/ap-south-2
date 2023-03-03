@@ -8,6 +8,7 @@ autoscaling
 cloudcontrolapi
 cloudformation
 cloudtrail
+codecommit
 codedeploy
 config
 datasync

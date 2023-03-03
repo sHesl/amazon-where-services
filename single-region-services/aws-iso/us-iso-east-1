@@ -13,7 +13,6 @@ metrics.sagemaker
 outposts
 route53resolver
 runtime.sagemaker
-secretsmanager
 snowball
 support
 tagging

@@ -14,6 +14,7 @@ cloudformation
 cloudhsmv2
 cloudtrail
 codebuild
+codecommit
 codedeploy
 config
 data-ats.iot
