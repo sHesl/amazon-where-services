@@ -51,6 +51,7 @@ metering.marketplace
 metrics.sagemaker
 monitoring
 mq
+network-firewall
 oam
 pi
 pipes
