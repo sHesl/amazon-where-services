@@ -41,6 +41,7 @@ glue
 guardduty
 internetmonitor
 iot
+kafka
 kendra-ranking
 kinesis
 kinesisanalytics
