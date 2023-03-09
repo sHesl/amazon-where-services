@@ -125,6 +125,7 @@ identitystore
 ingest.timestream
 inspector
 inspector2
+internetmonitor
 iot
 iotanalytics
 iotevents

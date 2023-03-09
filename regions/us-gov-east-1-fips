@@ -14,6 +14,7 @@ ram
 rds
 s3-control
 secretsmanager
+serverlessrepo
 servicecatalog
 servicediscovery
 storagegateway

@@ -79,6 +79,7 @@ glue
 guardduty
 identitystore
 inspector2
+internetmonitor
 iot
 iotsecuredtunneling
 kafka

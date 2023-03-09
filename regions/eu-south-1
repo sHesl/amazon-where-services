@@ -62,6 +62,7 @@ glue
 guardduty
 identitystore
 inspector2
+internetmonitor
 kafka
 kendra-ranking
 kinesis

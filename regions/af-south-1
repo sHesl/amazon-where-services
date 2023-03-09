@@ -61,6 +61,7 @@ glue
 groundstation
 guardduty
 identitystore
+internetmonitor
 kafka
 kendra-ranking
 kinesis
