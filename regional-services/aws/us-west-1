@@ -124,6 +124,7 @@ rbin
 rds
 rds-data
 redshift
+redshift-serverless
 rekognition
 resiliencehub
 resource-explorer-2

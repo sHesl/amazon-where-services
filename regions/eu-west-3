@@ -124,6 +124,7 @@ rbin
 rds
 rds-data
 redshift
+redshift-serverless
 resiliencehub
 resource-explorer-2
 resource-groups
