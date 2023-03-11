@@ -95,6 +95,7 @@ neptune
 network-firewall
 oidc
 outposts
+participant.connect
 pi
 pinpoint
 polly

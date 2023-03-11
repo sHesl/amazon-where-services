@@ -51,6 +51,7 @@ mq
 network-firewall
 organizations
 outposts
+participant.connect
 pinpoint
 polly
 rbin
