@@ -23,6 +23,7 @@ elasticloadbalancing
 elasticmapreduce
 es
 events
+firehose
 internetmonitor
 kendra-ranking
 kinesis
@@ -45,6 +46,7 @@ sns
 sqs
 ssm
 states
+storagegateway
 streams.dynamodb
 sts
 swf
