@@ -4,6 +4,7 @@ cloudformation
 codebuild
 codecommit
 codedeploy
+dlm
 dms
 dynamodb
 elasticbeanstalk
