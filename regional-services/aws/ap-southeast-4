@@ -42,6 +42,7 @@ resource-explorer-2
 resource-groups
 s3
 secretsmanager
+servicediscovery
 sns
 sqs
 ssm
