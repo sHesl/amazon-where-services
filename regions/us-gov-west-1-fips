@@ -2,6 +2,7 @@ access-analyzer
 api.detective
 api.sagemaker
 appstream2
+cassandra
 clouddirectory
 cloudformation
 codebuild

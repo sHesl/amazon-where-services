@@ -39,6 +39,7 @@ servicecatalog-appregistry
 sms-voice
 snowball
 ssm
+ssm-sap
 textract
 transcribe
 transfer

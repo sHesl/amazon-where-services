@@ -72,6 +72,7 @@ metrics.sagemaker
 monitoring
 mq
 neptune
+oam
 pi
 ram
 rbin

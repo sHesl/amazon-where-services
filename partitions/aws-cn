@@ -88,6 +88,7 @@ metrics.sagemaker
 monitoring
 mq
 neptune
+oam
 organizations
 personalize
 pi

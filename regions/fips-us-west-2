@@ -90,6 +90,7 @@ snowball
 sns
 sqs
 ssm
+ssm-sap
 states
 swf
 synthetics
