@@ -3,6 +3,7 @@ acm
 api.ecr
 apigateway
 appconfig
+appconfigdata
 application-autoscaling
 autoscaling
 cloudcontrolapi
@@ -46,6 +47,7 @@ resource-explorer-2
 resource-groups
 s3
 secretsmanager
+securityhub
 servicediscovery
 sns
 sqs

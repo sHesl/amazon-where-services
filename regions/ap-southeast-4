@@ -3,6 +3,7 @@ acm
 api.ecr
 apigateway
 appconfig
+appconfigdata
 application-autoscaling
 autoscaling
 cloudcontrolapi

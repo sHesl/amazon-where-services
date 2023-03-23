@@ -5,6 +5,7 @@ api.ecr
 api.sagemaker
 apigateway
 appconfig
+appconfigdata
 application-autoscaling
 applicationinsights
 appmesh

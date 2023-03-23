@@ -191,6 +191,7 @@ schemas
 sdb
 secretsmanager
 securityhub
+securitylake
 serverlessrepo
 servicecatalog
 servicecatalog-appregistry

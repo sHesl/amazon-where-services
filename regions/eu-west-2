@@ -181,6 +181,7 @@ s3-outposts
 schemas
 secretsmanager
 securityhub
+securitylake
 serverlessrepo
 servicecatalog
 servicecatalog-appregistry
