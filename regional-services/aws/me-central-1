@@ -67,6 +67,7 @@ runtime.sagemaker
 s3
 secretsmanager
 securityhub
+servicecatalog
 servicecatalog-appregistry
 servicediscovery
 servicequotas

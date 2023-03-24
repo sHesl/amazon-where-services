@@ -1,6 +1,7 @@
 access-analyzer
 acm
 api.ecr
+api.sagemaker
 apigateway
 appconfig
 appconfigdata
@@ -37,6 +38,7 @@ kms
 lambda
 logs
 metering.marketplace
+metrics.sagemaker
 monitoring
 oam
 pi
@@ -47,6 +49,7 @@ redshift
 resource-explorer-2
 resource-groups
 route53resolver
+runtime.sagemaker
 s3
 secretsmanager
 securityhub
