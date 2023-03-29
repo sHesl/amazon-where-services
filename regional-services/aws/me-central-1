@@ -51,6 +51,7 @@ lambda
 logs
 metering.marketplace
 metrics.sagemaker
+mgn
 monitoring
 mq
 network-firewall
