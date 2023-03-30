@@ -45,9 +45,11 @@ rbin
 rds
 redshift
 resource-groups
+runtime.sagemaker
 s3
 secretsmanager
 securityhub
+servicecatalog
 servicediscovery
 sns
 sqs

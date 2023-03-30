@@ -48,6 +48,7 @@ resource-groups
 s3
 secretsmanager
 securityhub
+servicecatalog
 servicediscovery
 sns
 sqs
