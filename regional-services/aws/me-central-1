@@ -47,6 +47,7 @@ kendra-ranking
 kinesis
 kinesisanalytics
 kms
+lakeformation
 lambda
 logs
 metering.marketplace
@@ -66,6 +67,7 @@ resource-groups
 route53resolver
 runtime.sagemaker
 s3
+scheduler
 secretsmanager
 securityhub
 servicecatalog

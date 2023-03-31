@@ -104,6 +104,7 @@ runtime-v2-lex
 runtime.sagemaker
 s3
 s3-outposts
+scheduler
 secretsmanager
 securityhub
 servicecatalog

@@ -46,6 +46,7 @@ redshift
 resource-explorer-2
 resource-groups
 s3
+scheduler
 secretsmanager
 securityhub
 servicecatalog
@@ -60,4 +61,6 @@ sts
 swf
 synthetics
 tagging
+waf-regional
+wafv2
 xray

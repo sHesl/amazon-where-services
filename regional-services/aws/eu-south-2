@@ -1,6 +1,7 @@
 access-analyzer
 acm
 api.ecr
+api.sagemaker
 apigateway
 appconfig
 appconfigdata
@@ -47,6 +48,7 @@ redshift
 resource-groups
 runtime.sagemaker
 s3
+scheduler
 secretsmanager
 securityhub
 servicecatalog
@@ -61,4 +63,6 @@ sts
 swf
 synthetics
 tagging
+waf-regional
+wafv2
 xray

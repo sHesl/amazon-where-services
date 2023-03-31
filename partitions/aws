@@ -292,6 +292,7 @@ transfer
 translate
 voice-chime
 voiceid
+vpc-lattice
 waf
 waf-regional
 wafv2

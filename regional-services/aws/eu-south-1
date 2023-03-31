@@ -98,6 +98,7 @@ route53resolver
 runtime.sagemaker
 s3
 s3-outposts
+scheduler
 secretsmanager
 securityhub
 servicecatalog

@@ -215,6 +215,7 @@ transcribe
 transcribestreaming
 transfer
 translate
+vpc-lattice
 waf-regional
 wafv2
 wellarchitected

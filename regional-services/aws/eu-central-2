@@ -51,6 +51,7 @@ resource-groups
 route53resolver
 runtime.sagemaker
 s3
+scheduler
 secretsmanager
 securityhub
 servicecatalog
@@ -65,4 +66,6 @@ sts
 swf
 synthetics
 tagging
+waf-regional
+wafv2
 xray
