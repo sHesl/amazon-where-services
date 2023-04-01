@@ -46,6 +46,7 @@ scheduler
 secretsmanager
 servicecatalog
 servicediscovery
+servicequotas
 sns
 sqs
 ssm

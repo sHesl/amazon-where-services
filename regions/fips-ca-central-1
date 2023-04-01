@@ -19,6 +19,7 @@ emr-serverless
 fms
 fsx
 glacier
+greengrass
 iot
 iotevents
 ioteventsdata

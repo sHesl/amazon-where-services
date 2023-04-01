@@ -45,6 +45,7 @@ forecastquery
 fsx
 glacier
 glue
+greengrass
 groundstation
 iam
 inspector
@@ -53,6 +54,7 @@ iotevents
 ioteventsdata
 iotsecuredtunneling
 iotsitewise
+iottwinmaker
 kendra
 kinesis
 lakeformation

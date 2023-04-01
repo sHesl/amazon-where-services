@@ -1,5 +1,6 @@
 access-analyzer
 acm
+acm-pca
 api.ecr
 api.sagemaker
 apigateway
@@ -56,6 +57,7 @@ secretsmanager
 securityhub
 servicecatalog
 servicediscovery
+servicequotas
 sns
 sqs
 ssm
