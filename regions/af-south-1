@@ -29,6 +29,7 @@ cloudtrail-data
 codebuild
 codecommit
 codedeploy
+codepipeline
 compute-optimizer
 config
 connect

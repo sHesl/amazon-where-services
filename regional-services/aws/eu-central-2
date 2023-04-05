@@ -13,6 +13,7 @@ cloudformation
 cloudhsmv2
 cloudtrail
 codedeploy
+codepipeline
 config
 datasync
 directconnect

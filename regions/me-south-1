@@ -31,6 +31,7 @@ cloudtrail-data
 codebuild
 codecommit
 codedeploy
+codepipeline
 codestar-notifications
 cognito-identity
 cognito-idp
