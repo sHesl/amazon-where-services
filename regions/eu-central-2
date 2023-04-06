@@ -12,6 +12,7 @@ cloudcontrolapi
 cloudformation
 cloudhsmv2
 cloudtrail
+codebuild
 codedeploy
 codepipeline
 config

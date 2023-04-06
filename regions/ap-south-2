@@ -10,6 +10,7 @@ autoscaling
 cloudcontrolapi
 cloudformation
 cloudtrail
+codebuild
 codecommit
 codedeploy
 config
@@ -46,6 +47,7 @@ rds
 redshift
 resource-explorer-2
 resource-groups
+runtime.sagemaker
 s3
 scheduler
 secretsmanager

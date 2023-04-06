@@ -10,6 +10,7 @@ appconfig
 appconfigdata
 application-autoscaling
 applicationinsights
+appstream2
 athena
 autoscaling
 autoscaling-plans
