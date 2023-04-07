@@ -31,10 +31,12 @@ elasticmapreduce
 es
 events
 firehose
+glue
 guardduty
 internetmonitor
 kendra-ranking
 kinesis
+kinesisanalytics
 kms
 lambda
 logs

@@ -2,6 +2,7 @@ access-analyzer
 acm
 acm-pca
 api.ecr
+api.sagemaker
 apigateway
 appconfig
 appconfigdata
@@ -34,6 +35,7 @@ guardduty
 internetmonitor
 kendra-ranking
 kinesis
+kinesisanalytics
 kms
 lambda
 logs
