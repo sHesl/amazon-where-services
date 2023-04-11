@@ -33,6 +33,7 @@ elasticmapreduce
 es
 events
 firehose
+fms
 glue
 guardduty
 internetmonitor
@@ -41,6 +42,7 @@ kinesis
 kinesisanalytics
 kms
 lambda
+license-manager-linux-subscriptions
 logs
 metering.marketplace
 metrics.sagemaker

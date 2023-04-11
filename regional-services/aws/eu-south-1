@@ -2,6 +2,8 @@ access-analyzer
 acm
 acm-pca
 amplify
+amplifybackend
+amplifyuibuilder
 api.detective
 api.ecr
 api.sagemaker
@@ -71,6 +73,7 @@ kms
 lakeformation
 lambda
 license-manager
+license-manager-linux-subscriptions
 license-manager-user-subscriptions
 logs
 macie2

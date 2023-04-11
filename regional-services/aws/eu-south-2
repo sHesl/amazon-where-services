@@ -31,6 +31,7 @@ elasticmapreduce
 es
 events
 firehose
+fms
 glue
 guardduty
 internetmonitor
@@ -39,6 +40,7 @@ kinesis
 kinesisanalytics
 kms
 lambda
+license-manager-linux-subscriptions
 logs
 metering.marketplace
 metrics.sagemaker
@@ -50,6 +52,7 @@ rbin
 rds
 redshift
 resource-groups
+route53resolver
 runtime.sagemaker
 s3
 scheduler
