@@ -7,6 +7,7 @@ apigateway
 appconfig
 appconfigdata
 application-autoscaling
+appsync
 autoscaling
 backup
 batch
