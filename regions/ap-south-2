@@ -9,6 +9,8 @@ appconfigdata
 application-autoscaling
 appsync
 autoscaling
+backup
+batch
 cloudcontrolapi
 cloudformation
 cloudtrail
@@ -33,8 +35,10 @@ es
 events
 firehose
 fms
+fsx
 guardduty
 internetmonitor
+kafka
 kendra-ranking
 kinesis
 kinesisanalytics
@@ -52,6 +56,7 @@ rds
 redshift
 resource-explorer-2
 resource-groups
+route53resolver
 runtime.sagemaker
 s3
 scheduler

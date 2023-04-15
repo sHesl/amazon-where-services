@@ -9,6 +9,8 @@ appconfigdata
 application-autoscaling
 appsync
 autoscaling
+backup
+batch
 cloudcontrolapi
 cloudformation
 cloudhsmv2
@@ -35,9 +37,11 @@ es
 events
 firehose
 fms
+fsx
 glue
 guardduty
 internetmonitor
+kafka
 kendra-ranking
 kinesis
 kinesisanalytics
