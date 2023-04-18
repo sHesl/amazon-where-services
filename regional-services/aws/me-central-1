@@ -8,6 +8,7 @@ appconfig
 appconfigdata
 application-autoscaling
 appsync
+arc-zonal-shift
 autoscaling
 backup
 batch
@@ -76,6 +77,7 @@ servicecatalog
 servicecatalog-appregistry
 servicediscovery
 servicequotas
+snowball
 sns
 sqs
 ssm
