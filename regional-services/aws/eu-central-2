@@ -8,6 +8,7 @@ appconfig
 appconfigdata
 application-autoscaling
 appsync
+arc-zonal-shift
 autoscaling
 backup
 batch

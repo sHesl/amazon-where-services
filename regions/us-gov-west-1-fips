@@ -1,6 +1,7 @@
 access-analyzer
 api.detective
 api.sagemaker
+application-autoscaling
 appstream2
 cassandra
 clouddirectory
