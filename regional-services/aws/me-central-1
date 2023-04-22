@@ -3,6 +3,7 @@ acm
 acm-pca
 api.ecr
 api.sagemaker
+api.tunneling.iot
 apigateway
 appconfig
 appconfigdata

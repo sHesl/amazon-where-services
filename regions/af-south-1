@@ -34,6 +34,7 @@ codepipeline
 compute-optimizer
 config
 connect
+controltower
 databrew
 datasync
 directconnect

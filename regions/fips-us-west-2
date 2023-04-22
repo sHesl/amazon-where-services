@@ -6,6 +6,7 @@ api.tunneling.iot
 apigateway
 apprunner
 athena
+autoscaling
 batch
 cases
 cassandra
