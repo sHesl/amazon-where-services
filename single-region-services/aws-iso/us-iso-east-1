@@ -6,7 +6,6 @@ ebs
 eks
 glue
 health
-license-manager
 medialive
 mediapackage
 metrics.sagemaker

@@ -39,6 +39,7 @@ lambda
 license-manager-linux-subscriptions
 logs
 metering.marketplace
+metrics.sagemaker
 monitoring
 oam
 pi

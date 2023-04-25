@@ -33,6 +33,7 @@ comprehend
 comprehendmedical
 compute-optimizer
 config
+connect
 controltower
 data-ats.iot
 data.iot

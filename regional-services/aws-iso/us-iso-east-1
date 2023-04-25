@@ -24,6 +24,7 @@ glacier
 kinesis
 kms
 lambda
+license-manager
 logs
 monitoring
 ram
