@@ -4,6 +4,7 @@ apigateway
 appconfig
 appconfigdata
 application-autoscaling
+athena
 autoscaling
 cloudformation
 cloudtrail
