@@ -4,7 +4,6 @@ api.ecr
 api.tunneling.iot
 apigateway
 athena
-autoscaling
 batch
 cloudcontrolapi
 cloudtrail
