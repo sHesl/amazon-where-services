@@ -36,6 +36,7 @@ glue
 inspector
 iot
 iotsecuredtunneling
+kafka
 kinesis
 lakeformation
 lambda

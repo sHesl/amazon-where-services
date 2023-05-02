@@ -17,6 +17,7 @@ elasticbeanstalk
 es
 guardduty
 ingest.timestream
+kafka
 kms
 meetings-chime
 models.lex

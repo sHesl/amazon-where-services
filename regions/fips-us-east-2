@@ -50,6 +50,7 @@ iotevents
 ioteventsdata
 iotsecuredtunneling
 iotsitewise
+kafka
 kendra
 kinesis
 lakeformation
