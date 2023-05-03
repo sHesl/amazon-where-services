@@ -62,6 +62,7 @@ s3
 s3-outposts
 securityhub
 servicecatalog-appregistry
+signer
 sms
 snowball
 sns

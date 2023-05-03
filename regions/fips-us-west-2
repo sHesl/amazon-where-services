@@ -89,6 +89,7 @@ s3-outposts
 securityhub
 servicecatalog-appregistry
 session.qldb
+signer
 sms
 sms-voice
 snowball

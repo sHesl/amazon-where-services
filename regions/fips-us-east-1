@@ -93,6 +93,7 @@ securityhub
 servicecatalog-appregistry
 session.qldb
 shield
+signer
 sms
 sms-voice
 snowball
