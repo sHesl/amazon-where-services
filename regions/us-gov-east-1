@@ -25,6 +25,7 @@ cloudtrail
 codebuild
 codecommit
 codedeploy
+codepipeline
 compute-optimizer
 config
 controltower
@@ -120,4 +121,5 @@ transfer
 waf-regional
 wafv2
 wellarchitected
+workspaces
 xray
