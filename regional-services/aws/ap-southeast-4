@@ -33,6 +33,7 @@ firehose
 guardduty
 kendra-ranking
 kinesis
+kinesisanalytics
 kms
 lambda
 license-manager-linux-subscriptions
