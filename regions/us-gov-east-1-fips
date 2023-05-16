@@ -18,6 +18,7 @@ kms
 meetings-chime
 ram
 rds
+route53resolver
 s3-control
 secretsmanager
 serverlessrepo
