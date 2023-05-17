@@ -34,6 +34,7 @@ metering.marketplace
 metrics.sagemaker
 monitoring
 ram
+rbin
 rds
 redshift
 resource-groups

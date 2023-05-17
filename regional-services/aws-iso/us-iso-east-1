@@ -28,6 +28,7 @@ license-manager
 logs
 monitoring
 ram
+rbin
 rds
 redshift
 s3

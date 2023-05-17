@@ -25,6 +25,8 @@ fips-us-east-1
 fips-us-east-2
 fips-us-gov-east-1
 fips-us-gov-west-1
+fips-us-iso-east-1
+fips-us-isob-east-1
 fips-us-west-1
 fips-us-west-2
 me-central-1
@@ -34,5 +36,7 @@ us-east-1
 us-east-2
 us-gov-east-1
 us-gov-west-1
+us-iso-east-1
+us-isob-east-1
 us-west-1
 us-west-2

@@ -42,6 +42,7 @@ metrics.sagemaker
 monitoring
 outposts
 ram
+rbin
 rds
 redshift
 route53
