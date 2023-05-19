@@ -49,6 +49,7 @@ logs
 metering.marketplace
 metrics.sagemaker
 monitoring
+mq
 oam
 pi
 ram

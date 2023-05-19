@@ -6,6 +6,7 @@ appconfigdata
 application-autoscaling
 athena
 autoscaling
+cloudcontrolapi
 cloudformation
 cloudtrail
 codedeploy

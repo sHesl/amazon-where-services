@@ -3,6 +3,7 @@ appconfig
 appconfigdata
 application-autoscaling
 autoscaling
+cloudcontrolapi
 cloudformation
 cloudtrail
 codedeploy
