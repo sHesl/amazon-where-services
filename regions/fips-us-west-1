@@ -8,6 +8,7 @@ batch
 cloudcontrolapi
 cloudtrail
 codepipeline
+cognito-identity
 cognito-idp
 config
 data-ats.iot
