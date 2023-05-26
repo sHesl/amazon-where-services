@@ -12,8 +12,10 @@ backup
 cloudcontrolapi
 cloudformation
 cloudtrail
+codebuild
 codedeploy
 config
+datasync
 directconnect
 dlm
 dms
@@ -30,6 +32,8 @@ elasticmapreduce
 es
 events
 firehose
+fms
+fsx
 guardduty
 kendra-ranking
 kinesis
