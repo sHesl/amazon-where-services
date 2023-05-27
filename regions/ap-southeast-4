@@ -2,6 +2,7 @@ access-analyzer
 acm
 acm-pca
 api.ecr
+api.sagemaker
 apigateway
 appconfig
 appconfigdata
@@ -35,6 +36,7 @@ firehose
 fms
 fsx
 guardduty
+kafka
 kendra-ranking
 kinesis
 kinesisanalytics
@@ -59,6 +61,7 @@ runtime.sagemaker
 s3
 scheduler
 secretsmanager
+securityhub
 servicecatalog
 servicediscovery
 servicequotas
