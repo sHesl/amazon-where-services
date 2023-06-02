@@ -15,7 +15,6 @@ route53resolver
 runtime.sagemaker
 snowball
 support
-tagging
 transcribe
 transcribestreaming
 translate

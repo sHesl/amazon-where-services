@@ -42,4 +42,5 @@ streams.dynamodb
 sts
 swf
 synthetics
+tagging
 workspaces

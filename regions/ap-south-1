@@ -167,6 +167,7 @@ scheduler
 schemas
 secretsmanager
 securityhub
+securitylake
 serverlessrepo
 servicecatalog
 servicecatalog-appregistry
