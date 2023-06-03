@@ -32,6 +32,7 @@ ram
 rbin
 rds
 redshift
+route53resolver
 s3
 secretsmanager
 sns
