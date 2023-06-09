@@ -48,6 +48,7 @@ license-manager-linux-subscriptions
 logs
 metering.marketplace
 metrics.sagemaker
+mgn
 monitoring
 mq
 oam
