@@ -14,6 +14,7 @@ comprehend
 config
 datapipeline
 directconnect
+dlm
 dms
 ds
 dynamodb
