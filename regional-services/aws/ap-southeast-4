@@ -10,6 +10,7 @@ application-autoscaling
 arc-zonal-shift
 autoscaling
 backup
+backupstorage
 batch
 cloudcontrolapi
 cloudformation

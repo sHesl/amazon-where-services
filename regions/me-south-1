@@ -21,6 +21,7 @@ autoscaling
 autoscaling-plans
 backup
 backup-gateway
+backupstorage
 batch
 cassandra
 cloud9

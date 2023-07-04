@@ -11,6 +11,7 @@ appsync
 arc-zonal-shift
 autoscaling
 backup
+backupstorage
 batch
 cloudcontrolapi
 cloudformation

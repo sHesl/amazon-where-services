@@ -16,6 +16,7 @@ athena
 autoscaling
 autoscaling-plans
 backup
+backupstorage
 batch
 budgets
 cassandra
