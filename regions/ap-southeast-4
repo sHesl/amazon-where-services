@@ -51,6 +51,7 @@ metrics.sagemaker
 mgn
 monitoring
 mq
+network-firewall
 oam
 pi
 ram
