@@ -57,6 +57,7 @@ glacier
 glue
 guardduty
 identitystore
+internetmonitor
 kafka
 kendra-ranking
 kinesis
@@ -69,6 +70,7 @@ license-manager-linux-subscriptions
 license-manager-user-subscriptions
 logs
 macie2
+mediaconnect
 metering.marketplace
 metrics.sagemaker
 mgn

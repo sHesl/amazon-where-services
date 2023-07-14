@@ -43,6 +43,7 @@ servicecatalog-appregistry
 sms-voice
 snowball
 ssm
+ssm-incidents
 ssm-sap
 textract
 transcribe

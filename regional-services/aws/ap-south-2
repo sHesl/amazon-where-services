@@ -39,6 +39,7 @@ firehose
 fms
 fsx
 guardduty
+internetmonitor
 kafka
 kendra-ranking
 kinesis

@@ -88,6 +88,7 @@ sns
 sqs
 ssm
 ssm-contacts
+ssm-incidents
 ssm-sap
 states
 swf

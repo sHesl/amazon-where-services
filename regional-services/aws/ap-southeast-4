@@ -38,6 +38,7 @@ firehose
 fms
 fsx
 guardduty
+internetmonitor
 kafka
 kendra-ranking
 kinesis
@@ -79,6 +80,7 @@ sts
 swf
 synthetics
 tagging
+transfer
 verifiedpermissions
 waf-regional
 wafv2
