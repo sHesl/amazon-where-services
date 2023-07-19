@@ -6,6 +6,7 @@ athena
 batch
 cloudcontrolapi
 cloudtrail
+codepipeline
 config
 data-ats.iot
 data.iot

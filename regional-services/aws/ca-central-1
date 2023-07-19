@@ -121,6 +121,8 @@ macie2
 mediaconnect
 mediaconvert
 mediapackage
+mediapackage-vod
+mediapackagev2
 memory-db
 metering.marketplace
 metrics.sagemaker
