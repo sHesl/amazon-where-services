@@ -89,6 +89,7 @@ route53resolver
 runtime.sagemaker
 s3
 s3-control
+savingsplans
 secretsmanager
 securityhub
 serverlessrepo
