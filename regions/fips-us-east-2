@@ -82,7 +82,6 @@ securityhub
 servicecatalog-appregistry
 session.qldb
 signer
-sms
 snowball
 sns
 sqs

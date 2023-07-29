@@ -22,6 +22,7 @@ datasync
 directconnect
 dlm
 dms
+drs
 ds
 dynamodb
 ebs
@@ -37,6 +38,7 @@ events
 firehose
 fms
 fsx
+glue
 guardduty
 internetmonitor
 kafka

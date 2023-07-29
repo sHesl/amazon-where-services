@@ -188,7 +188,6 @@ servicediscovery
 servicequotas
 session.qldb
 signer
-sms
 snowball
 sns
 sqs

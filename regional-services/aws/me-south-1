@@ -122,7 +122,6 @@ servicecatalog-appregistry
 servicediscovery
 servicequotas
 signer
-sms
 sns
 sqs
 ssm
