@@ -30,6 +30,7 @@ license-manager
 logs
 monitoring
 ram
+rbin
 rds
 redshift
 route53resolver
