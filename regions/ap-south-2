@@ -10,6 +10,7 @@ application-autoscaling
 applicationinsights
 appsync
 arc-zonal-shift
+athena
 autoscaling
 backup
 backupstorage
@@ -23,6 +24,7 @@ codedeploy
 config
 datasync
 directconnect
+dlm
 dms
 drs
 ds

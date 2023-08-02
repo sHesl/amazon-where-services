@@ -10,6 +10,7 @@ application-autoscaling
 applicationinsights
 appsync
 arc-zonal-shift
+athena
 autoscaling
 backup
 backupstorage
