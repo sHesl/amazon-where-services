@@ -50,6 +50,7 @@ kendra-ranking
 kinesis
 kinesisanalytics
 kms
+lakeformation
 lambda
 license-manager-linux-subscriptions
 logs
@@ -74,6 +75,7 @@ scheduler
 secretsmanager
 securityhub
 servicecatalog
+servicecatalog-appregistry
 servicediscovery
 servicequotas
 sns

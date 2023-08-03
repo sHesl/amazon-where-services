@@ -73,6 +73,7 @@ scheduler
 secretsmanager
 securityhub
 servicecatalog
+servicecatalog-appregistry
 servicediscovery
 servicequotas
 sns
