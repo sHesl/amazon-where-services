@@ -49,6 +49,7 @@ rds
 redshift
 resource-explorer-2
 resource-groups
+route53resolver
 runtime.sagemaker
 s3
 secretsmanager
