@@ -42,6 +42,7 @@ fips-eu-south-2
 fips-eu-west-1
 fips-eu-west-2
 fips-eu-west-3
+fips-il-central-1
 fips-me-central-1
 fips-me-south-1
 fips-sa-east-1
@@ -54,6 +55,7 @@ fips-us-iso-west-1
 fips-us-isob-east-1
 fips-us-west-1
 fips-us-west-2
+il-central-1
 me-central-1
 me-south-1
 sa-east-1

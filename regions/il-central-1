@@ -25,6 +25,7 @@ ecs
 eks
 elasticache
 elasticbeanstalk
+elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
 es
@@ -37,6 +38,7 @@ kinesis
 kms
 lakeformation
 lambda
+license-manager-linux-subscriptions
 logs
 metering.marketplace
 metrics.sagemaker
@@ -53,6 +55,7 @@ route53resolver
 runtime.sagemaker
 s3
 secretsmanager
+servicecatalog
 servicediscovery
 sns
 sqs
