@@ -11,6 +11,7 @@ application-autoscaling
 applicationinsights
 appmesh
 appsync
+arc-zonal-shift
 athena
 autoscaling
 autoscaling-plans
