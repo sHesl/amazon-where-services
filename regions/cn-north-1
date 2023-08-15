@@ -107,6 +107,7 @@ runtime.sagemaker
 s3
 s3-control
 savingsplans
+schemas
 secretsmanager
 securityhub
 serverlessrepo
