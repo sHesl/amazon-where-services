@@ -11,6 +11,7 @@ api.ecr
 api.fleethub.iot
 api.iotwireless
 api.mediatailor
+api.pricing
 api.sagemaker
 api.tunneling.iot
 apigateway
