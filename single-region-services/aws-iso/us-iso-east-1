@@ -4,7 +4,6 @@ athena
 comprehend
 datapipeline
 ebs
-eks
 glue
 health
 medialive

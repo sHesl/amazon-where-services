@@ -15,6 +15,7 @@ ds
 dynamodb
 ec2
 ecs
+eks
 elasticache
 elasticfilesystem
 elasticloadbalancing
@@ -33,6 +34,7 @@ ram
 rbin
 rds
 redshift
+resource-groups
 route53resolver
 s3
 secretsmanager
