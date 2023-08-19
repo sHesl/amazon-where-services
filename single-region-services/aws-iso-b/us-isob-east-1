@@ -29,6 +29,7 @@ logs
 metering.marketplace
 metrics.sagemaker
 monitoring
+outposts
 ram
 rds
 redshift

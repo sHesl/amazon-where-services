@@ -33,6 +33,7 @@ logs
 metering.marketplace
 metrics.sagemaker
 monitoring
+outposts
 ram
 rbin
 rds
