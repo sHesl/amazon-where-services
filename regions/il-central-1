@@ -45,6 +45,7 @@ license-manager-linux-subscriptions
 logs
 metering.marketplace
 metrics.sagemaker
+mgn
 monitoring
 oam
 pi
@@ -52,6 +53,7 @@ ram
 rbin
 rds
 redshift
+rekognition
 resource-explorer-2
 resource-groups
 route53resolver
@@ -65,6 +67,7 @@ sns
 sqs
 ssm
 states
+storagegateway
 streams.dynamodb
 sts
 swf
