@@ -8,6 +8,7 @@ appconfig
 appconfigdata
 application-autoscaling
 arc-zonal-shift
+athena
 autoscaling
 backup
 batch
@@ -18,6 +19,7 @@ cloudtrail
 codebuild
 codedeploy
 config
+datasync
 directconnect
 dms
 ds
