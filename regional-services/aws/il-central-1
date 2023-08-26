@@ -33,11 +33,14 @@ elasticbeanstalk
 elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
+email
 es
 events
 firehose
 fms
+fsx
 glue
+guardduty
 internetmonitor
 kendra-ranking
 kinesis
@@ -65,10 +68,12 @@ resource-groups
 route53resolver
 runtime.sagemaker
 s3
+s3-outposts
 secretsmanager
 securityhub
 servicecatalog
 servicediscovery
+servicequotas
 sns
 sqs
 ssm
