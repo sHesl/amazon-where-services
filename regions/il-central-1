@@ -1,12 +1,14 @@
 access-analyzer
 acm
 acm-pca
+api.detective
 api.ecr
 api.sagemaker
 apigateway
 appconfig
 appconfigdata
 application-autoscaling
+appmesh
 arc-zonal-shift
 athena
 autoscaling
