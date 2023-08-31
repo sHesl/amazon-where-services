@@ -21,6 +21,7 @@ cloudtrail
 codebuild
 codedeploy
 config
+controltower
 datasync
 directconnect
 dms
@@ -53,6 +54,7 @@ lambda
 license-manager
 license-manager-linux-subscriptions
 logs
+macie2
 metering.marketplace
 metrics.sagemaker
 mgn
