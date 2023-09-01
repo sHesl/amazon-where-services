@@ -20,6 +20,8 @@ cloudhsmv2
 cloudtrail
 codebuild
 codedeploy
+cognito-identity
+cognito-idp
 config
 controltower
 datasync
@@ -53,6 +55,7 @@ lakeformation
 lambda
 license-manager
 license-manager-linux-subscriptions
+license-manager-user-subscriptions
 logs
 macie2
 metering.marketplace
@@ -62,6 +65,7 @@ monitoring
 oam
 outposts
 pi
+portal.sso
 ram
 rbin
 rds

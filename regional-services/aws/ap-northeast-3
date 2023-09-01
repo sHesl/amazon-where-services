@@ -27,6 +27,8 @@ cloudtrail-data
 codebuild
 codecommit
 codedeploy
+cognito-identity
+cognito-idp
 compute-optimizer
 config
 controltower
