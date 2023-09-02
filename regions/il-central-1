@@ -19,6 +19,7 @@ cloudformation
 cloudhsmv2
 cloudtrail
 codebuild
+codecommit
 codedeploy
 cognito-identity
 cognito-idp
@@ -58,6 +59,7 @@ license-manager-linux-subscriptions
 license-manager-user-subscriptions
 logs
 macie2
+meetings-chime
 metering.marketplace
 metrics.sagemaker
 mgn
@@ -85,6 +87,7 @@ servicequotas
 sns
 sqs
 ssm
+sso
 states
 storagegateway
 streams.dynamodb
