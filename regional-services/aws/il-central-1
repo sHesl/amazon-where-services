@@ -65,6 +65,7 @@ metrics.sagemaker
 mgn
 monitoring
 oam
+oidc
 outposts
 pi
 portal.sso
@@ -95,6 +96,7 @@ sts
 swf
 synthetics
 tagging
+transfer
 waf-regional
 wafv2
 xray
