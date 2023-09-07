@@ -45,6 +45,7 @@ fms
 fsx
 glue
 guardduty
+identitystore
 internetmonitor
 kafka
 kendra-ranking

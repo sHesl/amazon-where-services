@@ -29,6 +29,7 @@ events
 firehose
 fms
 fsx
+geo
 glacier
 glue
 greengrass
