@@ -62,6 +62,7 @@ comprehend
 compute-optimizer
 config
 connect
+connect-campaigns
 contact-lens
 controltower
 data-ats.iot
