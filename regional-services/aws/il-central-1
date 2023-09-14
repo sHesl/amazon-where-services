@@ -28,6 +28,7 @@ controltower
 datasync
 directconnect
 dms
+drs
 ds
 dynamodb
 ebs
