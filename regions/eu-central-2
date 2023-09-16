@@ -23,6 +23,7 @@ codebuild
 codedeploy
 codepipeline
 config
+controltower
 datasync
 directconnect
 dlm

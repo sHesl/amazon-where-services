@@ -21,6 +21,7 @@ cloudtrail
 codebuild
 codedeploy
 config
+controltower
 datasync
 directconnect
 dlm

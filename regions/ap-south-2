@@ -22,6 +22,7 @@ codebuild
 codecommit
 codedeploy
 config
+controltower
 datasync
 directconnect
 dlm
