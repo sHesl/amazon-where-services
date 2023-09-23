@@ -82,8 +82,10 @@ monitoring
 mq
 neptune
 oam
+oidc
 pi
 polly
+portal.sso
 ram
 rbin
 rds

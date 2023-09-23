@@ -92,9 +92,11 @@ monitoring
 mq
 neptune
 oam
+oidc
 organizations
 personalize
 pi
+portal.sso
 ram
 rbin
 rds
