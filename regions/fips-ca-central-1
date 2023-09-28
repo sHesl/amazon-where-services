@@ -15,6 +15,7 @@ ebs
 ec2
 elasticfilesystem
 elasticmapreduce
+email
 emr-containers
 emr-serverless
 fms

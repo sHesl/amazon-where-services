@@ -4,6 +4,7 @@ api.ecr
 api.fleethub.iot
 api.tunneling.iot
 apigateway
+appflow
 apprunner
 athena
 batch
@@ -31,6 +32,7 @@ elasticbeanstalk
 elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
+email
 emr-containers
 emr-serverless
 events

@@ -4,6 +4,7 @@ api.ecr
 api.fleethub.iot
 api.tunneling.iot
 apigateway
+appflow
 apprunner
 athena
 batch
