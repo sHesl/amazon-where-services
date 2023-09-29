@@ -3,6 +3,7 @@ account
 acm
 airflow
 api.ecr
+api.pricing
 api.sagemaker
 api.tunneling.iot
 apigateway

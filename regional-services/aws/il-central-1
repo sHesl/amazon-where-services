@@ -67,6 +67,7 @@ metering.marketplace
 metrics.sagemaker
 mgn
 monitoring
+network-firewall
 oam
 oidc
 omics
