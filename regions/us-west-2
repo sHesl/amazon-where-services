@@ -37,6 +37,7 @@ backup
 backup-gateway
 backupstorage
 batch
+bedrock
 braket
 cases
 cassandra
