@@ -29,6 +29,7 @@ codebuild
 codecommit
 codedeploy
 codepipeline
+codestar-connections
 cognito-identity
 cognito-idp
 comprehend
