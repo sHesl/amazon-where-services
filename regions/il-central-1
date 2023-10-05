@@ -26,6 +26,7 @@ cognito-idp
 config
 controltower
 datasync
+datazone
 directconnect
 dms
 drs

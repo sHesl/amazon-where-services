@@ -20,6 +20,7 @@ codebuild
 codedeploy
 config
 datasync
+datazone
 directconnect
 dlm
 dms
@@ -49,6 +50,7 @@ kinesisanalytics
 kms
 lakeformation
 lambda
+license-manager
 license-manager-linux-subscriptions
 license-manager-user-subscriptions
 logs
