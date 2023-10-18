@@ -93,6 +93,7 @@ emr-containers
 emr-serverless
 es
 events
+finspace
 firehose
 fms
 fsx
