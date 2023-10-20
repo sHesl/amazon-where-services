@@ -62,6 +62,7 @@ participant.connect
 pinpoint
 polly
 rbin
+resiliencehub
 resource-groups
 route53
 s3
