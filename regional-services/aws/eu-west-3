@@ -7,6 +7,7 @@ amplifybackend
 amplifyuibuilder
 api.detective
 api.ecr
+api.mediatailor
 api.sagemaker
 api.tunneling.iot
 apigateway

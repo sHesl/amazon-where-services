@@ -43,6 +43,7 @@ redshift
 resource-groups
 route53
 route53resolver
+runtime.sagemaker
 s3
 secretsmanager
 snowball

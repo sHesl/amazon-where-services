@@ -8,6 +8,7 @@ amplifyuibuilder
 api.detective
 api.ecr
 api.fleethub.iot
+api.mediatailor
 api.sagemaker
 api.tunneling.iot
 apigateway
