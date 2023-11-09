@@ -17,6 +17,7 @@ appflow
 application-autoscaling
 applicationinsights
 appmesh
+apprunner
 appsync
 aps
 arc-zonal-shift
