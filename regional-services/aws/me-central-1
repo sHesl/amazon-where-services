@@ -23,6 +23,7 @@ cloudtrail
 codebuild
 codecommit
 codedeploy
+codepipeline
 config
 controltower
 data-ats.iot
