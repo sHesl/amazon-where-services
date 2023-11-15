@@ -2,6 +2,7 @@ acm-pca
 api.ecr
 api.tunneling.iot
 appconfig
+appconfigdata
 athena
 batch
 cloudcontrolapi

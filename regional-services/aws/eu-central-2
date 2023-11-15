@@ -22,6 +22,7 @@ cloudtrail
 codebuild
 codedeploy
 codepipeline
+compute-optimizer
 config
 controltower
 datasync
