@@ -32,6 +32,7 @@ secretsmanager
 serverlessrepo
 servicecatalog
 servicediscovery
+sso
 storagegateway
 streams.dynamodb
 sts
