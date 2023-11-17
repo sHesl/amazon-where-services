@@ -5,6 +5,7 @@ api.tunneling.iot
 apigateway
 appflow
 athena
+autoscaling
 batch
 cloudcontrolapi
 cloudtrail

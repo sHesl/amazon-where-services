@@ -7,6 +7,7 @@ apigateway
 appflow
 apprunner
 athena
+autoscaling
 batch
 cases
 cassandra

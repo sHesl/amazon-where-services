@@ -13,6 +13,7 @@ dlm
 dms
 ds
 dynamodb
+ebs
 ec2
 ecs
 eks

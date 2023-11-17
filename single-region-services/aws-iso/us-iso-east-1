@@ -3,7 +3,6 @@ apigateway
 athena
 comprehend
 datapipeline
-ebs
 glue
 health
 medialive
