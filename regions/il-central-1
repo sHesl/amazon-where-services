@@ -91,6 +91,7 @@ s3-outposts
 secretsmanager
 securityhub
 servicecatalog
+servicecatalog-appregistry
 servicediscovery
 servicequotas
 sns
