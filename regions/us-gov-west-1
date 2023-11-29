@@ -48,6 +48,7 @@ directconnect
 dlm
 dms
 docdb
+drs
 ds
 dynamodb
 ebs
@@ -116,6 +117,7 @@ pi
 pinpoint
 polly
 portal.sso
+qbusiness
 quicksight
 ram
 rbin

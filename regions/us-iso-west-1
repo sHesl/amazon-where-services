@@ -8,6 +8,7 @@ cloudformation
 cloudtrail
 codedeploy
 config
+datasync
 directconnect
 dlm
 dms

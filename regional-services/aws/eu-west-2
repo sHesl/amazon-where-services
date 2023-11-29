@@ -167,6 +167,7 @@ portal.sso
 profile
 projects.iot1click
 proton
+qbusiness
 qldb
 quicksight
 ram
@@ -217,6 +218,7 @@ swf
 synthetics
 tagging
 textract
+thinclient
 transcribe
 transcribestreaming
 transfer

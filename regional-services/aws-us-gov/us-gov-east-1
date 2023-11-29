@@ -39,6 +39,7 @@ datazone
 directconnect
 dlm
 dms
+drs
 ds
 dynamodb
 ebs
@@ -89,6 +90,7 @@ oidc
 outposts
 pi
 portal.sso
+qbusiness
 ram
 rbin
 rds
