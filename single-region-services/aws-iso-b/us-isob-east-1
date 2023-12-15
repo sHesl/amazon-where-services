@@ -31,7 +31,6 @@ metering.marketplace
 metrics.sagemaker
 monitoring
 outposts
-ram
 resource-groups
 route53resolver
 runtime.sagemaker

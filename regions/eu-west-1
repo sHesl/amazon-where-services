@@ -86,6 +86,7 @@ ec2
 ecs
 edge.sagemaker
 eks
+eks-auth
 elasticache
 elasticbeanstalk
 elasticfilesystem

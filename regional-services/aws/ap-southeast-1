@@ -83,6 +83,7 @@ ebs
 ec2
 ecs
 eks
+eks-auth
 elasticache
 elasticbeanstalk
 elasticfilesystem
