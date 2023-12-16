@@ -64,6 +64,7 @@ rbin
 rds-data
 redshift
 resource-groups
+rolesanywhere
 s3
 s3-outposts
 securityhub
