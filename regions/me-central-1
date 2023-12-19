@@ -54,6 +54,7 @@ fms
 fsx
 glue
 guardduty
+identitystore
 internetmonitor
 iot
 kafka

@@ -34,7 +34,6 @@ outposts
 resource-groups
 route53resolver
 runtime.sagemaker
-s3
 secretsmanager
 snowball
 sns

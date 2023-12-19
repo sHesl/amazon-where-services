@@ -17,6 +17,7 @@ backupstorage
 batch
 cloudcontrolapi
 cloudformation
+cloudhsmv2
 cloudtrail
 codebuild
 codecommit
