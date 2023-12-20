@@ -47,6 +47,7 @@ fms
 fsx
 glue
 guardduty
+identitystore
 internetmonitor
 kafka
 kendra-ranking
@@ -59,6 +60,7 @@ license-manager
 license-manager-linux-subscriptions
 license-manager-user-subscriptions
 logs
+mediaconnect
 mediaconvert
 metering.marketplace
 metrics.sagemaker
