@@ -1,0 +1,12 @@
+apigateway
+autoscaling
+cloudcontrolapi
+datasync
+ebs
+elasticmapreduce
+ram
+rbin
+redshift
+s3
+sns
+ssm
