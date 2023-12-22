@@ -36,6 +36,7 @@ kms
 lambda
 license-manager-linux-subscriptions
 logs
+metrics.sagemaker
 monitoring
 oam
 pi
@@ -45,6 +46,7 @@ rbin
 redshift
 resource-groups
 route53resolver
+runtime.sagemaker
 s3
 secretsmanager
 securityhub
