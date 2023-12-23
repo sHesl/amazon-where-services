@@ -5,6 +5,7 @@ apigateway
 appconfig
 appconfigdata
 application-autoscaling
+arc-zonal-shift
 autoscaling
 batch
 cloudcontrolapi
