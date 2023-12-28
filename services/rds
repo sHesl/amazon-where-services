@@ -11,6 +11,8 @@ ap-southeast-3
 ap-southeast-4
 ca-central-1
 ca-central-1-fips
+ca-west-1
+ca-west-1-fips
 cn-north-1
 cn-northwest-1
 eu-central-1
@@ -25,6 +27,7 @@ il-central-1
 me-central-1
 me-south-1
 rds-fips.ca-central-1
+rds-fips.ca-west-1
 rds-fips.us-east-1
 rds-fips.us-east-2
 rds-fips.us-iso-east-1
@@ -33,6 +36,7 @@ rds-fips.us-isob-east-1
 rds-fips.us-west-1
 rds-fips.us-west-2
 rds.ca-central-1
+rds.ca-west-1
 rds.us-east-1
 rds.us-east-2
 rds.us-gov-east-1

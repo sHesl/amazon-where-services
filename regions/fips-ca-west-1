@@ -2,6 +2,7 @@ apigateway
 autoscaling
 cloudcontrolapi
 datasync
+ds
 ebs
 elasticmapreduce
 ram
