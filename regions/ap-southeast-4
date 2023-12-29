@@ -62,6 +62,9 @@ license-manager-user-subscriptions
 logs
 mediaconnect
 mediaconvert
+mediapackage
+mediapackage-vod
+mediapackagev2
 metering.marketplace
 metrics.sagemaker
 mgn
