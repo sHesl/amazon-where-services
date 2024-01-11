@@ -85,6 +85,7 @@ rolesanywhere
 s3
 s3-outposts
 securityhub
+securitylake
 servicecatalog-appregistry
 session.qldb
 signer
