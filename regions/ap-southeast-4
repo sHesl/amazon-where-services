@@ -8,6 +8,7 @@ apigateway
 appconfig
 appconfigdata
 application-autoscaling
+appsync
 arc-zonal-shift
 athena
 autoscaling
