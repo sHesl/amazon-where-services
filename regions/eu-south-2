@@ -60,6 +60,7 @@ license-manager
 license-manager-linux-subscriptions
 license-manager-user-subscriptions
 logs
+m2
 metering.marketplace
 metrics.sagemaker
 mgn
@@ -87,6 +88,7 @@ servicecatalog
 servicecatalog-appregistry
 servicediscovery
 servicequotas
+sms-voice
 sns
 sqs
 ssm
