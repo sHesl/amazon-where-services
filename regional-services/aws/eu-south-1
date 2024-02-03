@@ -121,6 +121,7 @@ servicecatalog-appregistry
 servicediscovery
 servicequotas
 signer
+sms-voice
 snowball
 sns
 sqs

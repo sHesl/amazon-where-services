@@ -203,6 +203,7 @@ servicequotas
 session.qldb
 signer
 simspaceweaver
+sms-voice
 snowball
 sns
 sqs

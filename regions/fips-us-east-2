@@ -89,6 +89,7 @@ securitylake
 servicecatalog-appregistry
 session.qldb
 signer
+sms-voice
 snowball
 sns
 sqs
