@@ -1,9 +1,11 @@
 api.ecr
+api.pricing
 api.sagemaker
 apigateway
 appconfig
 appconfigdata
 application-autoscaling
+arc-zonal-shift
 athena
 autoscaling
 cloudcontrolapi

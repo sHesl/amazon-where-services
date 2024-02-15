@@ -1,8 +1,10 @@
 api.ecr
+api.pricing
 api.sagemaker
 appconfig
 appconfigdata
 application-autoscaling
+arc-zonal-shift
 autoscaling
 cloudcontrolapi
 cloudformation
