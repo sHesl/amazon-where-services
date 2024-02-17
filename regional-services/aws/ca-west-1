@@ -23,10 +23,12 @@ dms
 ds
 dynamodb
 ebs
+ec2
 ecs
 eks
 eks-auth
 elasticache
+elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
 es

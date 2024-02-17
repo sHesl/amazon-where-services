@@ -39,6 +39,7 @@ qldb
 ram
 rbin
 redshift
+redshift-serverless
 s3
 s3-outposts
 servicecatalog-appregistry

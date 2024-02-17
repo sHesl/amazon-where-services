@@ -3,6 +3,7 @@ api.detective
 api.sagemaker
 appmesh
 appstream2
+auditmanager
 cloudformation
 codebuild
 codecommit

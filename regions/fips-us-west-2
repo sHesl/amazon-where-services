@@ -87,6 +87,7 @@ ram
 rbin
 rds-data
 redshift
+redshift-serverless
 resource-groups
 rolesanywhere
 s3

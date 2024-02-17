@@ -5,6 +5,8 @@ cloudcontrolapi
 datasync
 ds
 ebs
+ec2
+elasticfilesystem
 elasticmapreduce
 ram
 rbin
