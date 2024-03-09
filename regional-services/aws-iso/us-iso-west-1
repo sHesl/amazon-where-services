@@ -2,6 +2,7 @@ api.ecr
 appconfig
 appconfigdata
 application-autoscaling
+arc-zonal-shift
 autoscaling
 cloudcontrolapi
 cloudformation

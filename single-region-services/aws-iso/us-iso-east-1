@@ -1,7 +1,6 @@
 api.pricing
 api.sagemaker
 apigateway
-arc-zonal-shift
 athena
 comprehend
 datapipeline

@@ -35,10 +35,12 @@ es
 events
 firehose
 glue
+guardduty
 internetmonitor
 kendra-ranking
 kinesis
 kms
+lakeformation
 lambda
 license-manager-linux-subscriptions
 logs
@@ -52,6 +54,7 @@ rbin
 rds
 redshift
 resource-groups
+rolesanywhere
 route53resolver
 runtime.sagemaker
 s3

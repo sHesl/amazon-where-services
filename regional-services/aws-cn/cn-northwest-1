@@ -81,6 +81,7 @@ metrics.sagemaker
 monitoring
 mq
 neptune
+network-firewall
 oam
 oidc
 pi
