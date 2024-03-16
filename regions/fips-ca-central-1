@@ -6,6 +6,7 @@ apigateway
 autoscaling
 cloudcontrolapi
 codepipeline
+comprehendmedical
 data-ats.iot
 data.iot
 data.jobs.iot

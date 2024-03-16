@@ -41,6 +41,7 @@ elasticache
 elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
+emr-containers
 emr-serverless
 es
 events
@@ -49,6 +50,7 @@ fms
 fsx
 glue
 guardduty
+identitystore
 internetmonitor
 kafka
 kendra-ranking

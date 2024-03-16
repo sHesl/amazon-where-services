@@ -9,6 +9,7 @@ appconfigdata
 application-autoscaling
 arc-zonal-shift
 autoscaling
+backup
 batch
 cloudcontrolapi
 cloudformation
@@ -39,6 +40,7 @@ guardduty
 internetmonitor
 kendra-ranking
 kinesis
+kinesisanalytics
 kms
 lakeformation
 lambda

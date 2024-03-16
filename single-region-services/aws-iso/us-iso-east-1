@@ -14,6 +14,7 @@ outposts
 runtime.sagemaker
 snowball
 support
+textract
 transcribe
 transcribestreaming
 translate
