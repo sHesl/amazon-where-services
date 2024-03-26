@@ -106,6 +106,7 @@ meetings-chime
 metering.marketplace
 metrics.sagemaker
 mgn
+models-v2-lex
 models.lex
 monitoring
 mq
@@ -133,6 +134,7 @@ robomaker
 rolesanywhere
 route53
 route53resolver
+runtime-v2-lex
 runtime.lex
 runtime.sagemaker
 s3
