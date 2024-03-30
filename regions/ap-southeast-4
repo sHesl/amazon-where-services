@@ -21,6 +21,7 @@ cloudtrail
 codebuild
 codedeploy
 codepipeline
+cognito-idp
 compute-optimizer
 config
 controltower
