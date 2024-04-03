@@ -3,3 +3,4 @@ dynamodb
 kms
 rds
 secretsmanager
+servicediscovery
