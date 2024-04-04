@@ -104,6 +104,7 @@ synthetics
 textract
 transcribe
 transfer
+verifiedpermissions
 waf-regional
 wafv2
 xray
