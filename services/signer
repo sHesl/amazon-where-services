@@ -16,10 +16,14 @@ eu-west-2
 eu-west-3
 fips-us-east-1
 fips-us-east-2
+fips-us-gov-east-1
+fips-us-gov-west-1
 fips-us-west-1
 fips-us-west-2
 fips-verification-us-east-1
 fips-verification-us-east-2
+fips-verification-us-gov-east-1
+fips-verification-us-gov-west-1
 fips-verification-us-west-1
 fips-verification-us-west-2
 me-south-1
@@ -50,5 +54,7 @@ verification-me-south-1
 verification-sa-east-1
 verification-us-east-1
 verification-us-east-2
+verification-us-gov-east-1
+verification-us-gov-west-1
 verification-us-west-1
 verification-us-west-2
