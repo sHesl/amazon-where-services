@@ -1,6 +1,7 @@
 datasync
 elasticfilesystem
 elasticmapreduce
+fsx
 ram
 rbin
 redshift

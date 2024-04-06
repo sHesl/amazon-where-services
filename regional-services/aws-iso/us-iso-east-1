@@ -26,6 +26,7 @@ elasticmapreduce
 es
 events
 firehose
+fsx
 glacier
 kinesis
 kms

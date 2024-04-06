@@ -74,6 +74,7 @@ oam
 oidc
 pi
 pipes
+portal.sso
 qbusiness
 ram
 rbin
@@ -96,6 +97,7 @@ sms-voice
 sns
 sqs
 ssm
+sso
 states
 storagegateway
 streams.dynamodb
