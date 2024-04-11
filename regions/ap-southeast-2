@@ -34,6 +34,7 @@ backup
 backup-gateway
 backupstorage
 batch
+bedrock
 cases
 cassandra
 cleanrooms
