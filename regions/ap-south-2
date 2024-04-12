@@ -24,6 +24,7 @@ codebuild
 codecommit
 codedeploy
 codepipeline
+cognito-idp
 compute-optimizer
 config
 controltower
