@@ -43,6 +43,7 @@ route53resolver
 s3
 s3-outposts
 secretsmanager
+snowball
 sns
 sqs
 ssm

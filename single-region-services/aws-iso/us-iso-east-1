@@ -12,7 +12,6 @@ mediapackage
 metrics.sagemaker
 outposts
 runtime.sagemaker
-snowball
 support
 textract
 transcribe

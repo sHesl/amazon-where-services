@@ -26,6 +26,7 @@ elasticloadbalancing
 elasticmapreduce
 es
 events
+firehose
 glacier
 health
 iam

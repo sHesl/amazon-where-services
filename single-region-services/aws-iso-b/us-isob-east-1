@@ -23,6 +23,7 @@ elasticache
 elasticloadbalancing
 es
 events
+firehose
 glacier
 health
 kinesis
