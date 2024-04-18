@@ -39,6 +39,7 @@ firehose
 glue
 guardduty
 internetmonitor
+kafka
 kendra-ranking
 kinesis
 kinesisanalytics

@@ -8,6 +8,7 @@ ebs
 ec2
 elasticfilesystem
 elasticmapreduce
+kafka
 logs
 ram
 rbin

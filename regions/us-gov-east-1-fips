@@ -7,6 +7,7 @@ cloudformation
 codebuild
 codecommit
 codedeploy
+controltower
 dlm
 dms
 dynamodb
