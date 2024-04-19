@@ -119,6 +119,7 @@ rum
 runtime-v2-lex
 runtime.sagemaker
 s3
+s3-control
 s3-outposts
 scheduler
 schemas

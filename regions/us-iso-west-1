@@ -40,6 +40,7 @@ redshift
 resource-groups
 route53resolver
 s3
+s3-control
 secretsmanager
 snowball
 sns

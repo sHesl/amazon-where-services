@@ -3,6 +3,7 @@ api.detective
 api.sagemaker
 application-autoscaling
 appstream2
+autoscaling-plans
 cassandra
 clouddirectory
 cloudformation

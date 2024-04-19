@@ -87,6 +87,7 @@ rolesanywhere
 route53resolver
 runtime.sagemaker
 s3
+s3-control
 scheduler
 schemas
 secretsmanager

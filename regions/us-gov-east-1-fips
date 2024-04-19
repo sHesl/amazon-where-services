@@ -2,6 +2,7 @@ access-analyzer
 api.detective
 application-autoscaling
 appstream2
+autoscaling-plans
 cassandra
 cloudformation
 codebuild
