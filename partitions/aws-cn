@@ -60,6 +60,7 @@ elasticloadbalancing
 elasticmapreduce
 emr-containers
 emr-serverless
+entitlement.marketplace
 es
 events
 firehose
