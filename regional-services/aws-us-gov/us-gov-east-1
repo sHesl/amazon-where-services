@@ -52,6 +52,7 @@ elasticbeanstalk
 elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
+email
 emr-containers
 emr-serverless
 es
@@ -78,6 +79,7 @@ lakeformation
 lambda
 license-manager
 license-manager-linux-subscriptions
+license-manager-user-subscriptions
 logs
 m2
 meetings-chime
