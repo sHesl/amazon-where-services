@@ -35,6 +35,7 @@ backup
 backup-gateway
 backupstorage
 batch
+bedrock
 cassandra
 cleanrooms
 cloud9
