@@ -10,6 +10,7 @@ ap-southeast-2
 ap-southeast-3
 ap-southeast-4
 ca-central-1
+ca-west-1
 cn-north-1
 cn-northwest-1
 eu-central-1
@@ -21,7 +22,9 @@ eu-west-1
 eu-west-2
 eu-west-3
 fips-ca-central-1
+fips-ca-west-1
 fips-prod-ca-central-1
+fips-prod-ca-west-1
 fips-prod-us-east-1
 fips-prod-us-east-2
 fips-prod-us-gov-east-1
@@ -40,6 +43,7 @@ il-central-1
 me-central-1
 me-south-1
 prod-ca-central-1
+prod-ca-west-1
 prod-us-east-1
 prod-us-east-2
 prod-us-gov-east-1

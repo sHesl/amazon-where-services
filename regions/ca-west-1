@@ -36,6 +36,7 @@ elasticmapreduce
 es
 events
 firehose
+fsx
 glue
 guardduty
 internetmonitor
@@ -78,6 +79,7 @@ sts
 swf
 synthetics
 tagging
+transfer
 verifiedpermissions
 wafv2
 xray
