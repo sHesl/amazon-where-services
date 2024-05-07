@@ -8,6 +8,7 @@ ebs
 ec2
 elasticfilesystem
 elasticmapreduce
+fms
 fsx
 kafka
 logs
@@ -17,5 +18,6 @@ redshift
 s3
 sns
 ssm
+transfer
 verifiedpermissions
 wafv2
