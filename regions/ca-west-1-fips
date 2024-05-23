@@ -3,5 +3,6 @@ controltower
 dynamodb
 kms
 rds
+s3-control
 secretsmanager
 servicediscovery
