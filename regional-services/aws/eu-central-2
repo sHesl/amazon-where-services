@@ -77,10 +77,12 @@ pi
 pipes
 portal.sso
 qbusiness
+quicksight
 ram
 rbin
 rds
 redshift
+redshift-serverless
 resource-explorer-2
 resource-groups
 rolesanywhere

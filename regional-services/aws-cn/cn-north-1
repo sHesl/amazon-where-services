@@ -93,6 +93,7 @@ ram
 rbin
 rds
 redshift
+redshift-serverless
 resource-groups
 rolesanywhere
 route53resolver
