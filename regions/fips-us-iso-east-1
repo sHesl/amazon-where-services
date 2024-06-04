@@ -2,7 +2,6 @@ datasync
 elasticfilesystem
 elasticmapreduce
 fsx
-ram
 rbin
 redshift
 s3
