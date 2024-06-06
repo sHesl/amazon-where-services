@@ -4,6 +4,7 @@ apigateway
 autoscaling
 cloudcontrolapi
 datasync
+directconnect
 ds
 ebs
 ec2
