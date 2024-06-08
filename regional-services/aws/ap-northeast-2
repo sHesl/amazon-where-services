@@ -31,6 +31,7 @@ backup
 backup-gateway
 backupstorage
 batch
+cases
 cassandra
 cleanrooms
 cloud9
