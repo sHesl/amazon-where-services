@@ -109,6 +109,7 @@ s3-control
 s3-outposts
 secretsmanager
 securityhub
+securitylake
 serverlessrepo
 servicecatalog
 servicecatalog-appregistry

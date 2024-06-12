@@ -23,6 +23,7 @@ rds
 route53resolver
 s3-control
 secretsmanager
+securitylake
 serverlessrepo
 servicecatalog
 servicediscovery

@@ -11,7 +11,9 @@ bedrock-eu-central-1
 bedrock-eu-west-1
 bedrock-eu-west-2
 bedrock-eu-west-3
+bedrock-fips-ca-central-1
 bedrock-fips-us-east-1
+bedrock-fips-us-gov-west-1
 bedrock-fips-us-west-2
 bedrock-runtime-ap-northeast-1
 bedrock-runtime-ap-south-1
@@ -22,7 +24,9 @@ bedrock-runtime-eu-central-1
 bedrock-runtime-eu-west-1
 bedrock-runtime-eu-west-2
 bedrock-runtime-eu-west-3
+bedrock-runtime-fips-ca-central-1
 bedrock-runtime-fips-us-east-1
+bedrock-runtime-fips-us-gov-west-1
 bedrock-runtime-fips-us-west-2
 bedrock-runtime-sa-east-1
 bedrock-runtime-us-east-1

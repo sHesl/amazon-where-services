@@ -31,6 +31,7 @@ runtime.lex
 runtime.sagemaker
 s3-control
 secretsmanager
+securitylake
 serverlessrepo
 servicecatalog
 servicediscovery
