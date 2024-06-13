@@ -14,7 +14,6 @@ arc-zonal-shift
 athena
 autoscaling
 backup
-backupstorage
 batch
 cloudcontrolapi
 cloudformation

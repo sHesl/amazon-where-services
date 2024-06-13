@@ -16,7 +16,6 @@ athena
 autoscaling
 autoscaling-plans
 backup
-backupstorage
 batch
 cassandra
 cloudcontrolapi

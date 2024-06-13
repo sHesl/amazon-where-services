@@ -29,7 +29,6 @@ autoscaling
 autoscaling-plans
 backup
 backup-gateway
-backupstorage
 batch
 cases
 cassandra

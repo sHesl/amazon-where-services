@@ -35,7 +35,6 @@ autoscaling
 autoscaling-plans
 backup
 backup-gateway
-backupstorage
 batch
 bedrock
 braket

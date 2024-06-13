@@ -56,6 +56,7 @@ license-manager-user-subscriptions
 logs
 metrics.sagemaker
 monitoring
+mq
 oam
 pi
 qbusiness
