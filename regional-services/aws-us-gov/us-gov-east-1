@@ -73,6 +73,7 @@ kafka
 kendra-ranking
 kinesis
 kinesisanalytics
+kinesisvideo
 kms
 lakeformation
 lambda
