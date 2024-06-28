@@ -5,6 +5,7 @@ codecommit
 controltower
 dynamodb
 kms
+meetings-chime
 rds
 rekognition
 s3-control
