@@ -58,6 +58,7 @@ metrics.sagemaker
 monitoring
 mq
 oam
+oidc
 pi
 qbusiness
 ram
