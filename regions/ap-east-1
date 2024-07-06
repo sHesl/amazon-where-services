@@ -33,6 +33,7 @@ codecommit
 codedeploy
 codepipeline
 codestar-notifications
+cognito-idp
 compute-optimizer
 config
 controltower

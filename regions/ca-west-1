@@ -16,6 +16,8 @@ cloudcontrolapi
 cloudformation
 cloudtrail
 codedeploy
+cognito-identity
+cognito-idp
 config
 controltower
 datasync
@@ -77,6 +79,7 @@ securityhub
 servicecatalog-appregistry
 servicediscovery
 servicequotas
+sms-voice
 sns
 sqs
 ssm
