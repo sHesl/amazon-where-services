@@ -37,6 +37,7 @@ metrics.sagemaker
 monitoring
 outposts
 ram
+redshift
 resource-groups
 route53resolver
 runtime.sagemaker
