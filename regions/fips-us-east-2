@@ -9,6 +9,7 @@ apprunner
 athena
 autoscaling
 batch
+cloud9
 cloudcontrolapi
 cloudtrail
 codepipeline

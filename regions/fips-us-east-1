@@ -11,6 +11,7 @@ autoscaling
 batch
 cases
 cassandra
+cloud9
 cloudcontrolapi
 cloudtrail
 codepipeline
