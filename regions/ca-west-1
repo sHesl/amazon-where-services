@@ -60,9 +60,11 @@ logs
 metrics.sagemaker
 monitoring
 mq
+network-firewall
 oam
 oidc
 pi
+portal.sso
 qbusiness
 ram
 rbin
