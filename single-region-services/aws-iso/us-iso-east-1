@@ -1,6 +1,5 @@
 api.pricing
 api.sagemaker
-apigateway
 athena
 comprehend
 datapipeline
