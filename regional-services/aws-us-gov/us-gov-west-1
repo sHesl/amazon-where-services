@@ -108,6 +108,7 @@ monitoring
 mq
 neptune
 network-firewall
+oam
 oidc
 outposts
 participant.connect
