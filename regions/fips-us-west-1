@@ -46,6 +46,7 @@ iot
 iotsecuredtunneling
 kafka
 kinesis
+kinesisanalytics
 lakeformation
 lambda
 license-manager

@@ -9,6 +9,7 @@ apigateway
 appconfig
 appconfigdata
 application-autoscaling
+applicationinsights
 appmesh
 appsync
 arc-zonal-shift
