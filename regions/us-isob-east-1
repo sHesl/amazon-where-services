@@ -7,6 +7,7 @@ appconfigdata
 application-autoscaling
 arc-zonal-shift
 autoscaling
+budgets
 cloudcontrolapi
 cloudformation
 cloudtrail
