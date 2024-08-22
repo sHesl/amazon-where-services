@@ -44,7 +44,6 @@ codebuild
 codecommit
 codedeploy
 codepipeline
-codestar
 codestar-connections
 codestar-notifications
 cognito-identity
