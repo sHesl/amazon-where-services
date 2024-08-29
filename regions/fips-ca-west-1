@@ -23,6 +23,7 @@ redshift
 s3
 sns
 ssm
+synthetics
 transfer
 verifiedpermissions
 wafv2
