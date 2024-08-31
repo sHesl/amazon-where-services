@@ -10,6 +10,7 @@ rds
 rekognition
 s3-control
 secretsmanager
+serverlessrepo
 servicediscovery
 storagegateway
 voice-chime
