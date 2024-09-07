@@ -20,6 +20,7 @@ meetings-chime
 models.lex
 rds
 rekognition
+route53resolver
 runtime.lex
 runtime.sagemaker
 s3-control

@@ -16,6 +16,7 @@ guardduty
 kms
 rds
 rekognition
+route53resolver
 runtime.sagemaker
 s3-control
 secretsmanager

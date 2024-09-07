@@ -6,6 +6,7 @@ api.tunneling.iot
 apigateway
 appflow
 apprunner
+apptest
 athena
 autoscaling
 batch

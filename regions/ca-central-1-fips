@@ -8,6 +8,7 @@ kms
 meetings-chime
 rds
 rekognition
+route53resolver
 s3-control
 secretsmanager
 serverlessrepo
