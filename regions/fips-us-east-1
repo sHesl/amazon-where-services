@@ -12,6 +12,7 @@ autoscaling
 batch
 cases
 cassandra
+cleanrooms
 cloud9
 cloudcontrolapi
 cloudtrail
@@ -128,4 +129,5 @@ wafv2
 wisdom
 workdocs
 workspaces
+workspaces-web
 xray
