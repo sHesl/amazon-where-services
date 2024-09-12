@@ -9,6 +9,7 @@ health
 medialive
 mediapackage
 metrics.sagemaker
+oam
 outposts
 runtime.sagemaker
 support
