@@ -104,6 +104,7 @@ sms-voice
 sns
 sqs
 ssm
+ssm-sap
 sso
 states
 storagegateway
