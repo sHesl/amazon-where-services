@@ -15,7 +15,6 @@ codedeploy
 config
 directconnect
 dlm
-ds
 dynamodb
 ebs
 ec2
