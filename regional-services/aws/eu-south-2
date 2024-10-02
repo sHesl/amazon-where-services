@@ -51,6 +51,7 @@ events
 firehose
 fms
 fsx
+geo
 glue
 guardduty
 identitystore
@@ -67,6 +68,7 @@ license-manager-linux-subscriptions
 license-manager-user-subscriptions
 logs
 m2
+memory-db
 metering.marketplace
 metrics.sagemaker
 mgn
