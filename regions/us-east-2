@@ -32,6 +32,7 @@ autoscaling-plans
 backup
 backup-gateway
 batch
+bedrock
 cassandra
 cleanrooms
 cloud9
