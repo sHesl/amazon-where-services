@@ -2,6 +2,7 @@ access-analyzer
 acm
 acm-pca
 airflow
+aoss
 api.ecr
 api.sagemaker
 apigateway
