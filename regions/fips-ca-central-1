@@ -48,6 +48,7 @@ ram
 rbin
 redshift
 redshift-serverless
+resource-explorer-2
 s3
 s3-outposts
 servicecatalog-appregistry
@@ -65,3 +66,4 @@ verifiedpermissions
 voiceid
 waf-regional
 wafv2
+wisdom
