@@ -102,6 +102,7 @@ ram
 rbin
 rds
 redshift
+redshift-serverless
 resiliencehub
 resource-groups
 rolesanywhere

@@ -75,6 +75,7 @@ logs
 mediaconnect
 mediaconvert
 medialive
+mediapackage-vod
 mediapackagev2
 metering.marketplace
 metrics.sagemaker
