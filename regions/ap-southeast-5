@@ -59,6 +59,7 @@ sns
 sqs
 ssm
 states
+storagegateway
 streams.dynamodb
 sts
 swf
