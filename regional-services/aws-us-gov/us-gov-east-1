@@ -19,6 +19,7 @@ autoscaling-plans
 backup
 backup-gateway
 batch
+bedrock
 cassandra
 cloudcontrolapi
 cloudformation
