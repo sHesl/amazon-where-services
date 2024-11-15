@@ -42,9 +42,11 @@ kendra-ranking
 kinesis
 kinesisanalytics
 kms
+lakeformation
 lambda
 logs
 monitoring
+mq
 oam
 pi
 qbusiness
