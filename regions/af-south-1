@@ -37,6 +37,7 @@ cognito-idp
 compute-optimizer
 config
 connect
+connect-campaigns
 controltower
 databrew
 datasync
