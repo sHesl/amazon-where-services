@@ -117,6 +117,7 @@ synthetics
 tagging
 transfer
 verifiedpermissions
+vpc-lattice
 waf-regional
 wafv2
 xray
