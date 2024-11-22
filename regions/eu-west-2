@@ -154,6 +154,7 @@ monitoring
 mq
 neptune
 network-firewall
+notifications
 oam
 oidc
 omics

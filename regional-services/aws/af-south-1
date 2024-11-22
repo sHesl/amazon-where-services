@@ -97,6 +97,7 @@ models-v2-lex
 monitoring
 mq
 network-firewall
+notifications
 oam
 oidc
 outposts

@@ -211,6 +211,8 @@ mturk-requester
 neptune
 network-firewall
 networkmanager
+notifications
+notifications-contacts
 oam
 oidc
 omics
