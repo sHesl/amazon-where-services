@@ -10,7 +10,6 @@ autoscaling
 budgets
 cloudcontrolapi
 cloudformation
-cloudtrail
 codedeploy
 config
 directconnect

@@ -44,6 +44,7 @@ kinesisanalytics
 kms
 lakeformation
 lambda
+license-manager-linux-subscriptions
 logs
 monitoring
 mq
