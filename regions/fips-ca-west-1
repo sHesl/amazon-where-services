@@ -24,6 +24,7 @@ resource-explorer-2
 s3
 sns
 ssm
+swf
 synthetics
 transfer
 verifiedpermissions

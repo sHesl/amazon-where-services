@@ -51,7 +51,6 @@ states
 streams.dynamodb
 sts
 support
-swf
 synthetics
 tagging
 workspaces
