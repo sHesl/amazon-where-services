@@ -17,6 +17,7 @@ guardduty
 kms
 media-pipelines-chime
 meetings-chime
+metrics.sagemaker
 models.lex
 rds
 rekognition
@@ -29,6 +30,7 @@ serverlessrepo
 servicecatalog
 servicediscovery
 storagegateway
+streams.dynamodb
 sts
 translate
 voice-chime

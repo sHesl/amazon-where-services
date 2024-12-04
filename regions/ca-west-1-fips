@@ -2,9 +2,11 @@ acm
 controltower
 dynamodb
 kms
+metrics.sagemaker
 rds
 route53resolver
 s3-control
 secretsmanager
 servicediscovery
 storagegateway
+streams.dynamodb

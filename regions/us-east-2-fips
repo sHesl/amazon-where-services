@@ -14,6 +14,7 @@ elasticache
 es
 guardduty
 kms
+metrics.sagemaker
 rds
 rekognition
 route53resolver
@@ -24,5 +25,6 @@ serverlessrepo
 servicecatalog
 servicediscovery
 storagegateway
+streams.dynamodb
 sts
 translate

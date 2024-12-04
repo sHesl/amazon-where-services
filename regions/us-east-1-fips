@@ -19,6 +19,7 @@ kms
 media-pipelines-chime
 meetings-chime
 messaging-chime
+metrics.sagemaker
 models.lex
 rds
 rekognition
@@ -31,6 +32,7 @@ serverlessrepo
 servicecatalog
 servicediscovery
 storagegateway
+streams.dynamodb
 sts
 translate
 voice-chime
