@@ -42,12 +42,14 @@ bedrock-runtime-us-east-1
 bedrock-runtime-us-east-2
 bedrock-runtime-us-gov-east-1
 bedrock-runtime-us-gov-west-1
+bedrock-runtime-us-iso-east-1
 bedrock-runtime-us-west-2
 bedrock-sa-east-1
 bedrock-us-east-1
 bedrock-us-east-2
 bedrock-us-gov-east-1
 bedrock-us-gov-west-1
+bedrock-us-iso-east-1
 bedrock-us-west-2
 ca-central-1
 eu-central-1
@@ -60,4 +62,5 @@ us-east-1
 us-east-2
 us-gov-east-1
 us-gov-west-1
+us-iso-east-1
 us-west-2

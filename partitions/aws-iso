@@ -8,6 +8,7 @@ application-autoscaling
 arc-zonal-shift
 athena
 autoscaling
+bedrock
 cloudcontrolapi
 cloudformation
 cloudtrail

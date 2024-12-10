@@ -5,6 +5,7 @@ appconfigdata
 application-autoscaling
 arc-zonal-shift
 autoscaling
+bedrock
 cloudcontrolapi
 cloudformation
 cloudtrail
