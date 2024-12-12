@@ -37,7 +37,6 @@ servicecatalog
 servicediscovery
 sso
 storagegateway
-streams.dynamodb
 sts
 swf
 translate

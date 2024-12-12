@@ -32,7 +32,6 @@ serverlessrepo
 servicecatalog
 servicediscovery
 storagegateway
-streams.dynamodb
 sts
 translate
 voice-chime

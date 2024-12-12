@@ -15,5 +15,4 @@ secretsmanager
 serverlessrepo
 servicediscovery
 storagegateway
-streams.dynamodb
 voice-chime
