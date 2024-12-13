@@ -48,6 +48,7 @@ license-manager-linux-subscriptions
 logs
 monitoring
 mq
+network-firewall
 notifications
 oam
 pi
