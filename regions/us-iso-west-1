@@ -8,6 +8,7 @@ autoscaling
 cloudcontrolapi
 cloudformation
 cloudtrail
+codebuild
 codedeploy
 config
 datasync
@@ -42,6 +43,7 @@ resource-groups
 route53resolver
 s3
 s3-control
+scheduler
 secretsmanager
 snowball
 sns

@@ -10,6 +10,7 @@ bedrock
 cloudcontrolapi
 cloudformation
 cloudtrail
+codebuild
 codedeploy
 config
 datasync
@@ -46,6 +47,7 @@ route53resolver
 s3
 s3-control
 s3-outposts
+scheduler
 secretsmanager
 snowball
 sns

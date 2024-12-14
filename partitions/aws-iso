@@ -13,6 +13,7 @@ bedrock
 cloudcontrolapi
 cloudformation
 cloudtrail
+codebuild
 codedeploy
 comprehend
 config
@@ -62,6 +63,7 @@ runtime.sagemaker
 s3
 s3-control
 s3-outposts
+scheduler
 secretsmanager
 snowball
 sns
