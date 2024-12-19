@@ -39,6 +39,7 @@ firehose
 fms
 glue
 internetmonitor
+kafka
 kendra-ranking
 kinesis
 kinesisanalytics
