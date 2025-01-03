@@ -37,6 +37,7 @@ es
 events
 firehose
 fms
+geo
 glue
 internetmonitor
 kafka

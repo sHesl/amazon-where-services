@@ -12,6 +12,7 @@ cloudformation
 cloudtrail
 codebuild
 codedeploy
+comprehend
 config
 datasync
 directconnect
