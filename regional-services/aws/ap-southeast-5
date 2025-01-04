@@ -37,6 +37,7 @@ es
 events
 firehose
 fms
+fsx
 geo
 glue
 internetmonitor
@@ -49,6 +50,7 @@ lakeformation
 lambda
 license-manager-linux-subscriptions
 logs
+metrics.sagemaker
 monitoring
 mq
 network-firewall
