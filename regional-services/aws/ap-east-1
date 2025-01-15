@@ -3,6 +3,7 @@ acm
 acm-pca
 airflow
 amplify
+aoss
 api.detective
 api.ecr
 api.sagemaker
