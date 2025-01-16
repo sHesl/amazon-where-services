@@ -7,6 +7,7 @@ appconfigdata
 application-autoscaling
 arc-zonal-shift
 autoscaling
+backup
 batch
 cloudformation
 cloudtrail
@@ -45,6 +46,7 @@ rbin
 rds
 redshift
 resource-groups
+rolesanywhere
 route53resolver
 s3
 secretsmanager

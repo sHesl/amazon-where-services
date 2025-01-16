@@ -65,6 +65,7 @@ rbin
 rds
 redshift
 resource-groups
+rolesanywhere
 route53resolver
 s3
 secretsmanager
