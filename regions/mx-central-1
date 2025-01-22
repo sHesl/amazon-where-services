@@ -23,6 +23,7 @@ ecs
 eks
 eks-auth
 elasticache
+elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
 es
