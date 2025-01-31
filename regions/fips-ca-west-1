@@ -23,6 +23,7 @@ redshift
 resource-explorer-2
 s3
 sns
+sqs
 ssm
 swf
 synthetics

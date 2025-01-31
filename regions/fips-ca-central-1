@@ -55,6 +55,7 @@ s3-outposts
 servicecatalog-appregistry
 sms-voice
 snowball
+sqs
 ssm
 ssm-incidents
 ssm-quicksetup
