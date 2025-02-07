@@ -8,6 +8,7 @@ autoscaling
 cloud9
 cloudcontrolapi
 codepipeline
+comprehend
 comprehendmedical
 connect
 data-ats.iot
