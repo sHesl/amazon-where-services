@@ -13,5 +13,4 @@ outposts
 runtime.sagemaker
 support
 textract
-transcribe
 transcribestreaming
