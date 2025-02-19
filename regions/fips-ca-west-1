@@ -17,6 +17,7 @@ kafka
 kinesisanalytics
 logs
 pi
+ram
 rbin
 redshift
 resource-explorer-2
