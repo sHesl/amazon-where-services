@@ -1,11 +1,15 @@
 ap-northeast-1
 ap-northeast-2
+ap-northeast-3
 ap-south-1
+ap-south-2
 ap-southeast-1
 ap-southeast-2
 bedrock-ap-northeast-1
 bedrock-ap-northeast-2
+bedrock-ap-northeast-3
 bedrock-ap-south-1
+bedrock-ap-south-2
 bedrock-ap-southeast-1
 bedrock-ap-southeast-2
 bedrock-ca-central-1
@@ -22,7 +26,9 @@ bedrock-fips-us-gov-west-1
 bedrock-fips-us-west-2
 bedrock-runtime-ap-northeast-1
 bedrock-runtime-ap-northeast-2
+bedrock-runtime-ap-northeast-3
 bedrock-runtime-ap-south-1
+bedrock-runtime-ap-south-2
 bedrock-runtime-ap-southeast-1
 bedrock-runtime-ap-southeast-2
 bedrock-runtime-ca-central-1

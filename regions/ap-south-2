@@ -16,6 +16,7 @@ athena
 autoscaling
 backup
 batch
+bedrock
 cloudcontrolapi
 cloudformation
 cloudhsmv2
