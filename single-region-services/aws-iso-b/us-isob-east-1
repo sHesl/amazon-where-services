@@ -10,7 +10,6 @@ autoscaling
 cloudcontrolapi
 cloudformation
 codedeploy
-config
 directconnect
 dlm
 dynamodb
