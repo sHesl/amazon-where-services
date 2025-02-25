@@ -8,7 +8,6 @@ amplifyuibuilder
 aoss
 api.detective
 api.ecr
-api.elastic-inference
 api.fleethub.iot
 api.mediatailor
 api.sagemaker

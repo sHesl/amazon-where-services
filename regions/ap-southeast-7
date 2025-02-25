@@ -32,6 +32,7 @@ elasticloadbalancing
 elasticmapreduce
 es
 events
+firehose
 internetmonitor
 kendra-ranking
 kinesis
