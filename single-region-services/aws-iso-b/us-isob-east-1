@@ -28,7 +28,6 @@ kinesis
 lambda
 license-manager
 logs
-medialive
 mediapackage
 metering.marketplace
 metrics.sagemaker

@@ -5,6 +5,7 @@ ds
 elasticfilesystem
 elasticmapreduce
 kms
+medialive
 rbin
 rds
 s3

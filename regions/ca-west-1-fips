@@ -1,6 +1,7 @@
 acm
 controltower
 dynamodb
+guardduty
 kms
 metrics.sagemaker
 rds

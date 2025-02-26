@@ -5,7 +5,6 @@ datapipeline
 glue
 guardduty
 health
-medialive
 mediapackage
 metrics.sagemaker
 oam
