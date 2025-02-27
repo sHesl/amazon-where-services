@@ -116,6 +116,7 @@ resiliencehub
 resource-explorer-2
 resource-groups
 rolesanywhere
+route53profiles
 route53resolver
 runtime.sagemaker
 s3

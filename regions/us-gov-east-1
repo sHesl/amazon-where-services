@@ -109,6 +109,7 @@ redshift-serverless
 resiliencehub
 resource-groups
 rolesanywhere
+route53profiles
 route53resolver
 runtime.sagemaker
 s3

@@ -248,6 +248,7 @@ rolesanywhere
 route53
 route53-recovery-control-config
 route53domains
+route53profiles
 route53resolver
 rum
 runtime-v2-lex
