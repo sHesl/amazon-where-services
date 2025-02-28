@@ -59,6 +59,7 @@ resource-groups
 route53resolver
 s3
 scheduler
+schemas
 secretsmanager
 servicediscovery
 servicequotas

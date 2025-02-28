@@ -5,6 +5,7 @@ airflow
 amplify
 amplifybackend
 amplifyuibuilder
+aoss
 api.detective
 api.ecr
 api.sagemaker

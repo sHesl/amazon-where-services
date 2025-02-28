@@ -27,6 +27,7 @@ autoscaling-plans
 backup
 backup-gateway
 batch
+bedrock
 braket
 cassandra
 cleanrooms
