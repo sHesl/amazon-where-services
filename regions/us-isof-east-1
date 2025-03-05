@@ -11,6 +11,7 @@ athena
 autoscaling
 backup
 batch
+cloudcontrolapi
 cloudformation
 cloudtrail
 codebuild
