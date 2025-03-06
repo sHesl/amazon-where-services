@@ -62,6 +62,7 @@ events
 firehose
 fms
 fsx
+gameliftstreams
 glacier
 glue
 greengrass

@@ -53,6 +53,7 @@ events
 firehose
 fms
 fsx
+gameliftstreams
 glue
 guardduty
 identitystore

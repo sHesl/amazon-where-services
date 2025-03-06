@@ -33,6 +33,7 @@ elasticmapreduce
 es
 events
 firehose
+gameliftstreams
 internetmonitor
 kendra-ranking
 kinesis
@@ -66,4 +67,5 @@ sts
 swf
 synthetics
 tagging
+wafv2
 xray
