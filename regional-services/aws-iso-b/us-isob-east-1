@@ -11,5 +11,6 @@ rds
 s3
 s3-control
 s3-outposts
+secretsmanager
 storagegateway
 swf
