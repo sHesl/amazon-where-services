@@ -13,6 +13,7 @@ autoscaling
 backup
 batch
 budgets
+ce
 cloudcontrolapi
 cloudformation
 cloudtrail

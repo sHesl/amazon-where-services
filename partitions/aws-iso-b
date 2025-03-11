@@ -8,6 +8,7 @@ application-autoscaling
 arc-zonal-shift
 autoscaling
 budgets
+ce
 cloudcontrolapi
 cloudformation
 cloudtrail
