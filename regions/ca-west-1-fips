@@ -1,4 +1,5 @@
 acm
+api.sagemaker
 controltower
 dynamodb
 guardduty
