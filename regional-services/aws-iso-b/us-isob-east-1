@@ -12,6 +12,7 @@ s3
 s3-control
 s3-outposts
 secretsmanager
+states
 storagegateway
 swf
 workspaces

@@ -25,6 +25,7 @@ s3
 sns
 sqs
 ssm
+states
 swf
 synthetics
 transfer

@@ -33,7 +33,9 @@ elasticmapreduce
 es
 events
 firehose
+fms
 gameliftstreams
+glue
 internetmonitor
 kendra-ranking
 kinesis

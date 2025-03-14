@@ -44,7 +44,6 @@ snowball
 sns
 sqs
 ssm
-states
 streams.dynamodb
 sts
 support
