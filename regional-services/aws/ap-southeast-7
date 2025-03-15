@@ -41,6 +41,7 @@ kendra-ranking
 kinesis
 kms
 lambda
+license-manager-linux-subscriptions
 logs
 metrics.sagemaker
 monitoring

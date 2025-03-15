@@ -97,6 +97,7 @@ license-manager-linux-subscriptions
 logs
 mediaconvert
 memory-db
+metering.marketplace
 metrics.sagemaker
 monitoring
 mq

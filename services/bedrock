@@ -16,6 +16,8 @@ bedrock-ca-central-1
 bedrock-eu-central-1
 bedrock-eu-central-2
 bedrock-eu-north-1
+bedrock-eu-south-1
+bedrock-eu-south-2
 bedrock-eu-west-1
 bedrock-eu-west-2
 bedrock-eu-west-3
@@ -36,6 +38,8 @@ bedrock-runtime-ca-central-1
 bedrock-runtime-eu-central-1
 bedrock-runtime-eu-central-2
 bedrock-runtime-eu-north-1
+bedrock-runtime-eu-south-1
+bedrock-runtime-eu-south-2
 bedrock-runtime-eu-west-1
 bedrock-runtime-eu-west-2
 bedrock-runtime-eu-west-3
@@ -63,6 +67,8 @@ ca-central-1
 eu-central-1
 eu-central-2
 eu-north-1
+eu-south-1
+eu-south-2
 eu-west-1
 eu-west-2
 eu-west-3

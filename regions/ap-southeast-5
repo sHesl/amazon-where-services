@@ -16,6 +16,7 @@ cloudcontrolapi
 cloudformation
 cloudtrail
 codedeploy
+codepipeline
 cognito-identity
 cognito-idp
 config
