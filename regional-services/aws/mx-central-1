@@ -47,6 +47,7 @@ license-manager-linux-subscriptions
 logs
 metrics.sagemaker
 monitoring
+network-firewall
 notifications
 oam
 pi

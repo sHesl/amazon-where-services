@@ -4,6 +4,7 @@ api.ecr
 api.tunneling.iot
 apigateway
 appflow
+applicationinsights
 athena
 autoscaling
 batch

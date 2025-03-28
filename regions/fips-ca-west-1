@@ -1,6 +1,7 @@
 access-analyzer
 acm-pca
 apigateway
+applicationinsights
 athena
 autoscaling
 cloudcontrolapi

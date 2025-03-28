@@ -3,6 +3,7 @@ acm-pca
 api.fleethub.iot
 api.tunneling.iot
 apigateway
+applicationinsights
 athena
 autoscaling
 cloud9

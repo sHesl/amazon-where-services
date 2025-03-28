@@ -6,6 +6,7 @@ elasticfilesystem
 elasticmapreduce
 rbin
 s3
+sqs
 states
 swf
 workspaces

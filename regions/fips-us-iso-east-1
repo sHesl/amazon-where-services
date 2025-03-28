@@ -11,6 +11,7 @@ medialive
 rbin
 s3
 s3-outposts
+sqs
 states
 swf
 transcribe

@@ -42,7 +42,6 @@ runtime.sagemaker
 scheduler
 snowball
 sns
-sqs
 ssm
 streams.dynamodb
 sts

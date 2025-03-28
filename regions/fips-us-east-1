@@ -5,6 +5,7 @@ api.fleethub.iot
 api.tunneling.iot
 apigateway
 appflow
+applicationinsights
 apprunner
 apptest
 athena

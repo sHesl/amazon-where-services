@@ -3,6 +3,7 @@ api.ecr
 api.tunneling.iot
 appconfig
 appconfigdata
+applicationinsights
 athena
 batch
 cloudcontrolapi
@@ -64,6 +65,7 @@ simspaceweaver
 sms-voice
 snowball
 sns
+sqs
 ssm
 states
 synthetics
