@@ -2,6 +2,7 @@ acm
 api.detective
 api.sagemaker
 appmesh
+aps
 auditmanager
 cloudformation
 codebuild

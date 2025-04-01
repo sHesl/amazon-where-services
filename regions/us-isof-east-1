@@ -57,6 +57,7 @@ redshift
 redshift-serverless
 rekognition
 resource-groups
+route53profiles
 route53resolver
 s3
 scheduler
