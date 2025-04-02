@@ -22,7 +22,6 @@ elasticloadbalancing
 es
 events
 firehose
-glacier
 health
 kinesis
 lambda

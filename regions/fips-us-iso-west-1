@@ -4,6 +4,7 @@ datasync
 ds
 elasticfilesystem
 elasticmapreduce
+glacier
 rbin
 s3
 sqs

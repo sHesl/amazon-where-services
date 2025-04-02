@@ -3,6 +3,7 @@ config
 ds
 elasticfilesystem
 elasticmapreduce
+glacier
 medialive
 rbin
 s3
