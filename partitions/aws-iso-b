@@ -12,6 +12,7 @@ ce
 cloudcontrolapi
 cloudformation
 cloudtrail
+codebuild
 codedeploy
 config
 directconnect

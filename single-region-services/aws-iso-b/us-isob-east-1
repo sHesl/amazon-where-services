@@ -9,6 +9,7 @@ arc-zonal-shift
 autoscaling
 cloudcontrolapi
 cloudformation
+codebuild
 codedeploy
 directconnect
 dlm
