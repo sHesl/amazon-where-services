@@ -45,6 +45,7 @@ kms
 lakeformation
 lambda
 license-manager-linux-subscriptions
+license-manager-user-subscriptions
 logs
 metrics.sagemaker
 monitoring
