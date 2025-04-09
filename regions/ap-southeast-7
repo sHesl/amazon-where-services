@@ -45,11 +45,13 @@ kinesis
 kms
 lakeformation
 lambda
+license-manager
 license-manager-linux-subscriptions
 license-manager-user-subscriptions
 logs
 metrics.sagemaker
 monitoring
+mq
 network-firewall
 notifications
 oam
