@@ -38,6 +38,7 @@ elasticache
 elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
+emr-serverless
 es
 events
 firehose
