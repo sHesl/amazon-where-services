@@ -50,6 +50,7 @@ rds
 redshift
 resource-groups
 route53
+route53resolver
 s3
 savingsplans
 scheduler
