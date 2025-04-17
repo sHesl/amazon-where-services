@@ -190,6 +190,7 @@ portal.sso
 proton
 qbusiness
 qldb
+query.timestream
 quicksight
 ram
 rbin

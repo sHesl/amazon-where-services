@@ -8,6 +8,7 @@ appconfig
 appconfigdata
 application-autoscaling
 arc-zonal-shift
+athena
 autoscaling
 backup
 batch
@@ -81,5 +82,6 @@ sts
 swf
 synthetics
 tagging
+transfer
 wafv2
 xray

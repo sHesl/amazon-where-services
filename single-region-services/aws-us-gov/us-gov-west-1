@@ -2,5 +2,6 @@ cloudhsm
 docdb
 managedblockchain
 models-v2-lex
+query.timestream
 robomaker
 runtime-v2-lex

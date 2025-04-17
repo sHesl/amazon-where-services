@@ -167,6 +167,7 @@ private-networks
 proton
 qbusiness
 qldb
+query.timestream
 quicksight
 ram
 rbin

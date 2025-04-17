@@ -20,6 +20,7 @@ config
 cost-optimization-hub
 directconnect
 dlm
+dms
 ds
 dynamodb
 ebs
@@ -35,6 +36,7 @@ es
 events
 firehose
 glue
+kinesis
 kms
 lakeformation
 lambda
@@ -54,6 +56,7 @@ route53resolver
 s3
 savingsplans
 scheduler
+secretsmanager
 servicecatalog
 servicediscovery
 servicequotas
