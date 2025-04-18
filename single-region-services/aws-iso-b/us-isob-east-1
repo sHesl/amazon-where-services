@@ -23,6 +23,7 @@ elasticloadbalancing
 es
 events
 firehose
+fsx
 health
 kinesis
 lambda
