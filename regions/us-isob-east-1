@@ -33,6 +33,7 @@ events
 firehose
 fsx
 glacier
+glue
 health
 iam
 kinesis
