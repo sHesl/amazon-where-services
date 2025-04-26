@@ -7,6 +7,7 @@ appconfigdata
 application-autoscaling
 arc-zonal-shift
 autoscaling
+batch
 cloudcontrolapi
 cloudformation
 codebuild

@@ -9,6 +9,7 @@ application-autoscaling
 arc-zonal-shift
 athena
 autoscaling
+batch
 bedrock
 budgets
 ce
@@ -86,3 +87,4 @@ transcribe
 transcribestreaming
 translate
 workspaces
+xray
