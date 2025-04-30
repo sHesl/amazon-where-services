@@ -12,6 +12,7 @@ cloudcontrolapi
 cloudformation
 codebuild
 codedeploy
+datasync
 directconnect
 dlm
 dynamodb

@@ -16,6 +16,7 @@ cloudtrail
 codebuild
 codedeploy
 config
+datasync
 directconnect
 dlm
 dms
