@@ -17,6 +17,7 @@ cloudformation
 cloudtrail
 codedeploy
 config
+controltower
 datasync
 datazone
 directconnect
@@ -37,6 +38,7 @@ es
 events
 firehose
 fms
+fsx
 gameliftstreams
 glue
 guardduty

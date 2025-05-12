@@ -6,6 +6,7 @@ datapipeline
 glue
 guardduty
 health
+kinesisanalytics
 mediapackage
 metrics.sagemaker
 outposts

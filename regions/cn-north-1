@@ -81,6 +81,7 @@ iotsecuredtunneling
 iotsitewise
 iottwinmaker
 kafka
+kafkaconnect
 kendra-ranking
 kinesis
 kinesisanalytics
@@ -115,6 +116,7 @@ redshift-serverless
 resource-groups
 rolesanywhere
 route53
+route53profiles
 route53resolver
 runtime.sagemaker
 s3

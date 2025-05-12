@@ -36,9 +36,11 @@ firehose
 fsx
 glacier
 glue
+guardduty
 health
 iam
 kinesis
+kinesisanalytics
 kms
 lambda
 license-manager
@@ -51,6 +53,7 @@ monitoring
 oam
 organizations
 outposts
+pi
 ram
 rbin
 rds

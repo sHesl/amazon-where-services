@@ -27,8 +27,10 @@ events
 firehose
 fsx
 glue
+guardduty
 health
 kinesis
+kinesisanalytics
 lambda
 license-manager
 logs
@@ -38,6 +40,7 @@ metrics.sagemaker
 monitoring
 oam
 outposts
+pi
 ram
 redshift
 resource-groups

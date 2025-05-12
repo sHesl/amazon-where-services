@@ -17,6 +17,7 @@ cloudformation
 cloudtrail
 codedeploy
 config
+controltower
 datasync
 datazone
 directconnect
@@ -37,8 +38,10 @@ es
 events
 firehose
 fms
+fsx
 gameliftstreams
 glue
+guardduty
 internetmonitor
 kendra-ranking
 kinesis
@@ -73,6 +76,7 @@ secretsmanager
 securityhub
 servicediscovery
 servicequotas
+sms-voice
 sns
 sqs
 ssm

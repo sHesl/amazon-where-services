@@ -19,6 +19,7 @@ application-autoscaling
 applicationinsights
 appmesh
 apprunner
+appstream2
 appsync
 aps
 arc-zonal-shift
@@ -186,4 +187,5 @@ vpc-lattice
 waf-regional
 wafv2
 wellarchitected
+workspaces
 xray
