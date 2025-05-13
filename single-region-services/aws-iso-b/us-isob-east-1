@@ -47,6 +47,7 @@ resource-groups
 route53resolver
 runtime.sagemaker
 scheduler
+securityhub
 servicediscovery
 snowball
 sns

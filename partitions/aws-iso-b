@@ -67,6 +67,7 @@ s3-control
 s3-outposts
 scheduler
 secretsmanager
+securityhub
 servicediscovery
 snowball
 sns
