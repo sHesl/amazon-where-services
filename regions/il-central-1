@@ -105,6 +105,7 @@ runtime.sagemaker
 s3
 s3-control
 s3-outposts
+scheduler
 secretsmanager
 securityhub
 servicecatalog
