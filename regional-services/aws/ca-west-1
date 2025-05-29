@@ -82,6 +82,7 @@ route53resolver
 runtime.sagemaker
 s3
 s3-control
+scheduler
 secretsmanager
 securityhub
 servicecatalog-appregistry
