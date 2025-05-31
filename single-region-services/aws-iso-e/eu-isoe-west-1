@@ -37,6 +37,7 @@ glue
 kinesis
 lakeformation
 lambda
+license-manager
 logs
 monitoring
 oam
