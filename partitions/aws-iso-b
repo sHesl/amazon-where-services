@@ -6,6 +6,7 @@ appconfig
 appconfigdata
 application-autoscaling
 arc-zonal-shift
+athena
 autoscaling
 batch
 budgets
@@ -42,6 +43,7 @@ iam
 kinesis
 kinesisanalytics
 kms
+lakeformation
 lambda
 license-manager
 logs

@@ -6,6 +6,7 @@ appconfig
 appconfigdata
 application-autoscaling
 arc-zonal-shift
+athena
 autoscaling
 batch
 cloudcontrolapi
@@ -31,6 +32,7 @@ guardduty
 health
 kinesis
 kinesisanalytics
+lakeformation
 lambda
 license-manager
 logs
