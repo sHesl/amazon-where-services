@@ -52,6 +52,7 @@ rds
 redshift
 redshift-serverless
 resource-groups
+route53profiles
 route53resolver
 s3
 scheduler

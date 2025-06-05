@@ -54,6 +54,7 @@ redshift
 redshift-serverless
 resource-groups
 route53
+route53profiles
 route53resolver
 s3
 savingsplans
