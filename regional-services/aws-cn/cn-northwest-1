@@ -104,6 +104,7 @@ runtime.sagemaker
 s3
 s3-control
 savingsplans
+scheduler
 schemas
 secretsmanager
 securityhub

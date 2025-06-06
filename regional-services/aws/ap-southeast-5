@@ -1,12 +1,14 @@
 access-analyzer
 acm
 acm-pca
+airflow
 api.ecr
 api.sagemaker
 apigateway
 appconfig
 appconfigdata
 application-autoscaling
+aps
 arc-zonal-shift
 athena
 autoscaling
