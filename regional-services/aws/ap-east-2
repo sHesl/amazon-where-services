@@ -40,6 +40,7 @@ kinesis
 kms
 lambda
 logs
+metrics.sagemaker
 monitoring
 notifications
 oam
