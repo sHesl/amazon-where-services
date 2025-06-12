@@ -34,6 +34,7 @@ es
 events
 firehose
 gameliftstreams
+glue
 internetmonitor
 kendra-ranking
 kinesis
