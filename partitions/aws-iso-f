@@ -17,6 +17,7 @@ ce
 cloudcontrolapi
 cloudformation
 cloudtrail
+cloudtrail-data
 codebuild
 codedeploy
 codepipeline
