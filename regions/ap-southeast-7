@@ -41,6 +41,7 @@ events
 firehose
 fms
 fsx
+gamelift
 gameliftstreams
 glue
 guardduty

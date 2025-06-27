@@ -45,6 +45,7 @@ events
 firehose
 fms
 fsx
+gamelift
 gameliftstreams
 geo
 glue
