@@ -9,6 +9,7 @@ application-autoscaling
 arc-zonal-shift
 athena
 autoscaling
+backup
 batch
 bedrock
 budgets

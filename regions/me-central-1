@@ -50,6 +50,7 @@ elasticache
 elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
+email
 emr-containers
 emr-serverless
 es
