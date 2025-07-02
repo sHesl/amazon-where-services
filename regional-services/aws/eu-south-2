@@ -20,6 +20,7 @@ batch
 bedrock
 cloudcontrolapi
 cloudformation
+cloudhsmv2
 cloudtrail
 codebuild
 codedeploy
@@ -58,6 +59,7 @@ geo
 glue
 guardduty
 identitystore
+inspector2
 internetmonitor
 kafka
 kendra-ranking
