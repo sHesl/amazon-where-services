@@ -15,3 +15,4 @@ runtime.sagemaker
 support
 textract
 transcribestreaming
+wafv2

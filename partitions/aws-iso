@@ -91,5 +91,6 @@ textract
 transcribe
 transcribestreaming
 translate
+wafv2
 workspaces
 xray
