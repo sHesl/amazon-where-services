@@ -86,6 +86,7 @@ route53profiles
 route53resolver
 runtime.sagemaker
 s3
+scheduler
 secretsmanager
 securityhub
 servicediscovery

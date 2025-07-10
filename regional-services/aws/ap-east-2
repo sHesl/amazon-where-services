@@ -2,6 +2,7 @@ access-analyzer
 acm
 acm-pca
 api.ecr
+api.sagemaker
 apigateway
 appconfig
 appconfigdata
@@ -39,6 +40,7 @@ glue
 internetmonitor
 kendra-ranking
 kinesis
+kinesisanalytics
 kms
 lakeformation
 lambda
@@ -57,6 +59,7 @@ resource-groups
 rolesanywhere
 route53resolver
 s3
+scheduler
 secretsmanager
 servicediscovery
 servicequotas
