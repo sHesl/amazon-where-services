@@ -60,6 +60,7 @@ license-manager-linux-subscriptions
 license-manager-user-subscriptions
 logs
 metrics.sagemaker
+mgn
 monitoring
 mq
 network-firewall

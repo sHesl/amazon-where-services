@@ -35,9 +35,11 @@ elasticmapreduce
 es
 events
 firehose
+fsx
 gameliftstreams
 glue
 internetmonitor
+kafka
 kendra-ranking
 kinesis
 kinesisanalytics
@@ -47,6 +49,7 @@ lambda
 logs
 metrics.sagemaker
 monitoring
+mq
 notifications
 oam
 pi
