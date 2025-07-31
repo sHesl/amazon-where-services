@@ -52,6 +52,7 @@ runtime.sagemaker
 scheduler
 securityhub
 servicediscovery
+servicequotas
 snowball
 sns
 ssm

@@ -75,6 +75,7 @@ scheduler
 secretsmanager
 securityhub
 servicediscovery
+servicequotas
 snowball
 sns
 sqs

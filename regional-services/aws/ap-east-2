@@ -52,6 +52,7 @@ logs
 metrics.sagemaker
 monitoring
 mq
+network-firewall
 notifications
 oam
 pi
