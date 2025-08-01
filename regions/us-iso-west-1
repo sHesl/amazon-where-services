@@ -6,6 +6,7 @@ application-autoscaling
 arc-zonal-shift
 autoscaling
 backup
+batch
 cloudcontrolapi
 cloudformation
 cloudtrail

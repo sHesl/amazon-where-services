@@ -1,7 +1,6 @@
 api.pricing
 api.sagemaker
 athena
-batch
 datapipeline
 glue
 guardduty

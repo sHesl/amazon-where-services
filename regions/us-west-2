@@ -52,6 +52,7 @@ codeartifact
 codebuild
 codecommit
 codedeploy
+codeguru-profiler
 codeguru-reviewer
 codepipeline
 codestar-connections
