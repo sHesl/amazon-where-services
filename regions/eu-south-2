@@ -5,6 +5,7 @@ airflow
 aoss
 api.ecr
 api.sagemaker
+api.tunneling.iot
 apigateway
 appconfig
 appconfigdata
@@ -30,6 +31,7 @@ cognito-idp
 compute-optimizer
 config
 controltower
+data-ats.iot
 datasync
 dax
 directconnect
@@ -57,14 +59,17 @@ fsx
 gameliftstreams
 geo
 glue
+greengrass
 guardduty
 identitystore
 inspector2
 internetmonitor
+iot
 kafka
 kendra-ranking
 kinesis
 kinesisanalytics
+kinesisvideo
 kms
 lakeformation
 lambda

@@ -4,6 +4,7 @@ acm-pca
 airflow
 api.ecr
 api.sagemaker
+api.tunneling.iot
 apigateway
 appconfig
 appconfigdata
@@ -24,6 +25,7 @@ cognito-identity
 cognito-idp
 config
 controltower
+data-ats.iot
 datasync
 datazone
 directconnect
@@ -49,14 +51,17 @@ gamelift
 gameliftstreams
 geo
 glue
+greengrass
 guardduty
 identitystore
 inspector2
 internetmonitor
+iot
 kafka
 kendra-ranking
 kinesis
 kinesisanalytics
+kinesisvideo
 kms
 lakeformation
 lambda
