@@ -33,6 +33,7 @@ compute-optimizer
 config
 controltower
 data-ats.iot
+data.jobs.iot
 datasync
 datazone
 directconnect
