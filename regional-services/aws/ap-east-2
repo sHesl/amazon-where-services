@@ -67,6 +67,7 @@ redshift
 resource-groups
 rolesanywhere
 route53resolver
+runtime.sagemaker
 s3
 scheduler
 secretsmanager
