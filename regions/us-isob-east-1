@@ -53,6 +53,7 @@ mediapackage
 metering.marketplace
 metrics.sagemaker
 monitoring
+network-firewall
 oam
 organizations
 outposts

@@ -9,6 +9,7 @@ kinesisanalytics
 lakeformation
 mediapackage
 metrics.sagemaker
+network-firewall
 outposts
 runtime.sagemaker
 support
