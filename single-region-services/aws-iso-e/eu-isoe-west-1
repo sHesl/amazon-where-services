@@ -13,6 +13,7 @@ batch
 cloudcontrolapi
 cloudformation
 cloudtrail
+cloudtrail-data
 codedeploy
 compute-optimizer
 config
