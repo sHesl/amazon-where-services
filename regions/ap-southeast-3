@@ -17,6 +17,7 @@ autoscaling
 autoscaling-plans
 backup
 batch
+bedrock
 cloudcontrolapi
 cloudformation
 cloudhsmv2
