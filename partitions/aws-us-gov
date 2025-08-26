@@ -144,6 +144,7 @@ rolesanywhere
 route53
 route53profiles
 route53resolver
+rum
 runtime-v2-lex
 runtime.lex
 runtime.sagemaker

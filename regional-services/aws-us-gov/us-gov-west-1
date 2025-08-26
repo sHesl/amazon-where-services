@@ -133,6 +133,7 @@ resource-groups
 rolesanywhere
 route53profiles
 route53resolver
+rum
 runtime.lex
 runtime.sagemaker
 s3
