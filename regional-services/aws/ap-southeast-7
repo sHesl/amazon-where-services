@@ -35,6 +35,7 @@ ecs
 eks
 eks-auth
 elasticache
+elasticbeanstalk
 elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
@@ -99,5 +100,6 @@ swf
 synthetics
 tagging
 transfer
+verifiedpermissions
 wafv2
 xray
