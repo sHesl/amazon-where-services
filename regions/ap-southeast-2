@@ -176,7 +176,6 @@ network-firewall
 notifications
 oam
 oidc
-opsworks-cm
 osis
 outposts
 participant.connect
