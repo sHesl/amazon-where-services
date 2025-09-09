@@ -50,6 +50,7 @@ resource-groups
 rolesanywhere
 route53resolver
 s3
+scheduler
 secretsmanager
 servicediscovery
 servicequotas

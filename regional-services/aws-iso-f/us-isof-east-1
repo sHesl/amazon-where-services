@@ -19,6 +19,7 @@ codebuild
 codedeploy
 codepipeline
 comprehend
+compute-optimizer
 config
 directconnect
 dlm
