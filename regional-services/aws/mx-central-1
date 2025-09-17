@@ -7,6 +7,7 @@ apigateway
 appconfig
 appconfigdata
 application-autoscaling
+aps
 arc-zonal-shift
 athena
 autoscaling
@@ -64,6 +65,7 @@ mq
 network-firewall
 notifications
 oam
+outposts
 pi
 qbusiness
 ram

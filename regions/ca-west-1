@@ -10,6 +10,7 @@ appconfigdata
 application-autoscaling
 applicationinsights
 appsync
+aps
 arc-zonal-shift
 athena
 autoscaling
