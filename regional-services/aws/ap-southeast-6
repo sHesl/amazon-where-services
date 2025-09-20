@@ -52,6 +52,7 @@ route53resolver
 s3
 scheduler
 secretsmanager
+securityhub
 servicediscovery
 servicequotas
 sns
