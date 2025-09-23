@@ -65,6 +65,7 @@ mq
 network-firewall
 notifications
 oam
+oidc
 outposts
 pi
 qbusiness
