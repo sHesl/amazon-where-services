@@ -13,6 +13,7 @@ athena
 autoscaling
 backup
 batch
+bedrock
 cloudcontrolapi
 cloudformation
 cloudtrail
@@ -43,6 +44,7 @@ glue
 guardduty
 internetmonitor
 kafka
+kafkaconnect
 kendra-ranking
 kinesis
 kinesisanalytics

@@ -18,6 +18,7 @@ athena
 autoscaling
 backup
 batch
+bedrock
 cloud9
 cloudcontrolapi
 cloudformation
