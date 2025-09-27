@@ -47,6 +47,7 @@ health
 iam
 kinesis
 kinesisanalytics
+kinesisvideo
 kms
 lakeformation
 lambda

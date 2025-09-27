@@ -6,6 +6,7 @@ glue
 guardduty
 health
 kinesisanalytics
+kinesisvideo
 lakeformation
 mediapackage
 metrics.sagemaker
