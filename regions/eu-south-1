@@ -78,6 +78,7 @@ identitystore
 inspector2
 internetmonitor
 kafka
+kafkaconnect
 kendra-ranking
 kinesis
 kinesisanalytics
