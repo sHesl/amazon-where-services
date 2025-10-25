@@ -3,6 +3,7 @@ acm
 acm-pca
 api.ecr
 api.pricing
+apigateway
 appconfig
 appconfigdata
 application-autoscaling
