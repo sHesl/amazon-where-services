@@ -1,6 +1,5 @@
 access-analyzer
 acm-pca
-api.fleethub.iot
 api.tunneling.iot
 apigateway
 applicationinsights
@@ -48,7 +47,6 @@ pi
 pinpoint
 polly
 profile
-qldb
 ram
 rbin
 redshift

@@ -1,7 +1,6 @@
 access-analyzer
 acm-pca
 api.ecr
-api.fleethub.iot
 api.tunneling.iot
 apigateway
 appflow
@@ -89,7 +88,6 @@ pi
 pinpoint
 polly
 profile
-qldb
 ram
 rbin
 rds-data
@@ -103,7 +101,6 @@ s3-outposts
 securityhub
 securitylake
 servicecatalog-appregistry
-session.qldb
 signer
 sms-voice
 snowball

@@ -11,7 +11,6 @@ aoss
 api.detective
 api.ecr
 api.ecr-public
-api.fleethub.iot
 api.iotdeviceadvisor
 api.iotwireless
 api.mediatailor
@@ -29,7 +28,6 @@ appmesh
 apprunner
 appstream2
 appsync
-apptest
 aps
 arc-zonal-shift
 athena
@@ -176,8 +174,6 @@ license-manager-user-subscriptions
 lightsail
 logs
 lookoutequipment
-lookoutmetrics
-lookoutvision
 m2
 machinelearning
 macie2
@@ -228,7 +224,6 @@ portal.sso
 profile
 proton
 qbusiness
-qldb
 query.timestream
 quicksight
 ram
@@ -241,7 +236,6 @@ rekognition
 resiliencehub
 resource-explorer-2
 resource-groups
-robomaker
 rolesanywhere
 route53
 route53-recovery-control-config
@@ -267,7 +261,6 @@ servicecatalog
 servicecatalog-appregistry
 servicediscovery
 servicequotas
-session.qldb
 shield
 signer
 simspaceweaver

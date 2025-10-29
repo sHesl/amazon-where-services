@@ -8,7 +8,6 @@ amplifyuibuilder
 aoss
 api.detective
 api.ecr
-api.fleethub.iot
 api.mediatailor
 api.sagemaker
 api.tunneling.iot
@@ -135,8 +134,6 @@ license-manager-linux-subscriptions
 license-manager-user-subscriptions
 lightsail
 logs
-lookoutmetrics
-lookoutvision
 m2
 macie2
 mediaconnect
@@ -166,7 +163,6 @@ polly
 portal.sso
 proton
 qbusiness
-qldb
 query.timestream
 quicksight
 ram
@@ -179,7 +175,6 @@ rekognition
 resiliencehub
 resource-explorer-2
 resource-groups
-robomaker
 rolesanywhere
 route53profiles
 route53resolver
@@ -198,7 +193,6 @@ servicecatalog
 servicecatalog-appregistry
 servicediscovery
 servicequotas
-session.qldb
 signer
 simspaceweaver
 sms-voice
