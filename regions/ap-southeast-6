@@ -15,6 +15,7 @@ cloudformation
 cloudtrail
 codedeploy
 config
+controltower
 datasync
 datazone
 directconnect
