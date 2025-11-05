@@ -19,6 +19,7 @@ autoscaling
 backup
 batch
 bedrock
+cassandra
 cloudcontrolapi
 cloudformation
 cloudhsmv2
