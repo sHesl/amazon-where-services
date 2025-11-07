@@ -20,7 +20,6 @@ network-firewall
 outposts
 route53resolver
 runtime.sagemaker
-scheduler
 securityhub
 snowball
 support

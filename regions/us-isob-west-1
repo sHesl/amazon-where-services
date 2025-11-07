@@ -36,6 +36,7 @@ rds
 redshift
 resource-groups
 s3
+scheduler
 secretsmanager
 servicediscovery
 servicequotas
