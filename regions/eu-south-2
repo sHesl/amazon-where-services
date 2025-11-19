@@ -12,6 +12,7 @@ appconfigdata
 application-autoscaling
 applicationinsights
 appmesh
+appstream2
 appsync
 aps
 arc-zonal-shift

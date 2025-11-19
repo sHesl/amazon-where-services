@@ -23,6 +23,7 @@ autoscaling-plans
 backup
 backup-gateway
 batch
+bedrock
 cassandra
 cloud9
 cloudcontrolapi

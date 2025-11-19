@@ -9,6 +9,7 @@ apigateway
 appconfig
 appconfigdata
 application-autoscaling
+appstream2
 appsync
 aps
 arc-zonal-shift
