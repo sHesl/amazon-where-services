@@ -3,6 +3,7 @@ api.sagemaker
 apigateway
 athena
 backup
+bedrock
 codebuild
 datasync
 firehose

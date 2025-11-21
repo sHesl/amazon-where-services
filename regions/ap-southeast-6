@@ -35,6 +35,7 @@ es
 events
 firehose
 gameliftstreams
+identitystore
 internetmonitor
 kendra-ranking
 kinesis
