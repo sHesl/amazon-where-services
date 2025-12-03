@@ -208,6 +208,7 @@ network-firewall
 networkmanager
 notifications
 notifications-contacts
+nova-act
 oam
 oidc
 omics
