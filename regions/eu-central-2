@@ -45,6 +45,7 @@ ecs
 eks
 eks-auth
 elasticache
+elasticbeanstalk
 elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
