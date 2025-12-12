@@ -73,6 +73,7 @@ s3
 s3-control
 scheduler
 secretsmanager
+securityhub
 servicediscovery
 servicequotas
 signer
