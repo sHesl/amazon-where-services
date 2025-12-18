@@ -16,6 +16,7 @@ batch
 bedrock
 cloudcontrolapi
 cloudformation
+cloudhsmv2
 cloudtrail
 codedeploy
 cognito-identity
