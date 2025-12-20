@@ -24,6 +24,7 @@ backup
 backup-gateway
 batch
 bedrock
+cases
 cassandra
 cloud9
 cloudcontrolapi

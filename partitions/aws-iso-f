@@ -45,6 +45,7 @@ fsx
 glue
 guardduty
 iam
+identitystore
 kinesis
 kms
 lakeformation
