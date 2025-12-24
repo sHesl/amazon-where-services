@@ -93,7 +93,6 @@ elasticbeanstalk
 elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
-elastictranscoder
 email
 emr-containers
 emr-serverless

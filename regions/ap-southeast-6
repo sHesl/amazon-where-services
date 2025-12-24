@@ -39,6 +39,7 @@ firehose
 gameliftstreams
 identitystore
 internetmonitor
+kafka
 kendra-ranking
 kinesis
 kinesisanalytics
