@@ -8,6 +8,7 @@ appconfig
 appconfigdata
 application-autoscaling
 arc-zonal-shift
+athena
 autoscaling
 backup
 batch
@@ -37,6 +38,7 @@ es
 events
 firehose
 gameliftstreams
+glue
 identitystore
 internetmonitor
 kafka
@@ -45,6 +47,7 @@ kendra-ranking
 kinesis
 kinesisanalytics
 kms
+lakeformation
 lambda
 logs
 metrics.sagemaker
@@ -59,6 +62,7 @@ ram
 rbin
 rds
 redshift
+redshift-serverless
 resource-explorer-2
 resource-groups
 rolesanywhere
