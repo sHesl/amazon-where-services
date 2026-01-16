@@ -18,8 +18,11 @@ cloudcontrolapi
 cloudformation
 cloudtrail
 codedeploy
+cognito-identity
+cognito-idp
 compute-optimizer
 config
+controltower
 cost-optimization-hub
 datasync
 datazone

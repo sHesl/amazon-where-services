@@ -3,6 +3,7 @@ acm
 acm-pca
 airflow
 api.ecr
+api.mediatailor
 api.sagemaker
 api.tunneling.iot
 apigateway
