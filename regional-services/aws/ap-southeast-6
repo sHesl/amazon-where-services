@@ -49,6 +49,7 @@ kinesisanalytics
 kms
 lakeformation
 lambda
+license-manager
 logs
 metrics.sagemaker
 monitoring

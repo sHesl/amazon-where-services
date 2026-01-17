@@ -74,6 +74,7 @@ rds
 redshift
 resource-groups
 rolesanywhere
+route53profiles
 route53resolver
 s3
 s3-control
