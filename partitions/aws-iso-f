@@ -13,6 +13,7 @@ athena
 autoscaling
 backup
 batch
+bedrock
 budgets
 ce
 cloudcontrolapi

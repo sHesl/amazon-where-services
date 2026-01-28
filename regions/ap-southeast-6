@@ -12,6 +12,7 @@ athena
 autoscaling
 backup
 batch
+bedrock
 cloudcontrolapi
 cloudformation
 cloudtrail
