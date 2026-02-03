@@ -49,6 +49,7 @@ elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
 email
+emr-serverless
 es
 events
 firehose

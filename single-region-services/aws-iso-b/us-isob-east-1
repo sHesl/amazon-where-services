@@ -2,6 +2,7 @@ agreement-marketplace
 api.pricing
 api.sagemaker
 apigateway
+appstream2
 athena
 backup
 bedrock
