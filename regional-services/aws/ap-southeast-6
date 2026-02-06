@@ -70,6 +70,7 @@ redshift-serverless
 resource-explorer-2
 resource-groups
 rolesanywhere
+route53profiles
 route53resolver
 s3
 scheduler
@@ -77,6 +78,7 @@ secretsmanager
 securityhub
 servicediscovery
 servicequotas
+sms-voice
 sns
 sqs
 ssm
