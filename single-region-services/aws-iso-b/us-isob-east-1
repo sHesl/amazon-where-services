@@ -23,7 +23,6 @@ network-firewall
 outposts
 route53resolver
 runtime.sagemaker
-securityhub
 snowball
 support
 wafv2

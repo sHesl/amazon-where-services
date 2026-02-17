@@ -38,6 +38,7 @@ resource-groups
 s3
 scheduler
 secretsmanager
+securityhub
 servicediscovery
 servicequotas
 sns
