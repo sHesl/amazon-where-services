@@ -98,7 +98,6 @@ emr-containers
 emr-serverless
 es
 events
-evidently
 finspace
 firehose
 fms
@@ -120,7 +119,6 @@ inspector
 inspector2
 internetmonitor
 iot
-iotanalytics
 iotevents
 ioteventsdata
 iotsecuredtunneling

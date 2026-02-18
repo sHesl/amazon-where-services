@@ -80,7 +80,6 @@ emr-containers
 emr-serverless
 es
 events
-evidently
 firehose
 fms
 fsx
