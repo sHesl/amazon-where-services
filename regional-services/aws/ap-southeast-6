@@ -84,6 +84,7 @@ sms-voice
 sns
 sqs
 ssm
+sso
 states
 storagegateway
 streams.dynamodb
