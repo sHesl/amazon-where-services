@@ -17,6 +17,8 @@ cloudcontrolapi
 cloudformation
 cloudtrail
 codedeploy
+cognito-identity
+cognito-idp
 config
 controltower
 datasync
