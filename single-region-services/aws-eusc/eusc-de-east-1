@@ -63,6 +63,7 @@ logs
 metering.marketplace
 metrics.sagemaker
 monitoring
+network-firewall
 notifications
 oam
 pi
