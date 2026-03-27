@@ -21,7 +21,6 @@ metering.marketplace
 metrics.sagemaker
 network-firewall
 outposts
-route53resolver
 runtime.sagemaker
 snowball
 support
