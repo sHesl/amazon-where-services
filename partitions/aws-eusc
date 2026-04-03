@@ -67,7 +67,9 @@ monitoring
 network-firewall
 notifications
 oam
+oidc
 pi
+portal.sso
 qbusiness
 ram
 rbin
@@ -91,6 +93,7 @@ sms-voice
 sns
 sqs
 ssm
+sso
 states
 storagegateway
 streams.dynamodb

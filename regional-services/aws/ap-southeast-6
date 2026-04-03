@@ -42,6 +42,7 @@ events
 firehose
 fms
 gameliftstreams
+globalaccelerator
 glue
 guardduty
 identitystore
