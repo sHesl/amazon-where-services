@@ -9,6 +9,7 @@ aoss
 api.detective
 api.ecr
 api.sagemaker
+api.tunneling.iot
 apigateway
 appconfig
 appconfigdata
@@ -43,6 +44,7 @@ cognito-idp
 compute-optimizer
 config
 controltower
+data-ats.iot
 databrew
 datasync
 datazone
@@ -79,6 +81,7 @@ guardduty
 identitystore
 inspector2
 internetmonitor
+iot
 kafka
 kafkaconnect
 kendra-ranking
