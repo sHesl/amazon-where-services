@@ -15,6 +15,7 @@ batch
 bedrock
 cloudcontrolapi
 cloudformation
+cloudhsmv2
 cloudtrail
 codedeploy
 cognito-identity
@@ -59,6 +60,7 @@ license-manager
 license-manager-linux-subscriptions
 logs
 metrics.sagemaker
+mgn
 monitoring
 mq
 network-firewall
