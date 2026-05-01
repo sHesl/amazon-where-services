@@ -8,7 +8,6 @@ backup
 bedrock
 codebuild
 datasync
-firehose
 fsx
 glue
 guardduty
