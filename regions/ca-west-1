@@ -97,6 +97,7 @@ s3-control
 scheduler
 secretsmanager
 securityhub
+servicecatalog
 servicecatalog-appregistry
 servicediscovery
 servicequotas

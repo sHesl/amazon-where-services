@@ -86,6 +86,7 @@ s3
 scheduler
 secretsmanager
 securityhub
+servicecatalog
 servicediscovery
 servicequotas
 sms-voice
