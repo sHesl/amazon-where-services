@@ -42,6 +42,7 @@ elasticbeanstalk
 elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
+emr-serverless
 es
 events
 firehose
