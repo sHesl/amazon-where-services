@@ -20,6 +20,7 @@ cloudcontrolapi
 cloudformation
 cloudhsmv2
 cloudtrail
+codebuild
 codedeploy
 cognito-identity
 cognito-idp
