@@ -3,6 +3,7 @@ acm
 acm-pca
 api.ecr
 api.pricing
+api.sagemaker
 apigateway
 appconfig
 appconfigdata
