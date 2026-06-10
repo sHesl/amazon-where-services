@@ -68,6 +68,7 @@ s3
 scheduler
 schemas
 secretsmanager
+securityhub
 servicediscovery
 servicequotas
 sns
