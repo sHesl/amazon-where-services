@@ -7,7 +7,6 @@ athena
 backup
 bedrock
 codebuild
-datasync
 fsx
 glue
 guardduty
