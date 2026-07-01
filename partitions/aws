@@ -146,8 +146,6 @@ inspector
 inspector2
 internetmonitor
 iot
-iotevents
-ioteventsdata
 iotfleetwise
 iotsecuredtunneling
 iotsitewise
@@ -265,7 +263,6 @@ servicediscovery
 servicequotas
 shield
 signer
-simspaceweaver
 sms-voice
 snowball
 sns

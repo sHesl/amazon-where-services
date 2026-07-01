@@ -44,8 +44,6 @@ identitystore
 inspector
 inspector2
 iot
-iotevents
-ioteventsdata
 iotsecuredtunneling
 iotsitewise
 iottwinmaker
@@ -81,7 +79,6 @@ s3-outposts
 securityhub
 servicequotas
 signer
-simspaceweaver
 sms-voice
 snowball
 sns
