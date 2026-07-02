@@ -28,6 +28,7 @@ datazone
 directconnect
 dlm
 dms
+drs
 dynamodb
 ebs
 ec2
