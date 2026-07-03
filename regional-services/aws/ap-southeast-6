@@ -19,6 +19,7 @@ cloudhsmv2
 cloudtrail
 codebuild
 codedeploy
+codepipeline
 cognito-identity
 cognito-idp
 config
