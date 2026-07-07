@@ -46,6 +46,7 @@ firehose
 fsx
 glue
 guardduty
+health
 iam
 identitystore
 kinesis

@@ -39,6 +39,7 @@ es
 events
 firehose
 glue
+health
 kinesis
 kms
 lakeformation

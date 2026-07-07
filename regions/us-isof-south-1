@@ -45,6 +45,7 @@ firehose
 fsx
 glue
 guardduty
+health
 kinesis
 kms
 lakeformation
