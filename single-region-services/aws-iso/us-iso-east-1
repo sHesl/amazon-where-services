@@ -3,7 +3,6 @@ api.sagemaker
 athena
 datapipeline
 glue
-guardduty
 health
 kinesisanalytics
 kinesisvideo

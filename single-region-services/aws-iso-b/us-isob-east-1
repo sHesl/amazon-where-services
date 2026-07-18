@@ -4,7 +4,6 @@ api.sagemaker
 apigateway
 appstream2
 athena
-backup
 bedrock
 codebuild
 fsx

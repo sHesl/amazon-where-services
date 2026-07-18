@@ -37,6 +37,7 @@ events
 firehose
 fsx
 glacier
+guardduty
 kinesis
 kms
 lambda

@@ -43,6 +43,7 @@ elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
 email
+emr-serverless
 entitlement.marketplace
 es
 events
