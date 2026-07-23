@@ -32,6 +32,7 @@ datazone
 directconnect
 dlm
 dms
+drs
 ds
 dynamodb
 ebs
