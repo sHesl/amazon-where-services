@@ -21,7 +21,9 @@ cloudformation
 cloudtrail
 codebuild
 codedeploy
+compute-optimizer
 config
+cost-optimization-hub
 datasync
 directconnect
 dlm

@@ -22,7 +22,9 @@ cloudtrail
 codebuild
 codedeploy
 comprehend
+compute-optimizer
 config
+cost-optimization-hub
 datapipeline
 datasync
 directconnect

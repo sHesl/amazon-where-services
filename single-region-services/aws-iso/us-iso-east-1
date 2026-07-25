@@ -1,6 +1,8 @@
 api.pricing
 api.sagemaker
 athena
+compute-optimizer
+cost-optimization-hub
 datapipeline
 glue
 health

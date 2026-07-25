@@ -6,6 +6,8 @@ appstream2
 athena
 bedrock
 codebuild
+compute-optimizer
+cost-optimization-hub
 fsx
 glue
 guardduty
