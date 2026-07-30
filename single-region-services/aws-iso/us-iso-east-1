@@ -4,6 +4,7 @@ athena
 compute-optimizer
 cost-optimization-hub
 datapipeline
+emr-serverless
 glue
 health
 kinesisanalytics

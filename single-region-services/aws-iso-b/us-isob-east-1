@@ -8,6 +8,7 @@ bedrock
 codebuild
 compute-optimizer
 cost-optimization-hub
+emr-serverless
 fsx
 glue
 guardduty
