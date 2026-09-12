@@ -29,6 +29,7 @@ config
 controltower
 datasync
 datazone
+dax
 directconnect
 dlm
 dms
