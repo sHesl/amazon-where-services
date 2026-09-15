@@ -21,6 +21,7 @@ autoscaling
 backup
 batch
 bedrock
+cassandra
 cloud9
 cloudcontrolapi
 cloudformation

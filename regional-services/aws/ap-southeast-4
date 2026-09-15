@@ -18,6 +18,7 @@ autoscaling
 backup
 batch
 bedrock
+cassandra
 cloudcontrolapi
 cloudformation
 cloudtrail
