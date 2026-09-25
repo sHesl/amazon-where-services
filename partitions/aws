@@ -117,6 +117,7 @@ emr-serverless
 entitlement.marketplace
 es
 events
+eventsv2
 finspace
 finspace-api
 firehose

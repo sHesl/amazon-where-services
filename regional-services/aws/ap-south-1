@@ -84,6 +84,7 @@ emr-containers
 emr-serverless
 es
 events
+eventsv2
 firehose
 fms
 forecast

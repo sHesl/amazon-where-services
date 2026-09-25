@@ -49,6 +49,7 @@ elasticmapreduce
 emr-serverless
 es
 events
+eventsv2
 firehose
 fms
 fsx
