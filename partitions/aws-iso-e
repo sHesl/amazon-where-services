@@ -63,6 +63,7 @@ rolesanywhere
 route53
 route53profiles
 route53resolver
+runtime.sagemaker
 s3
 savingsplans
 scheduler
