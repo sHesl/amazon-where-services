@@ -55,6 +55,7 @@ guardduty
 identitystore
 internetmonitor
 kafka
+kafkaconnect
 kendra-ranking
 kinesis
 kinesisanalytics
