@@ -9,6 +9,7 @@ appconfig
 appconfigdata
 application-autoscaling
 appstream2
+aps
 arc-zonal-shift
 athena
 autoscaling
