@@ -118,8 +118,6 @@ entitlement.marketplace
 es
 events
 eventsv2
-finspace
-finspace-api
 firehose
 fms
 forecast
@@ -286,7 +284,6 @@ tagging
 tax
 textract
 thinclient
-tnb
 transcribe
 transcribestreaming
 transfer

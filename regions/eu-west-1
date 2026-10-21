@@ -96,8 +96,6 @@ emr-serverless
 es
 events
 eventsv2
-finspace
-finspace-api
 firehose
 fms
 forecast

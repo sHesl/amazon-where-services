@@ -103,8 +103,6 @@ emr-serverless
 es
 events
 eventsv2
-finspace
-finspace-api
 firehose
 fms
 forecast
@@ -245,7 +243,6 @@ synthetics
 tagging
 textract
 thinclient
-tnb
 transcribe
 transcribestreaming
 transfer
