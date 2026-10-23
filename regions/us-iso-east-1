@@ -52,6 +52,7 @@ glue
 guardduty
 health
 iam
+kafka
 kinesis
 kinesisanalytics
 kinesisvideo
