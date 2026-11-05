@@ -18,7 +18,9 @@ bedrock
 cloudcontrolapi
 cloudformation
 cloudtrail
+codebuild
 codedeploy
+codepipeline
 cognito-identity
 cognito-idp
 compute-optimizer
@@ -110,5 +112,6 @@ tagging
 transcribestreaming
 transfer
 trustedadvisor
+verifiedpermissions
 wafv2
 xray
