@@ -39,6 +39,7 @@ es
 events
 firehose
 glue
+guardduty
 health
 kinesis
 kms

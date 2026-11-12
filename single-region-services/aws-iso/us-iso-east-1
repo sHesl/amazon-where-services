@@ -20,4 +20,5 @@ runtime.sagemaker
 support
 textract
 transcribestreaming
+verifiedpermissions
 wafv2

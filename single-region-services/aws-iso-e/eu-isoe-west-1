@@ -37,6 +37,7 @@ es
 events
 firehose
 glue
+guardduty
 kinesis
 lakeformation
 lambda
