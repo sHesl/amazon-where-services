@@ -101,6 +101,7 @@ route53resolver
 rum
 runtime.sagemaker
 s3
+s3-control
 scheduler
 secretsmanager
 securityhub
