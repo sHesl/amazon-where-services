@@ -46,6 +46,7 @@ elasticfilesystem
 elasticloadbalancing
 elasticmapreduce
 email
+emr-containers
 emr-serverless
 entitlement.marketplace
 es
