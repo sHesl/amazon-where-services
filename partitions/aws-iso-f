@@ -5,6 +5,7 @@ agreement-marketplace
 api.ecr
 api.pricing
 api.sagemaker
+apigateway
 appconfig
 appconfigdata
 application-autoscaling

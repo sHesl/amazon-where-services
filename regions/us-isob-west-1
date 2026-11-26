@@ -41,6 +41,7 @@ rbin
 rds
 redshift
 resource-groups
+route53profiles
 route53resolver
 s3
 scheduler
